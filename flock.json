@@ -1,0 +1,8707 @@
+{
+	"_id": {
+		"$oid": "5eaebfd66933504a671bed09"
+	},
+	"name": "Flock-1",
+	"birdCount": 1500,
+	"farmId": {
+		"$oid": "5eaebfd66933504a671bed07"
+	},
+	"createdAt": {
+		"$date": "2020-05-03T12:57:58.061Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-10T08:23:25.487Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-03-31T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"name": "Flock-1",
+	"birdCount": 5200,
+	"farmId": {
+		"$oid": "5eaec2c06933504a671bed32"
+	},
+	"createdAt": {
+		"$date": "2020-05-03T13:10:24.289Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-03T13:11:23.441Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-09-17T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eafe5876933504a671bed5a"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5eafe5876933504a671bed58"
+	},
+	"createdAt": {
+		"$date": "2020-05-04T09:51:03.531Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-04T09:51:03.531Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eafe92f6933504a671bed7a"
+	},
+	"name": "Flock-1",
+	"birdCount": 10000,
+	"farmId": {
+		"$oid": "5eafe92f6933504a671bed78"
+	},
+	"createdAt": {
+		"$date": "2020-05-04T10:06:39.872Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-04T10:09:16.143Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-12-31T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eb40f376933504a671beda0"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5eb40f376933504a671bed9e"
+	},
+	"createdAt": {
+		"$date": "2020-05-07T13:37:59.020Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-07T13:37:59.020Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eb7297b6933504a671bedc0"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5eb7297b6933504a671bedbe"
+	},
+	"createdAt": {
+		"$date": "2020-05-09T22:06:51.674Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-09T22:06:51.674Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec20ee18e0e0d2d80ec4505"
+	},
+	"name": "Flock-1",
+	"birdCount": 2000,
+	"farmId": {
+		"$oid": "5ec20ee18e0e0d2d80ec4503"
+	},
+	"createdAt": {
+		"$date": "2020-05-18T04:28:17.526Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-10T13:11:57.900Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-06-09T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec210c88e0e0d2d80ec4528"
+	},
+	"name": "Bapuji",
+	"birdCount": 2000,
+	"chickPlacementDate": {
+		"$date": "2020-05-16T18:30:00.000Z"
+	},
+	"farmId": {
+		"$oid": "5ec20ee18e0e0d2d80ec4503"
+	},
+	"createdAt": {
+		"$date": "2020-05-18T04:36:24.970Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-18T04:36:24.970Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec24e038e0e0d2d80ec4546"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ec24e038e0e0d2d80ec4544"
+	},
+	"createdAt": {
+		"$date": "2020-05-18T08:57:39.213Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-18T08:57:39.213Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec298c68e0e0d2d80ec456f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ec298c68e0e0d2d80ec456d"
+	},
+	"createdAt": {
+		"$date": "2020-05-18T14:16:38.795Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-18T14:16:38.796Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec3722e8e0e0d2d80ec458f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ec3722e8e0e0d2d80ec458d"
+	},
+	"createdAt": {
+		"$date": "2020-05-19T05:44:14.096Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-19T05:44:14.096Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec3cb138e0e0d2d80ec45af"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ec3cb138e0e0d2d80ec45ad"
+	},
+	"createdAt": {
+		"$date": "2020-05-19T12:03:31.332Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-19T12:03:31.332Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec41c2b8e0e0d2d80ec45cf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ec41c2b8e0e0d2d80ec45cd"
+	},
+	"createdAt": {
+		"$date": "2020-05-19T17:49:31.791Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-19T17:49:31.791Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec517d78e0e0d2d80ec45ef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ec517d78e0e0d2d80ec45ed"
+	},
+	"createdAt": {
+		"$date": "2020-05-20T11:43:19.621Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-20T11:43:19.621Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec563208e0e0d2d80ec460f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ec563208e0e0d2d80ec460d"
+	},
+	"createdAt": {
+		"$date": "2020-05-20T17:04:32.716Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-20T17:04:32.716Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec62ddc8e0e0d2d80ec462f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ec62ddc8e0e0d2d80ec462d"
+	},
+	"createdAt": {
+		"$date": "2020-05-21T07:29:32.044Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-21T07:29:32.044Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec7328f391f4368fabac398"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ec7328f391f4368fabac396"
+	},
+	"createdAt": {
+		"$date": "2020-05-22T02:01:51.148Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-22T02:01:51.148Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec7f78f391f4368fabac3c6"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ec7f78f391f4368fabac3c4"
+	},
+	"createdAt": {
+		"$date": "2020-05-22T16:02:23.017Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-22T16:02:23.017Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec96204391f4368fabac3f7"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ec96204391f4368fabac3f5"
+	},
+	"createdAt": {
+		"$date": "2020-05-23T17:48:52.039Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-23T17:48:52.039Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec96702391f4368fabac417"
+	},
+	"name": "Flock-1",
+	"birdCount": 10000,
+	"farmId": {
+		"$oid": "5ec96702391f4368fabac415"
+	},
+	"createdAt": {
+		"$date": "2020-05-23T18:10:10.271Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-23T18:16:12.520Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-10-12T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eca982895ef210cef5b7dc7"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5eca982895ef210cef5b7dc5"
+	},
+	"createdAt": {
+		"$date": "2020-05-24T15:52:08.037Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-24T15:52:08.037Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecc25006ca39b12d9f4d6aa"
+	},
+	"name": "Flock-1",
+	"birdCount": 12481,
+	"farmId": {
+		"$oid": "5ecc25006ca39b12d9f4d6a8"
+	},
+	"createdAt": {
+		"$date": "2020-05-25T20:05:20.326Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-25T21:48:16.437Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-05-11T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecd10ae6ca39b12d9f4d6cd"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ecd10ae6ca39b12d9f4d6cb"
+	},
+	"createdAt": {
+		"$date": "2020-05-26T12:50:54.815Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-26T12:50:54.815Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ece618283e36e21dcd4a887"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ece618283e36e21dcd4a885"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T12:48:02.903Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T12:48:02.903Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ece624b83e36e21dcd4a8a7"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ece624b83e36e21dcd4a8a5"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T12:51:23.640Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T12:51:23.640Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ece631283e36e21dcd4a8c6"
+	},
+	"name": "Abc",
+	"birdCount": 1000,
+	"chickPlacementDate": {
+		"$date": "2020-05-26T18:30:00.000Z"
+	},
+	"farmId": {
+		"$oid": "5ece624b83e36e21dcd4a8a5"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T12:54:42.753Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T12:54:42.753Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ece644383e36e21dcd4a8cc"
+	},
+	"name": "My flock",
+	"birdCount": 1000,
+	"chickPlacementDate": {
+		"$date": "2020-04-30T18:30:00.000Z"
+	},
+	"farmId": {
+		"$oid": "5ece618283e36e21dcd4a885"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T12:59:47.591Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T12:59:47.591Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea84383e36e21dcd4a8fd"
+	},
+	"name": "Flock-1",
+	"birdCount": 10000,
+	"farmId": {
+		"$oid": "5ecea84383e36e21dcd4a8fb"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:49:55.262Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:58:21.014Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-10-07T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5b39383e36e21dcd4a994"
+	},
+	"name": "Flock-1",
+	"birdCount": 200,
+	"farmId": {
+		"$oid": "5ed5b39383e36e21dcd4a992"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T02:04:03.872Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T02:05:57.675Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-05-31T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5f7e083e36e21dcd4a9b7"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ed5f7e083e36e21dcd4a9b5"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T06:55:28.640Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T06:55:28.640Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d7"
+	},
+	"name": "Flock-1",
+	"birdCount": 8500,
+	"farmId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d5"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T06:59:59.231Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:09:05.260Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-05-01T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5f8f383e36e21dcd4a9f7"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ed5f8f383e36e21dcd4a9f5"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:00:03.130Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:00:03.130Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5f9fb83e36e21dcd4aa17"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ed5f9fb83e36e21dcd4aa15"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:04:27.102Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:04:27.102Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5fa5283e36e21dcd4aa3a"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ed5fa5283e36e21dcd4aa38"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:05:54.496Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:05:54.496Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5fb0083e36e21dcd4aa5a"
+	},
+	"name": "Flock-1",
+	"birdCount": 12000,
+	"farmId": {
+		"$oid": "5ed5fb0083e36e21dcd4aa58"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:08:48.406Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-16T09:20:29.066Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-09-08T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6014283e36e21dcd4aa80"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ed6014283e36e21dcd4aa7e"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:35:30.132Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:35:30.132Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6059783e36e21dcd4aaa0"
+	},
+	"name": "Flock-1",
+	"birdCount": 5810,
+	"farmId": {
+		"$oid": "5ed6059783e36e21dcd4aa9e"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:53:59.878Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T08:01:28.288Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-03-07T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6060f83e36e21dcd4aac0"
+	},
+	"name": "Flock-1",
+	"birdCount": 14900,
+	"farmId": {
+		"$oid": "5ed6060f83e36e21dcd4aabe"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:55:59.035Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T08:02:20.533Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-08-07T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6146c83e36e21dcd4aafe"
+	},
+	"name": "Flock-1",
+	"birdCount": 5200,
+	"farmId": {
+		"$oid": "5ed6146c83e36e21dcd4aafc"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T08:57:16.598Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T08:53:03.880Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-06-26T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6156983e36e21dcd4ab1e"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ed6156983e36e21dcd4ab1c"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T09:01:29.918Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T09:01:29.918Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6653583e36e21dcd4ab3e"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ed6653583e36e21dcd4ab3c"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T14:41:57.146Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T14:41:57.146Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed66d2e83e36e21dcd4ab5e"
+	},
+	"name": "Flock-1",
+	"birdCount": 9100,
+	"farmId": {
+		"$oid": "5ed66d2e83e36e21dcd4ab5c"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T15:15:58.452Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T15:19:34.284Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-12-15T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed682ae83e36e21dcd4ab84"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ed682ae83e36e21dcd4ab82"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T16:47:42.080Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T16:47:42.080Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed75a90e462ae7e1dfbac02"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ed75a90e462ae7e1dfbac00"
+	},
+	"createdAt": {
+		"$date": "2020-06-03T08:08:48.868Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-03T08:08:48.868Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8c940e462ae7e1dfbac25"
+	},
+	"name": "Flock-1",
+	"birdCount": 10000,
+	"farmId": {
+		"$oid": "5ed8c940e462ae7e1dfbac23"
+	},
+	"createdAt": {
+		"$date": "2020-06-04T10:13:20.939Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T10:16:42.009Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-06-29T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8ce5ee462ae7e1dfbac48"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ed8ce5ee462ae7e1dfbac46"
+	},
+	"createdAt": {
+		"$date": "2020-06-04T10:35:10.906Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T10:35:10.906Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8d1b4e462ae7e1dfbac68"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ed8d1b4e462ae7e1dfbac66"
+	},
+	"createdAt": {
+		"$date": "2020-06-04T10:49:24.581Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T10:49:24.581Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8d1e4e462ae7e1dfbac88"
+	},
+	"name": "Flock-1",
+	"birdCount": 8669,
+	"farmId": {
+		"$oid": "5ed8d1e4e462ae7e1dfbac86"
+	},
+	"createdAt": {
+		"$date": "2020-06-04T10:50:12.714Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T10:55:03.440Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-06-23T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8f0ede462ae7e1dfbacab"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ed8f0ede462ae7e1dfbaca9"
+	},
+	"createdAt": {
+		"$date": "2020-06-04T13:02:37.854Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T13:02:37.854Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed9ac98e462ae7e1dfbaccb"
+	},
+	"name": "Flock-1",
+	"birdCount": 9000,
+	"farmId": {
+		"$oid": "5ed9ac98e462ae7e1dfbacc9"
+	},
+	"createdAt": {
+		"$date": "2020-06-05T02:23:20.531Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-05T02:31:30.610Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-05-01T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edcee15e462ae7e1dfbacee"
+	},
+	"name": "Flock-1",
+	"birdCount": 1000,
+	"farmId": {
+		"$oid": "5edcee15e462ae7e1dfbacec"
+	},
+	"createdAt": {
+		"$date": "2020-06-07T13:39:33.345Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-07T13:40:58.383Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-06-06T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edefed6e462ae7e1dfbad11"
+	},
+	"name": "Flock-1",
+	"birdCount": 5000,
+	"farmId": {
+		"$oid": "5edefed6e462ae7e1dfbad0f"
+	},
+	"createdAt": {
+		"$date": "2020-06-09T03:15:34.823Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-09T03:17:44.537Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-07-06T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edfb290e462ae7e1dfbad3d"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5edfb290e462ae7e1dfbad3b"
+	},
+	"createdAt": {
+		"$date": "2020-06-09T16:02:24.978Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-09T16:02:24.978Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee59b62e462ae7e1dfbad65"
+	},
+	"name": "Flock-1",
+	"birdCount": 6500,
+	"farmId": {
+		"$oid": "5ee59b62e462ae7e1dfbad63"
+	},
+	"createdAt": {
+		"$date": "2020-06-14T03:37:06.128Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-14T03:39:26.895Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-05-13T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee632ede462ae7e1dfbad85"
+	},
+	"name": "SkKp02",
+	"birdCount": 5850,
+	"chickPlacementDate": {
+		"$date": "2019-08-31T18:30:00.000Z"
+	},
+	"farmId": {
+		"$oid": "5ed5fb0083e36e21dcd4aa58"
+	},
+	"createdAt": {
+		"$date": "2020-06-14T14:23:41.592Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-14T14:23:41.592Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee99bd1e462ae7e1dfbad90"
+	},
+	"name": "Flock-1",
+	"birdCount": 6000,
+	"farmId": {
+		"$oid": "5ee99bd1e462ae7e1dfbad8e"
+	},
+	"createdAt": {
+		"$date": "2020-06-17T04:28:01.895Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-17T04:32:52.537Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-05-18T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eeb5512e462ae7e1dfbadb9"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5eeb5512e462ae7e1dfbadb7"
+	},
+	"createdAt": {
+		"$date": "2020-06-18T11:50:42.049Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-18T11:50:42.049Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eec3c7ae462ae7e1dfbaddc"
+	},
+	"name": "Flock-1",
+	"birdCount": 6000,
+	"farmId": {
+		"$oid": "5eec3c7ae462ae7e1dfbadda"
+	},
+	"createdAt": {
+		"$date": "2020-06-19T04:18:02.019Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-19T04:21:19.317Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-04-30T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ef050dcb3b83304311f4755"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ef050dcb3b83304311f4753"
+	},
+	"createdAt": {
+		"$date": "2020-06-22T06:34:04.027Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-22T06:34:04.027Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ef499d8b03d07272bbdccfa"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ef499d8b03d07272bbdccf8"
+	},
+	"createdAt": {
+		"$date": "2020-06-25T12:34:32.643Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-25T12:34:32.643Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ef7a4bcb03d07272bbdcd1c"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ef7a4bcb03d07272bbdcd1a"
+	},
+	"createdAt": {
+		"$date": "2020-06-27T19:57:48.345Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-27T19:57:48.345Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5efaef9ab03d07272bbdcd3c"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5efaef9ab03d07272bbdcd3a"
+	},
+	"createdAt": {
+		"$date": "2020-06-30T07:54:02.938Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-30T07:54:02.938Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f04b046b03d07272bbdcd5c"
+	},
+	"name": "Flock-1",
+	"birdCount": 1000,
+	"farmId": {
+		"$oid": "5f04b046b03d07272bbdcd5a"
+	},
+	"createdAt": {
+		"$date": "2020-07-07T17:26:30.023Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-07T17:28:43.882Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-06-30T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f086c62b03d07272bbdcd85"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f086c62b03d07272bbdcd83"
+	},
+	"createdAt": {
+		"$date": "2020-07-10T13:25:54.054Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-10T13:25:54.054Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f107afeb03d07272bbdcdc7"
+	},
+	"name": "Flock-1",
+	"birdCount": 100,
+	"farmId": {
+		"$oid": "5f107afeb03d07272bbdcdc5"
+	},
+	"createdAt": {
+		"$date": "2020-07-16T16:06:22.402Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-06T13:36:57.824Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-08-12T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f109479b03d07272bbdcde7"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f109479b03d07272bbdcde5"
+	},
+	"createdAt": {
+		"$date": "2020-07-16T17:55:05.205Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-16T17:55:05.205Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f11be0ab03d07272bbdce0a"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f11be0ab03d07272bbdce08"
+	},
+	"createdAt": {
+		"$date": "2020-07-17T15:04:42.567Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-17T15:04:42.567Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f160460b03d07272bbdce2a"
+	},
+	"name": "Flock-1",
+	"birdCount": 12000,
+	"farmId": {
+		"$oid": "5f160460b03d07272bbdce28"
+	},
+	"createdAt": {
+		"$date": "2020-07-20T20:53:52.840Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-20T20:56:04.752Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-07-09T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f1e8b16b03d07272bbdce4f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f1e8b16b03d07272bbdce4d"
+	},
+	"createdAt": {
+		"$date": "2020-07-27T08:06:46.491Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-27T08:06:46.491Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f22e83eb03d07272bbdce6f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f22e83eb03d07272bbdce6d"
+	},
+	"createdAt": {
+		"$date": "2020-07-30T15:33:18.333Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-30T15:33:18.333Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f2391aeb03d07272bbdce8f"
+	},
+	"name": "Flock-1",
+	"birdCount": 750,
+	"farmId": {
+		"$oid": "5f2391aeb03d07272bbdce8d"
+	},
+	"createdAt": {
+		"$date": "2020-07-31T03:36:14.266Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-31T03:39:09.642Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-04-30T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f268dedb03d07272bbdceb2"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f268dedb03d07272bbdceb0"
+	},
+	"createdAt": {
+		"$date": "2020-08-02T09:57:01.265Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-02T09:57:01.265Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f296906b03d07272bbdced2"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f296906b03d07272bbdced0"
+	},
+	"createdAt": {
+		"$date": "2020-08-04T13:56:22.758Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-04T13:56:22.758Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f2c5c57b03d07272bbdcef5"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f2c5c57b03d07272bbdcef3"
+	},
+	"createdAt": {
+		"$date": "2020-08-06T19:39:03.149Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-06T19:39:03.149Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f2d5762b03d07272bbdcf15"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f2d5762b03d07272bbdcf13"
+	},
+	"createdAt": {
+		"$date": "2020-08-07T13:30:10.143Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-07T13:30:10.143Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f2ee27ab03d07272bbdcf35"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f2ee27ab03d07272bbdcf33"
+	},
+	"createdAt": {
+		"$date": "2020-08-08T17:35:54.448Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-08T17:35:54.448Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f301289b03d07272bbdcf55"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f301289b03d07272bbdcf53"
+	},
+	"createdAt": {
+		"$date": "2020-08-09T15:13:13.124Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-09T15:13:13.124Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f3013ecb03d07272bbdcf79"
+	},
+	"name": "2",
+	"birdCount": 23899,
+	"chickPlacementDate": {
+		"$date": "2020-08-01T18:30:00.000Z"
+	},
+	"farmId": {
+		"$oid": "5f301289b03d07272bbdcf53"
+	},
+	"createdAt": {
+		"$date": "2020-08-09T15:19:08.173Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-09T15:19:08.173Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f317689b03d07272bbdcf8b"
+	},
+	"name": "Flock-1",
+	"birdCount": 7,
+	"farmId": {
+		"$oid": "5f317689b03d07272bbdcf89"
+	},
+	"createdAt": {
+		"$date": "2020-08-10T16:32:09.959Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-10T16:33:00.653Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-08-09T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f323863b03d07272bbdcfae"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f323863b03d07272bbdcfac"
+	},
+	"createdAt": {
+		"$date": "2020-08-11T06:19:15.920Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-11T06:19:15.920Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f362cdab03d07272bbdcfce"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f362cdab03d07272bbdcfcc"
+	},
+	"createdAt": {
+		"$date": "2020-08-14T06:19:06.823Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-14T06:19:06.823Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f3798b3b03d07272bbdcff0"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f3798b3b03d07272bbdcfee"
+	},
+	"createdAt": {
+		"$date": "2020-08-15T08:11:31.768Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-15T08:11:31.768Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f37b140b03d07272bbdd010"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f37b140b03d07272bbdd00e"
+	},
+	"createdAt": {
+		"$date": "2020-08-15T09:56:16.092Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-15T09:56:16.092Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f37cbd2b03d07272bbdd030"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f37cbd2b03d07272bbdd02e"
+	},
+	"createdAt": {
+		"$date": "2020-08-15T11:49:38.738Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-15T11:49:38.738Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f37f9c8b03d07272bbdd050"
+	},
+	"name": "Flock-1",
+	"birdCount": 100,
+	"farmId": {
+		"$oid": "5f37f9c8b03d07272bbdd04e"
+	},
+	"createdAt": {
+		"$date": "2020-08-15T15:05:44.158Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-15T15:08:33.679Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-12-31T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f38eaa5b03d07272bbdd073"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f38eaa5b03d07272bbdd071"
+	},
+	"createdAt": {
+		"$date": "2020-08-16T08:13:25.967Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-16T08:13:25.967Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f410c3bb03d07272bbdd093"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f410c3bb03d07272bbdd091"
+	},
+	"createdAt": {
+		"$date": "2020-08-22T12:14:51.413Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-22T12:14:51.413Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f415fbcb03d07272bbdd0b3"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f415fbcb03d07272bbdd0b1"
+	},
+	"createdAt": {
+		"$date": "2020-08-22T18:11:08.733Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-22T18:11:08.733Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f41f9e9b03d07272bbdd0d5"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f41f9e9b03d07272bbdd0d3"
+	},
+	"createdAt": {
+		"$date": "2020-08-23T05:08:57.359Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-23T05:08:57.360Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f438533b03d07272bbdd0f5"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f438533b03d07272bbdd0f3"
+	},
+	"createdAt": {
+		"$date": "2020-08-24T09:15:31.254Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-24T09:15:31.254Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f444fdcb03d07272bbdd115"
+	},
+	"name": "Flock-1",
+	"birdCount": 5000,
+	"farmId": {
+		"$oid": "5f444fdcb03d07272bbdd113"
+	},
+	"createdAt": {
+		"$date": "2020-08-24T23:40:12.765Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-24T23:43:08.800Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-08-24T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f49cfbfb03d07272bbdd13f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f49cfbfb03d07272bbdd13d"
+	},
+	"createdAt": {
+		"$date": "2020-08-29T03:47:11.025Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-29T03:47:11.025Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f4ca13cb03d07272bbdd15f"
+	},
+	"name": "Flock-1",
+	"birdCount": 3400,
+	"farmId": {
+		"$oid": "5f4ca13cb03d07272bbdd15d"
+	},
+	"createdAt": {
+		"$date": "2020-08-31T07:05:32.661Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-31T07:07:14.510Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-06-07T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f4cb845b03d07272bbdd182"
+	},
+	"name": "Flock-1",
+	"birdCount": 8000,
+	"farmId": {
+		"$oid": "5f4cb845b03d07272bbdd180"
+	},
+	"createdAt": {
+		"$date": "2020-08-31T08:43:49.701Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-31T08:45:54.007Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-07-21T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f4de2d8b03d07272bbdd1a8"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f4de2d8b03d07272bbdd1a6"
+	},
+	"createdAt": {
+		"$date": "2020-09-01T05:57:44.734Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-01T05:57:44.734Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5094d3b03d07272bbdd1ca"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f5094d3b03d07272bbdd1c8"
+	},
+	"createdAt": {
+		"$date": "2020-09-03T07:01:39.499Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-03T07:01:39.499Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f518de7b03d07272bbdd1ea"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f518de7b03d07272bbdd1e8"
+	},
+	"createdAt": {
+		"$date": "2020-09-04T00:44:23.649Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-04T00:44:23.649Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f518e33b03d07272bbdd20a"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f518e33b03d07272bbdd208"
+	},
+	"createdAt": {
+		"$date": "2020-09-04T00:45:39.353Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-04T00:45:39.353Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5327e8b03d07272bbdd22a"
+	},
+	"name": "Flock-1",
+	"birdCount": 2300,
+	"farmId": {
+		"$oid": "5f5327e8b03d07272bbdd228"
+	},
+	"createdAt": {
+		"$date": "2020-09-05T05:53:44.265Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-05T05:58:28.127Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-07-22T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f53c9b7b03d07272bbdd24d"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f53c9b7b03d07272bbdd24b"
+	},
+	"createdAt": {
+		"$date": "2020-09-05T17:24:07.691Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-05T17:24:07.691Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f54a71db03d07272bbdd26d"
+	},
+	"name": "Flock-1",
+	"birdCount": 5000,
+	"farmId": {
+		"$oid": "5f54a71db03d07272bbdd26b"
+	},
+	"createdAt": {
+		"$date": "2020-09-06T09:08:45.418Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-06T09:15:25.921Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-02-10T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f54ff11b03d07272bbdd296"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f54ff11b03d07272bbdd294"
+	},
+	"createdAt": {
+		"$date": "2020-09-06T15:24:01.676Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-06T15:24:01.676Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f55c435b03d07272bbdd2b6"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f55c435b03d07272bbdd2b4"
+	},
+	"createdAt": {
+		"$date": "2020-09-07T05:25:09.503Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-07T05:25:09.503Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f55de5db03d07272bbdd2d6"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f55de5db03d07272bbdd2d4"
+	},
+	"createdAt": {
+		"$date": "2020-09-07T07:16:45.852Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-07T07:16:45.852Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f579cf7b03d07272bbdd2f6"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f579cf7b03d07272bbdd2f4"
+	},
+	"createdAt": {
+		"$date": "2020-09-08T15:02:15.565Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-08T15:02:15.565Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f591a71b03d07272bbdd316"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f591a71b03d07272bbdd314"
+	},
+	"createdAt": {
+		"$date": "2020-09-09T18:09:53.370Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-09T18:09:53.370Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f59ac9fb03d07272bbdd336"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f59ac9fb03d07272bbdd334"
+	},
+	"createdAt": {
+		"$date": "2020-09-10T04:33:35.818Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-10T04:33:35.818Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f59eb07b03d07272bbdd356"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f59eb07b03d07272bbdd354"
+	},
+	"createdAt": {
+		"$date": "2020-09-10T08:59:51.768Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-10T08:59:51.768Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f59fd29b03d07272bbdd376"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f59fd29b03d07272bbdd374"
+	},
+	"createdAt": {
+		"$date": "2020-09-10T10:17:13.867Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-10T10:17:13.867Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5a7155b03d07272bbdd396"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f5a7155b03d07272bbdd394"
+	},
+	"createdAt": {
+		"$date": "2020-09-10T18:32:53.954Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-10T18:32:53.954Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5c6962b03d07272bbdd3b6"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f5c6962b03d07272bbdd3b4"
+	},
+	"createdAt": {
+		"$date": "2020-09-12T06:23:30.019Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T06:23:30.019Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5cc0e3b03d07272bbdd3d6"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f5cc0e3b03d07272bbdd3d4"
+	},
+	"createdAt": {
+		"$date": "2020-09-12T12:36:51.319Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T12:36:51.319Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5cc13fb03d07272bbdd3f6"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f5cc13fb03d07272bbdd3f4"
+	},
+	"createdAt": {
+		"$date": "2020-09-12T12:38:23.620Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T12:38:23.621Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5cdcbbb03d07272bbdd416"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f5cdcbbb03d07272bbdd414"
+	},
+	"createdAt": {
+		"$date": "2020-09-12T14:35:39.546Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T14:35:39.546Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5cdccbb03d07272bbdd436"
+	},
+	"name": "Flock-1",
+	"birdCount": 13500,
+	"farmId": {
+		"$oid": "5f5cdccbb03d07272bbdd434"
+	},
+	"createdAt": {
+		"$date": "2020-09-12T14:35:55.634Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T14:39:27.810Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-04-19T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5ef474b03d07272bbdd45f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f5ef474b03d07272bbdd45d"
+	},
+	"createdAt": {
+		"$date": "2020-09-14T04:41:24.935Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-14T04:41:24.935Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5f4870b03d07272bbdd47f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f5f4870b03d07272bbdd47d"
+	},
+	"createdAt": {
+		"$date": "2020-09-14T10:39:44.963Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-14T10:39:44.963Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5fad43b03d07272bbdd49f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f5fad43b03d07272bbdd49d"
+	},
+	"createdAt": {
+		"$date": "2020-09-14T17:49:55.045Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-14T17:49:55.045Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f61db62b03d07272bbdd4bf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f61db62b03d07272bbdd4bd"
+	},
+	"createdAt": {
+		"$date": "2020-09-16T09:31:14.425Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-16T09:31:14.425Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f61f6b8b03d07272bbdd4df"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f61f6b8b03d07272bbdd4dd"
+	},
+	"createdAt": {
+		"$date": "2020-09-16T11:27:52.063Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-16T11:27:52.063Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f623124b03d07272bbdd4ff"
+	},
+	"name": "Flock-1",
+	"birdCount": 30000,
+	"farmId": {
+		"$oid": "5f623124b03d07272bbdd4fd"
+	},
+	"createdAt": {
+		"$date": "2020-09-16T15:37:08.304Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-16T15:40:25.187Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-09-14T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f62cf0cb03d07272bbdd522"
+	},
+	"name": "Flock-1",
+	"birdCount": 2500,
+	"farmId": {
+		"$oid": "5f62cf0cb03d07272bbdd520"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T02:50:52.902Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T02:53:34.911Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-09-23T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6305cab03d07272bbdd551"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f6305cab03d07272bbdd54f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T06:44:26.731Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T06:44:26.731Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f630728b03d07272bbdd571"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f630728b03d07272bbdd56f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T06:50:16.543Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T06:50:16.543Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f63b671b03d07272bbdd591"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f63b671b03d07272bbdd58f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T19:18:09.551Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T19:18:09.551Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f63c985b03d07272bbdd5b1"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f63c985b03d07272bbdd5af"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T20:39:33.687Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T20:39:33.687Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f64bd6ab03d07272bbdd5d1"
+	},
+	"name": "Flock-1",
+	"birdCount": 200,
+	"farmId": {
+		"$oid": "5f64bd6ab03d07272bbdd5cf"
+	},
+	"createdAt": {
+		"$date": "2020-09-18T14:00:10.872Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T14:05:09.872Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-02-01T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f64d616b03d07272bbdd5fa"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f64d616b03d07272bbdd5f8"
+	},
+	"createdAt": {
+		"$date": "2020-09-18T15:45:26.861Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T15:45:26.861Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f653737b03d07272bbdd61a"
+	},
+	"name": "Flock-1",
+	"birdCount": 5000,
+	"farmId": {
+		"$oid": "5f653737b03d07272bbdd618"
+	},
+	"createdAt": {
+		"$date": "2020-09-18T22:39:51.426Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T22:42:01.492Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-08-07T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f65c137b03d07272bbdd63d"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f65c137b03d07272bbdd63b"
+	},
+	"createdAt": {
+		"$date": "2020-09-19T08:28:39.919Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-19T08:28:39.919Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f69622eb03d07272bbdd65d"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f69622eb03d07272bbdd65b"
+	},
+	"createdAt": {
+		"$date": "2020-09-22T02:32:14.249Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-22T02:32:14.249Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f69b77eb03d07272bbdd67d"
+	},
+	"name": "Flock-1",
+	"birdCount": 5000,
+	"farmId": {
+		"$oid": "5f69b77eb03d07272bbdd67b"
+	},
+	"createdAt": {
+		"$date": "2020-09-22T08:36:14.430Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-22T09:41:02.349Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-06-14T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6a5c4ab03d07272bbdd6a0"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f6a5c4ab03d07272bbdd69e"
+	},
+	"createdAt": {
+		"$date": "2020-09-22T20:19:22.044Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-22T20:19:22.044Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6ae0b2b03d07272bbdd6c0"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f6ae0b2b03d07272bbdd6be"
+	},
+	"createdAt": {
+		"$date": "2020-09-23T05:44:18.600Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-23T05:44:18.600Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6b7fb9b03d07272bbdd6e0"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f6b7fb9b03d07272bbdd6de"
+	},
+	"createdAt": {
+		"$date": "2020-09-23T17:02:49.662Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-23T17:02:49.662Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6dca69b03d07272bbdd700"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f6dca69b03d07272bbdd6fe"
+	},
+	"createdAt": {
+		"$date": "2020-09-25T10:46:01.160Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-25T10:46:01.160Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6dcb98b03d07272bbdd720"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f6dcb98b03d07272bbdd71e"
+	},
+	"createdAt": {
+		"$date": "2020-09-25T10:51:04.344Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-25T10:51:04.344Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6e1859b03d07272bbdd740"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f6e1859b03d07272bbdd73e"
+	},
+	"createdAt": {
+		"$date": "2020-09-25T16:18:33.205Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-25T16:18:33.205Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f1283b03d07272bbdd760"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f6f1283b03d07272bbdd75e"
+	},
+	"createdAt": {
+		"$date": "2020-09-26T10:05:55.935Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T10:05:55.935Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f3ae8b03d07272bbdd780"
+	},
+	"name": "Flock-1",
+	"birdCount": 5555,
+	"farmId": {
+		"$oid": "5f6f3ae8b03d07272bbdd77e"
+	},
+	"createdAt": {
+		"$date": "2020-09-26T12:58:16.157Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T12:59:46.427Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-09-28T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f822ab03d07272bbdd7a6"
+	},
+	"name": "Flock-1",
+	"birdCount": 8776,
+	"farmId": {
+		"$oid": "5f6f822ab03d07272bbdd7a4"
+	},
+	"createdAt": {
+		"$date": "2020-09-26T18:02:18.948Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T18:05:53.040Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-09-25T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f71e8fab03d07272bbdd7ce"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f71e8fab03d07272bbdd7cc"
+	},
+	"createdAt": {
+		"$date": "2020-09-28T13:45:30.790Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-28T13:45:30.790Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f71e93bb03d07272bbdd7ee"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f71e93bb03d07272bbdd7ec"
+	},
+	"createdAt": {
+		"$date": "2020-09-28T13:46:35.771Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-28T13:46:35.771Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f71fae4b03d07272bbdd80e"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f71fae4b03d07272bbdd80c"
+	},
+	"createdAt": {
+		"$date": "2020-09-28T15:01:56.247Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-28T15:01:56.247Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f72276ab03d07272bbdd82e"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f72276ab03d07272bbdd82c"
+	},
+	"createdAt": {
+		"$date": "2020-09-28T18:11:54.690Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-28T18:11:54.690Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f725d19b03d07272bbdd84e"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f725d19b03d07272bbdd84c"
+	},
+	"createdAt": {
+		"$date": "2020-09-28T22:00:57.072Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-28T22:00:57.072Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f736b0eb03d07272bbdd871"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f736b0eb03d07272bbdd86f"
+	},
+	"createdAt": {
+		"$date": "2020-09-29T17:12:46.108Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-29T17:12:46.108Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f740a30b03d07272bbdd891"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f740a30b03d07272bbdd88f"
+	},
+	"createdAt": {
+		"$date": "2020-09-30T04:31:44.052Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-30T04:31:44.053Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f74371cb03d07272bbdd8b1"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f74371cb03d07272bbdd8af"
+	},
+	"createdAt": {
+		"$date": "2020-09-30T07:43:24.846Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-30T07:43:24.846Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7468d6b03d07272bbdd8d1"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f7468d6b03d07272bbdd8cf"
+	},
+	"createdAt": {
+		"$date": "2020-09-30T11:15:34.505Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-30T11:15:34.506Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7477fab03d07272bbdd8f1"
+	},
+	"name": "Flock-1",
+	"birdCount": 100,
+	"farmId": {
+		"$oid": "5f7477fab03d07272bbdd8ef"
+	},
+	"createdAt": {
+		"$date": "2020-09-30T12:20:10.342Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-30T12:22:29.096Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-09-28T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f747d92b03d07272bbdd914"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f747d92b03d07272bbdd912"
+	},
+	"createdAt": {
+		"$date": "2020-09-30T12:44:02.301Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-30T12:44:02.301Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7553d5b03d07272bbdd934"
+	},
+	"name": "Flock-1",
+	"birdCount": 100,
+	"farmId": {
+		"$oid": "5f7553d5b03d07272bbdd932"
+	},
+	"createdAt": {
+		"$date": "2020-10-01T03:58:13.572Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-01T04:01:45.395Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-09-30T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f75cbbcb03d07272bbdd957"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f75cbbcb03d07272bbdd955"
+	},
+	"createdAt": {
+		"$date": "2020-10-01T12:29:48.086Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-01T12:29:48.086Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f76e22ab03d07272bbdd977"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f76e22ab03d07272bbdd975"
+	},
+	"createdAt": {
+		"$date": "2020-10-02T08:17:46.348Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-02T08:17:46.348Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f777dc0b03d07272bbdd997"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f777dc0b03d07272bbdd995"
+	},
+	"createdAt": {
+		"$date": "2020-10-02T19:21:36.897Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-02T19:21:36.897Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7895a6b03d07272bbdd9b7"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f7895a6b03d07272bbdd9b5"
+	},
+	"createdAt": {
+		"$date": "2020-10-03T15:15:50.258Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-03T15:15:50.258Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f78a690b03d07272bbdd9d7"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f78a690b03d07272bbdd9d5"
+	},
+	"createdAt": {
+		"$date": "2020-10-03T16:28:00.531Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-03T16:28:00.531Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f78b69eb03d07272bbdd9f7"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f78b69eb03d07272bbdd9f5"
+	},
+	"createdAt": {
+		"$date": "2020-10-03T17:36:30.480Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-03T17:36:30.480Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f78b6ceb03d07272bbdda17"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f78b6ceb03d07272bbdda15"
+	},
+	"createdAt": {
+		"$date": "2020-10-03T17:37:18.819Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-03T17:37:18.820Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f79e015b03d07272bbdda37"
+	},
+	"name": "Flock-1",
+	"birdCount": 4223,
+	"farmId": {
+		"$oid": "5f79e015b03d07272bbdda35"
+	},
+	"createdAt": {
+		"$date": "2020-10-04T14:45:41.108Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-04T15:07:30.566Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-04-04T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7ac5a6b03d07272bbdda5d"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f7ac5a6b03d07272bbdda5b"
+	},
+	"createdAt": {
+		"$date": "2020-10-05T07:05:10.354Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T07:05:10.354Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b02e4b03d07272bbdda7d"
+	},
+	"name": "Flock-1",
+	"birdCount": 4000,
+	"farmId": {
+		"$oid": "5f7b02e4b03d07272bbdda7b"
+	},
+	"createdAt": {
+		"$date": "2020-10-05T11:26:28.281Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T11:28:55.085Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-10-07T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b1d6eb03d07272bbddaa0"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f7b1d6eb03d07272bbdda9e"
+	},
+	"createdAt": {
+		"$date": "2020-10-05T13:19:42.740Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T13:19:42.740Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b1e60b03d07272bbddac0"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f7b1e60b03d07272bbddabe"
+	},
+	"createdAt": {
+		"$date": "2020-10-05T13:23:44.688Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T13:23:44.688Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b413eb03d07272bbddae0"
+	},
+	"name": "Flock-1",
+	"birdCount": 14,
+	"farmId": {
+		"$oid": "5f7b413eb03d07272bbddade"
+	},
+	"createdAt": {
+		"$date": "2020-10-05T15:52:30.935Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T15:54:16.547Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-10-03T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b6e80b03d07272bbddb05"
+	},
+	"name": "Flock-1",
+	"birdCount": 200,
+	"farmId": {
+		"$oid": "5f7b6e80b03d07272bbddb03"
+	},
+	"createdAt": {
+		"$date": "2020-10-05T19:05:36.952Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T19:07:09.975Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-10-30T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7bd817b03d07272bbddb28"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f7bd817b03d07272bbddb26"
+	},
+	"createdAt": {
+		"$date": "2020-10-06T02:36:07.063Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-06T02:36:07.063Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7d6e63b03d07272bbddb48"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f7d6e63b03d07272bbddb46"
+	},
+	"createdAt": {
+		"$date": "2020-10-07T07:29:39.883Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-07T07:29:39.883Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7d7863b03d07272bbddb68"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f7d7863b03d07272bbddb66"
+	},
+	"createdAt": {
+		"$date": "2020-10-07T08:12:19.358Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-07T08:12:19.358Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7e94f2b03d07272bbddb88"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f7e94f2b03d07272bbddb86"
+	},
+	"createdAt": {
+		"$date": "2020-10-08T04:26:26.862Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-08T04:26:26.862Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7f32cdb03d07272bbddba8"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f7f32cdb03d07272bbddba6"
+	},
+	"createdAt": {
+		"$date": "2020-10-08T15:39:57.308Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-08T15:39:57.308Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7ffe92b03d07272bbddbc8"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f7ffe92b03d07272bbddbc6"
+	},
+	"createdAt": {
+		"$date": "2020-10-09T06:09:22.288Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-09T06:09:22.288Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f80693db03d07272bbddbe8"
+	},
+	"name": "Flock-1",
+	"birdCount": 500,
+	"farmId": {
+		"$oid": "5f80693db03d07272bbddbe6"
+	},
+	"createdAt": {
+		"$date": "2020-10-09T13:44:29.689Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-09T13:46:22.578Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-08-24T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f809f27b03d07272bbddc0b"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f809f27b03d07272bbddc09"
+	},
+	"createdAt": {
+		"$date": "2020-10-09T17:34:31.057Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-09T17:34:31.058Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f811809b03d07272bbddc2b"
+	},
+	"name": "Flock-1",
+	"birdCount": 3500,
+	"farmId": {
+		"$oid": "5f811809b03d07272bbddc29"
+	},
+	"createdAt": {
+		"$date": "2020-10-10T02:10:17.436Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T02:11:33.408Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2021-01-09T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f818043b03d07272bbddc52"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f818043b03d07272bbddc50"
+	},
+	"createdAt": {
+		"$date": "2020-10-10T09:34:59.640Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T09:34:59.641Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f818837b03d07272bbddc72"
+	},
+	"name": "Flock-1",
+	"birdCount": 500,
+	"farmId": {
+		"$oid": "5f818837b03d07272bbddc70"
+	},
+	"createdAt": {
+		"$date": "2020-10-10T10:08:55.912Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T10:13:09.679Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-08-10T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f81b53eb03d07272bbddc95"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f81b53eb03d07272bbddc93"
+	},
+	"createdAt": {
+		"$date": "2020-10-10T13:21:02.218Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T13:21:02.218Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f828063b03d07272bbddcb5"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f828063b03d07272bbddcb3"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T03:47:47.583Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T03:47:47.583Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8311d0b03d07272bbddcd5"
+	},
+	"name": "Flock-1",
+	"birdCount": 3240,
+	"farmId": {
+		"$oid": "5f8311d0b03d07272bbddcd3"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:08:16.357Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:11:02.647Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-11-21T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f83138eb03d07272bbddd01"
+	},
+	"name": "A",
+	"birdCount": 2545,
+	"chickPlacementDate": {
+		"$date": "2019-11-21T18:30:00.000Z"
+	},
+	"farmId": {
+		"$oid": "5f8311d0b03d07272bbddcd3"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:15:42.274Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:15:42.274Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f831391b03d07272bbddd03"
+	},
+	"name": "A",
+	"birdCount": 2545,
+	"chickPlacementDate": {
+		"$date": "2019-11-21T18:30:00.000Z"
+	},
+	"farmId": {
+		"$oid": "5f8311d0b03d07272bbddcd3"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:15:45.046Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:15:45.046Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f834883b03d07272bbddd0f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f834883b03d07272bbddd0d"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T18:01:39.247Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T18:01:39.247Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f842041b03d07272bbddd2f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f842041b03d07272bbddd2d"
+	},
+	"createdAt": {
+		"$date": "2020-10-12T09:22:09.082Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-12T09:22:09.082Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f84730ab03d07272bbddd4f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f84730ab03d07272bbddd4d"
+	},
+	"createdAt": {
+		"$date": "2020-10-12T15:15:22.398Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-12T15:15:22.398Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f84c11ab03d07272bbddd6f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f84c11ab03d07272bbddd6d"
+	},
+	"createdAt": {
+		"$date": "2020-10-12T20:48:26.674Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-12T20:48:26.674Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f84c242b03d07272bbddd8f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f84c242b03d07272bbddd8d"
+	},
+	"createdAt": {
+		"$date": "2020-10-12T20:53:22.459Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-12T20:53:22.459Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f84c2dfb03d07272bbdddaf"
+	},
+	"name": "Flock-1",
+	"birdCount": 500,
+	"farmId": {
+		"$oid": "5f84c2dfb03d07272bbdddad"
+	},
+	"createdAt": {
+		"$date": "2020-10-12T20:55:59.229Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-12T20:58:15.131Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-10-13T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f85aea2b03d07272bbdddd2"
+	},
+	"name": "Flock-1",
+	"birdCount": 6500,
+	"farmId": {
+		"$oid": "5f85aea2b03d07272bbdddd0"
+	},
+	"createdAt": {
+		"$date": "2020-10-13T13:41:54.288Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-13T13:43:58.387Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-10-12T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f865752b03d07272bbdddf5"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f865752b03d07272bbdddf3"
+	},
+	"createdAt": {
+		"$date": "2020-10-14T01:41:38.375Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-14T01:41:38.375Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f865e53b03d07272bbdde15"
+	},
+	"name": "Flock-1",
+	"birdCount": 3000,
+	"farmId": {
+		"$oid": "5f865e53b03d07272bbdde13"
+	},
+	"createdAt": {
+		"$date": "2020-10-14T02:11:31.980Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-14T02:14:26.825Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-10-09T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f869fcfb03d07272bbdde38"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f869fcfb03d07272bbdde36"
+	},
+	"createdAt": {
+		"$date": "2020-10-14T06:50:55.520Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-14T06:50:55.520Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f87473bb03d07272bbdde58"
+	},
+	"name": "Flock-1",
+	"birdCount": 500,
+	"farmId": {
+		"$oid": "5f87473bb03d07272bbdde56"
+	},
+	"createdAt": {
+		"$date": "2020-10-14T18:45:15.726Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-14T18:48:41.124Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-10-14T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f881251b03d07272bbdde7e"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f881251b03d07272bbdde7c"
+	},
+	"createdAt": {
+		"$date": "2020-10-15T09:11:45.261Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-15T09:11:45.261Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f89063bb03d07272bbdde9e"
+	},
+	"name": "Flock-1",
+	"birdCount": 1000,
+	"farmId": {
+		"$oid": "5f89063bb03d07272bbdde9c"
+	},
+	"createdAt": {
+		"$date": "2020-10-16T02:32:27.429Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-16T02:36:59.251Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-10-30T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8943c5b03d07272bbddec1"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f8943c5b03d07272bbddebf"
+	},
+	"createdAt": {
+		"$date": "2020-10-16T06:55:01.758Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-16T06:55:01.758Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8a8c32b03d07272bbddee1"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f8a8c32b03d07272bbddedf"
+	},
+	"createdAt": {
+		"$date": "2020-10-17T06:16:18.669Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-17T06:16:18.669Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8ad8e6b03d07272bbddf01"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f8ad8e6b03d07272bbddeff"
+	},
+	"createdAt": {
+		"$date": "2020-10-17T11:43:34.176Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-17T11:43:34.176Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8bcc22b03d07272bbddf21"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f8bcc22b03d07272bbddf1f"
+	},
+	"createdAt": {
+		"$date": "2020-10-18T05:01:22.622Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-18T05:01:22.622Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8d61b0b03d07272bbddf41"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f8d61b0b03d07272bbddf3f"
+	},
+	"createdAt": {
+		"$date": "2020-10-19T09:51:44.944Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-19T09:51:44.944Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8d7304b03d07272bbddf61"
+	},
+	"name": "Flock-1",
+	"birdCount": 2000,
+	"farmId": {
+		"$oid": "5f8d7304b03d07272bbddf5f"
+	},
+	"createdAt": {
+		"$date": "2020-10-19T11:05:40.222Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-19T11:08:08.677Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2019-08-14T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8db66ab03d07272bbddf84"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f8db66ab03d07272bbddf82"
+	},
+	"createdAt": {
+		"$date": "2020-10-19T15:53:14.672Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-19T15:53:14.672Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8f2235b03d07272bbddfa4"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f8f2235b03d07272bbddfa2"
+	},
+	"createdAt": {
+		"$date": "2020-10-20T17:45:25.218Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-20T17:45:25.218Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8ff46bb03d07272bbddfc4"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f8ff46bb03d07272bbddfc2"
+	},
+	"createdAt": {
+		"$date": "2020-10-21T08:42:19.995Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-21T08:42:19.995Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8ff4dcb03d07272bbddfe4"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f8ff4dcb03d07272bbddfe2"
+	},
+	"createdAt": {
+		"$date": "2020-10-21T08:44:12.089Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-21T08:44:12.089Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f907668b03d07272bbde004"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f907668b03d07272bbde002"
+	},
+	"createdAt": {
+		"$date": "2020-10-21T17:56:56.526Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-21T17:56:56.526Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f90e57fb03d07272bbde024"
+	},
+	"name": "Flock-1",
+	"birdCount": 9000,
+	"farmId": {
+		"$oid": "5f90e57fb03d07272bbde022"
+	},
+	"createdAt": {
+		"$date": "2020-10-22T01:50:55.877Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-22T02:00:24.145Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-10-21T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f910da1b03d07272bbde04a"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f910da1b03d07272bbde048"
+	},
+	"createdAt": {
+		"$date": "2020-10-22T04:42:09.793Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-22T04:42:09.793Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f911153b03d07272bbde06a"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f911153b03d07272bbde068"
+	},
+	"createdAt": {
+		"$date": "2020-10-22T04:57:55.809Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-22T04:57:55.809Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9112b7b03d07272bbde08a"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f9112b7b03d07272bbde088"
+	},
+	"createdAt": {
+		"$date": "2020-10-22T05:03:51.293Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-22T05:03:51.293Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9135f5b03d07272bbde0aa"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f9135f5b03d07272bbde0a8"
+	},
+	"createdAt": {
+		"$date": "2020-10-22T07:34:13.515Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-22T07:34:13.515Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f923a3fb03d07272bbde0ca"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f923a3fb03d07272bbde0c8"
+	},
+	"createdAt": {
+		"$date": "2020-10-23T02:04:47.988Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-23T02:04:47.988Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f926ac4b03d07272bbde0ea"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f926ac4b03d07272bbde0e8"
+	},
+	"createdAt": {
+		"$date": "2020-10-23T05:31:48.399Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-23T05:31:48.399Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f92ed38b03d07272bbde10a"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f92ed38b03d07272bbde108"
+	},
+	"createdAt": {
+		"$date": "2020-10-23T14:48:24.157Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-23T14:48:24.157Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f93b9f3b03d07272bbde12a"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f93b9f3b03d07272bbde128"
+	},
+	"createdAt": {
+		"$date": "2020-10-24T05:21:55.265Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-24T05:21:55.265Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f93cac8b03d07272bbde14a"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f93cac8b03d07272bbde148"
+	},
+	"createdAt": {
+		"$date": "2020-10-24T06:33:44.275Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-24T06:33:44.275Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f93f9c3b03d07272bbde16a"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f93f9c3b03d07272bbde168"
+	},
+	"createdAt": {
+		"$date": "2020-10-24T09:54:11.107Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-24T09:54:11.107Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f951c3ab03d07272bbde18a"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f951c3ab03d07272bbde188"
+	},
+	"createdAt": {
+		"$date": "2020-10-25T06:33:30.101Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-25T06:33:30.101Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f951cd4b03d07272bbde1aa"
+	},
+	"name": "Flock-1",
+	"birdCount": 5000,
+	"farmId": {
+		"$oid": "5f951cd4b03d07272bbde1a8"
+	},
+	"createdAt": {
+		"$date": "2020-10-25T06:36:04.527Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-25T06:38:32.223Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-10-30T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f95501bb03d07272bbde1cd"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f95501bb03d07272bbde1cb"
+	},
+	"createdAt": {
+		"$date": "2020-10-25T10:14:51.235Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-25T10:14:51.235Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9564e0b03d07272bbde1ed"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f9564e0b03d07272bbde1eb"
+	},
+	"createdAt": {
+		"$date": "2020-10-25T11:43:28.738Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-25T11:43:28.738Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f956672b03d07272bbde20d"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f956672b03d07272bbde20b"
+	},
+	"createdAt": {
+		"$date": "2020-10-25T11:50:10.396Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-25T11:50:10.396Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f968aa2b03d07272bbde22f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f968aa2b03d07272bbde22d"
+	},
+	"createdAt": {
+		"$date": "2020-10-26T08:36:50.542Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-26T08:36:50.542Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f979ec6b03d07272bbde24f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f979ec6b03d07272bbde24d"
+	},
+	"createdAt": {
+		"$date": "2020-10-27T04:15:02.372Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-27T04:15:02.372Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f982825b03d07272bbde26f"
+	},
+	"name": "Flock-1",
+	"birdCount": 25000,
+	"farmId": {
+		"$oid": "5f982825b03d07272bbde26d"
+	},
+	"createdAt": {
+		"$date": "2020-10-27T14:01:09.278Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-27T14:04:02.982Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-08-14T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f98d810b03d07272bbde293"
+	},
+	"name": "Sree laxmi",
+	"birdCount": 9675,
+	"chickPlacementDate": {
+		"$date": "2020-10-08T18:30:00.000Z"
+	},
+	"farmId": {
+		"$oid": "5f90e57fb03d07272bbde022"
+	},
+	"createdAt": {
+		"$date": "2020-10-28T02:31:44.745Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-28T02:31:44.745Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f98d825b03d07272bbde295"
+	},
+	"name": "Sree laxmi",
+	"birdCount": 9675,
+	"chickPlacementDate": {
+		"$date": "2020-10-26T18:30:00.000Z"
+	},
+	"farmId": {
+		"$oid": "5f90e57fb03d07272bbde022"
+	},
+	"createdAt": {
+		"$date": "2020-10-28T02:32:05.202Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-28T02:32:05.202Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f991203b03d07272bbde29a"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f991203b03d07272bbde298"
+	},
+	"createdAt": {
+		"$date": "2020-10-28T06:38:59.330Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-28T06:38:59.330Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9a8fe8b03d07272bbde2ba"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f9a8fe8b03d07272bbde2b8"
+	},
+	"createdAt": {
+		"$date": "2020-10-29T09:48:24.081Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-29T09:48:24.081Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9adb59b03d07272bbde2da"
+	},
+	"name": "Flock-1",
+	"birdCount": 1,
+	"farmId": {
+		"$oid": "5f9adb59b03d07272bbde2d8"
+	},
+	"createdAt": {
+		"$date": "2020-10-29T15:10:17.457Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-29T15:12:54.150Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-10-28T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9bb4bbb03d07272bbde2ff"
+	},
+	"name": "Flock-1",
+	"birdCount": 300,
+	"farmId": {
+		"$oid": "5f9bb4bbb03d07272bbde2fd"
+	},
+	"createdAt": {
+		"$date": "2020-10-30T06:37:47.383Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-30T06:43:31.874Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-09-30T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9cf030b03d07272bbde322"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5f9cf02fb03d07272bbde320"
+	},
+	"createdAt": {
+		"$date": "2020-10-31T05:03:44.004Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-31T05:03:44.004Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa0f772b03d07272bbde342"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa0f772b03d07272bbde340"
+	},
+	"createdAt": {
+		"$date": "2020-11-03T06:23:46.389Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-03T06:23:46.390Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa14ca3b03d07272bbde362"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa14ca3b03d07272bbde360"
+	},
+	"createdAt": {
+		"$date": "2020-11-03T12:27:15.377Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-03T12:27:15.377Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa233a8b03d07272bbde382"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa233a8b03d07272bbde380"
+	},
+	"createdAt": {
+		"$date": "2020-11-04T04:52:56.604Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T04:52:56.604Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa255e8b03d07272bbde3a2"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa255e8b03d07272bbde3a0"
+	},
+	"createdAt": {
+		"$date": "2020-11-04T07:19:04.676Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T07:19:04.676Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa25decb03d07272bbde3c2"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa25decb03d07272bbde3c0"
+	},
+	"createdAt": {
+		"$date": "2020-11-04T07:53:16.422Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T07:53:16.422Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa27306b03d07272bbde3e2"
+	},
+	"name": "Flock-1",
+	"birdCount": 10000,
+	"farmId": {
+		"$oid": "5fa27306b03d07272bbde3e0"
+	},
+	"createdAt": {
+		"$date": "2020-11-04T09:23:18.737Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T09:25:58.512Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-11-03T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa29ae1b03d07272bbde405"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa29ae1b03d07272bbde403"
+	},
+	"createdAt": {
+		"$date": "2020-11-04T12:13:21.367Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T12:25:23.511Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-11-03T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa2a564b03d07272bbde428"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa2a564b03d07272bbde426"
+	},
+	"createdAt": {
+		"$date": "2020-11-04T12:58:12.323Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T12:58:12.323Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa2ae3bb03d07272bbde448"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa2ae3bb03d07272bbde446"
+	},
+	"createdAt": {
+		"$date": "2020-11-04T13:35:55.585Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T13:35:55.585Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa3080db03d07272bbde468"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa3080db03d07272bbde466"
+	},
+	"createdAt": {
+		"$date": "2020-11-04T19:59:09.049Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T19:59:09.049Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa31102b03d07272bbde488"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa31102b03d07272bbde486"
+	},
+	"createdAt": {
+		"$date": "2020-11-04T20:37:22.470Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T20:37:22.470Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa35263b03d07272bbde4a8"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa35263b03d07272bbde4a6"
+	},
+	"createdAt": {
+		"$date": "2020-11-05T01:16:19.447Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T01:16:19.447Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa352a3b03d07272bbde4c8"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa352a3b03d07272bbde4c6"
+	},
+	"createdAt": {
+		"$date": "2020-11-05T01:17:23.192Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T01:17:23.192Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa38fd7b03d07272bbde4e8"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa38fd7b03d07272bbde4e6"
+	},
+	"createdAt": {
+		"$date": "2020-11-05T05:38:31.744Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T05:38:31.744Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa3962cb03d07272bbde508"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa3962cb03d07272bbde506"
+	},
+	"createdAt": {
+		"$date": "2020-11-05T06:05:32.356Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T06:05:32.356Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa39655b03d07272bbde528"
+	},
+	"name": "Flock-1",
+	"birdCount": 10000,
+	"farmId": {
+		"$oid": "5fa39655b03d07272bbde526"
+	},
+	"createdAt": {
+		"$date": "2020-11-05T06:06:13.694Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T06:09:04.541Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-10-14T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa3a641b03d07272bbde54b"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa3a641b03d07272bbde549"
+	},
+	"createdAt": {
+		"$date": "2020-11-05T07:14:09.205Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T07:14:09.205Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa41956b03d07272bbde56b"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa41956b03d07272bbde569"
+	},
+	"createdAt": {
+		"$date": "2020-11-05T15:25:10.559Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T15:25:10.559Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa4212ab03d07272bbde58b"
+	},
+	"name": "Flock-1",
+	"birdCount": 100,
+	"farmId": {
+		"$oid": "5fa4212ab03d07272bbde589"
+	},
+	"createdAt": {
+		"$date": "2020-11-05T15:58:34.413Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T15:59:47.053Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-11-04T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa4d94eb03d07272bbde5b0"
+	},
+	"name": "Flock-1",
+	"birdCount": 50,
+	"farmId": {
+		"$oid": "5fa4d94eb03d07272bbde5ae"
+	},
+	"createdAt": {
+		"$date": "2020-11-06T05:04:14.116Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-06T05:05:05.511Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-11-05T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa51a4eb03d07272bbde5d3"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa51a4eb03d07272bbde5d1"
+	},
+	"createdAt": {
+		"$date": "2020-11-06T09:41:34.017Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-06T09:41:34.017Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa51b97b03d07272bbde5f3"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa51b97b03d07272bbde5f1"
+	},
+	"createdAt": {
+		"$date": "2020-11-06T09:47:03.914Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-06T09:47:03.914Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa575e8b03d07272bbde613"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa575e8b03d07272bbde611"
+	},
+	"createdAt": {
+		"$date": "2020-11-06T16:12:24.849Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-06T16:12:24.849Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa64266b03d07272bbde633"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa64266b03d07272bbde631"
+	},
+	"createdAt": {
+		"$date": "2020-11-07T06:44:54.042Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-07T06:44:54.042Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa6715bb03d07272bbde653"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa6715bb03d07272bbde651"
+	},
+	"createdAt": {
+		"$date": "2020-11-07T10:05:15.123Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-07T10:05:15.123Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa671abb03d07272bbde673"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa671abb03d07272bbde671"
+	},
+	"createdAt": {
+		"$date": "2020-11-07T10:06:35.790Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-07T10:06:35.790Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa77d7cb03d07272bbde693"
+	},
+	"name": "Flock-1",
+	"birdCount": 22600,
+	"farmId": {
+		"$oid": "5fa77d7cb03d07272bbde691"
+	},
+	"createdAt": {
+		"$date": "2020-11-08T05:09:16.630Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-08T05:10:23.588Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-11-07T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa7f453b03d07272bbde6b6"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa7f453b03d07272bbde6b4"
+	},
+	"createdAt": {
+		"$date": "2020-11-08T13:36:19.259Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-08T13:36:19.259Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa84085b03d07272bbde6d6"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa84085b03d07272bbde6d4"
+	},
+	"createdAt": {
+		"$date": "2020-11-08T19:01:25.897Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-08T19:01:25.897Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa8e2b7b03d07272bbde6f6"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa8e2b7b03d07272bbde6f4"
+	},
+	"createdAt": {
+		"$date": "2020-11-09T06:33:27.900Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-09T06:33:27.900Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa92e82b03d07272bbde716"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fa92e82b03d07272bbde714"
+	},
+	"createdAt": {
+		"$date": "2020-11-09T11:56:50.784Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-09T11:56:50.784Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa990edb03d07272bbde736"
+	},
+	"name": "Flock-1",
+	"birdCount": 7500,
+	"farmId": {
+		"$oid": "5fa990ecb03d07272bbde734"
+	},
+	"createdAt": {
+		"$date": "2020-11-09T18:56:45.009Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-09T19:00:41.823Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-05-31T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faa1da2b03d07272bbde75e"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5faa1da2b03d07272bbde75c"
+	},
+	"createdAt": {
+		"$date": "2020-11-10T04:57:06.755Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-10T04:57:06.755Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faa669bb03d07272bbde77e"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5faa669bb03d07272bbde77c"
+	},
+	"createdAt": {
+		"$date": "2020-11-10T10:08:27.038Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-10T10:08:27.038Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fab4851b03d07272bbde79e"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fab4851b03d07272bbde79c"
+	},
+	"createdAt": {
+		"$date": "2020-11-11T02:11:29.442Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-11T02:11:29.442Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fab84bdb03d07272bbde7be"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fab84bdb03d07272bbde7bc"
+	},
+	"createdAt": {
+		"$date": "2020-11-11T06:29:17.914Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-11T06:29:17.914Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fac9f53b03d07272bbde7de"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fac9f53b03d07272bbde7dc"
+	},
+	"createdAt": {
+		"$date": "2020-11-12T02:34:59.621Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-12T02:34:59.621Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faca442b03d07272bbde7fe"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5faca442b03d07272bbde7fc"
+	},
+	"createdAt": {
+		"$date": "2020-11-12T02:56:02.251Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-12T02:56:02.251Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5facac10b03d07272bbde81e"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5facac10b03d07272bbde81c"
+	},
+	"createdAt": {
+		"$date": "2020-11-12T03:29:20.291Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-12T03:29:20.291Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fad4384b03d07272bbde83e"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fad4384b03d07272bbde83c"
+	},
+	"createdAt": {
+		"$date": "2020-11-12T14:15:32.792Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-12T14:15:32.792Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fad6512b03d07272bbde85e"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fad6512b03d07272bbde85c"
+	},
+	"createdAt": {
+		"$date": "2020-11-12T16:38:42.772Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-12T16:38:42.772Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fae2827b03d07272bbde87e"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fae2827b03d07272bbde87c"
+	},
+	"createdAt": {
+		"$date": "2020-11-13T06:31:03.782Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-13T06:31:03.782Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fae37f6b03d07272bbde89e"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fae37f6b03d07272bbde89c"
+	},
+	"createdAt": {
+		"$date": "2020-11-13T07:38:30.983Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-13T07:38:30.983Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faeec6fb03d07272bbde8be"
+	},
+	"name": "Flock-1",
+	"birdCount": 40000,
+	"farmId": {
+		"$oid": "5faeec6fb03d07272bbde8bc"
+	},
+	"createdAt": {
+		"$date": "2020-11-13T20:28:31.832Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-13T20:32:14.233Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2022-02-28T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faf2bbfb03d07272bbde8e1"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5faf2bbfb03d07272bbde8df"
+	},
+	"createdAt": {
+		"$date": "2020-11-14T00:58:39.556Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-14T00:58:39.556Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faf541bb03d07272bbde901"
+	},
+	"name": "Flock-1",
+	"birdCount": 5000,
+	"farmId": {
+		"$oid": "5faf541bb03d07272bbde8ff"
+	},
+	"createdAt": {
+		"$date": "2020-11-14T03:50:51.055Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-14T03:57:02.815Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-10-31T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faf8b44b03d07272bbde929"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5faf8b44b03d07272bbde927"
+	},
+	"createdAt": {
+		"$date": "2020-11-14T07:46:12.254Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-14T07:46:12.254Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb169aeb03d07272bbde949"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb169aeb03d07272bbde947"
+	},
+	"createdAt": {
+		"$date": "2020-11-15T17:47:26.892Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-15T17:47:26.892Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb1e364b03d07272bbde969"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb1e364b03d07272bbde967"
+	},
+	"createdAt": {
+		"$date": "2020-11-16T02:26:44.090Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-16T02:26:44.090Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb1f3f8b03d07272bbde989"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb1f3f8b03d07272bbde987"
+	},
+	"createdAt": {
+		"$date": "2020-11-16T03:37:28.815Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-16T03:37:28.815Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb26560b03d07272bbde9a9"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb26560b03d07272bbde9a7"
+	},
+	"createdAt": {
+		"$date": "2020-11-16T11:41:20.440Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-16T11:41:20.440Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb34683b03d07272bbde9c9"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb34683b03d07272bbde9c7"
+	},
+	"createdAt": {
+		"$date": "2020-11-17T03:41:55.366Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-17T03:41:55.366Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb38d4ab03d07272bbde9e9"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb38d4ab03d07272bbde9e7"
+	},
+	"createdAt": {
+		"$date": "2020-11-17T08:43:54.051Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-17T08:43:54.051Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb39bc9b03d07272bbdea09"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb39bc9b03d07272bbdea07"
+	},
+	"createdAt": {
+		"$date": "2020-11-17T09:45:45.976Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-17T09:45:45.977Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb39ff1b03d07272bbdea29"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb39ff1b03d07272bbdea27"
+	},
+	"createdAt": {
+		"$date": "2020-11-17T10:03:29.512Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-17T10:03:29.512Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb3f2a9b03d07272bbdea49"
+	},
+	"name": "Flock-1",
+	"birdCount": 800,
+	"farmId": {
+		"$oid": "5fb3f2a8b03d07272bbdea47"
+	},
+	"createdAt": {
+		"$date": "2020-11-17T15:56:25.007Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-17T15:58:08.198Z"
+	},
+	"chickPlacementDate": {
+		"$date": "2020-11-24T18:30:00.000Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb4305bb03d07272bbdea6c"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb4305bb03d07272bbdea6a"
+	},
+	"createdAt": {
+		"$date": "2020-11-17T20:19:39.173Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-17T20:19:39.173Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb49139b03d07272bbdea8c"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb49139b03d07272bbdea8a"
+	},
+	"createdAt": {
+		"$date": "2020-11-18T03:12:57.550Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-18T03:12:57.551Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb4f640b03d07272bbdeaac"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb4f640b03d07272bbdeaaa"
+	},
+	"createdAt": {
+		"$date": "2020-11-18T10:24:00.821Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-18T10:24:00.821Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb61384b03d07272bbdeacc"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb61384b03d07272bbdeaca"
+	},
+	"createdAt": {
+		"$date": "2020-11-19T06:41:08.273Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-19T06:41:08.273Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb7511cb03d07272bbdeaec"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb7511cb03d07272bbdeaea"
+	},
+	"createdAt": {
+		"$date": "2020-11-20T05:16:12.145Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-20T05:16:12.145Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb79c59b03d07272bbdeb0c"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb79c59b03d07272bbdeb0a"
+	},
+	"createdAt": {
+		"$date": "2020-11-20T10:37:13.038Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-20T10:37:13.038Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb7a71bb03d07272bbdeb2c"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb7a71ab03d07272bbdeb2a"
+	},
+	"createdAt": {
+		"$date": "2020-11-20T11:23:07.010Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-20T11:23:07.010Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb7b351b03d07272bbdeb4c"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb7b351b03d07272bbdeb4a"
+	},
+	"createdAt": {
+		"$date": "2020-11-20T12:15:13.909Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-20T12:15:13.909Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb87453b03d07272bbdeb6c"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb87453b03d07272bbdeb6a"
+	},
+	"createdAt": {
+		"$date": "2020-11-21T01:58:43.301Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-21T01:58:43.301Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb8772db03d07272bbdeb8c"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb8772db03d07272bbdeb8a"
+	},
+	"createdAt": {
+		"$date": "2020-11-21T02:10:53.966Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-21T02:10:53.966Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb8a021b03d07272bbdebac"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb8a021b03d07272bbdebaa"
+	},
+	"createdAt": {
+		"$date": "2020-11-21T05:05:37.827Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-21T05:05:37.827Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb944fbb03d07272bbdebcf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fb944fbb03d07272bbdebcd"
+	},
+	"createdAt": {
+		"$date": "2020-11-21T16:48:59.291Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-21T16:48:59.291Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fba0fc8b03d07272bbdebef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fba0fc8b03d07272bbdebed"
+	},
+	"createdAt": {
+		"$date": "2020-11-22T07:14:16.076Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-22T07:14:16.076Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fba108fb03d07272bbdec0f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fba108fb03d07272bbdec0d"
+	},
+	"createdAt": {
+		"$date": "2020-11-22T07:17:35.228Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-22T07:17:35.228Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbac2e9b03d07272bbdec2f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fbac2e9b03d07272bbdec2d"
+	},
+	"createdAt": {
+		"$date": "2020-11-22T19:58:33.988Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-22T19:58:33.988Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbbbbc2b03d07272bbdec4f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fbbbbc2b03d07272bbdec4d"
+	},
+	"createdAt": {
+		"$date": "2020-11-23T13:40:18.868Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-23T13:40:18.868Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbc077cb03d07272bbdec6f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fbc077cb03d07272bbdec6d"
+	},
+	"createdAt": {
+		"$date": "2020-11-23T19:03:24.078Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-23T19:03:24.079Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbda17bb03d07272bbdec8f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fbda17bb03d07272bbdec8d"
+	},
+	"createdAt": {
+		"$date": "2020-11-25T00:12:43.153Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-25T00:12:43.153Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbe09b3b03d07272bbdecaf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fbe09b3b03d07272bbdecad"
+	},
+	"createdAt": {
+		"$date": "2020-11-25T07:37:23.806Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-25T07:37:23.806Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbe607bb03d07272bbdeccf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fbe607bb03d07272bbdeccd"
+	},
+	"createdAt": {
+		"$date": "2020-11-25T13:47:39.937Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-25T13:47:39.937Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbe65abb03d07272bbdecef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fbe65abb03d07272bbdeced"
+	},
+	"createdAt": {
+		"$date": "2020-11-25T14:09:47.977Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-25T14:09:47.977Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbf487cb03d07272bbded0f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fbf487cb03d07272bbded0d"
+	},
+	"createdAt": {
+		"$date": "2020-11-26T06:17:32.235Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-26T06:17:32.235Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbf87acb03d07272bbded2f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fbf87acb03d07272bbded2d"
+	},
+	"createdAt": {
+		"$date": "2020-11-26T10:47:08.156Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-26T10:47:08.156Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbff9edb03d07272bbded4f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fbff9edb03d07272bbded4d"
+	},
+	"createdAt": {
+		"$date": "2020-11-26T18:54:37.274Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-26T18:54:37.274Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc06021b03d07272bbded6f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc06021b03d07272bbded6d"
+	},
+	"createdAt": {
+		"$date": "2020-11-27T02:10:41.118Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-27T02:10:41.118Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc07aceb03d07272bbded8f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc07aceb03d07272bbded8d"
+	},
+	"createdAt": {
+		"$date": "2020-11-27T04:04:30.673Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-27T04:04:30.673Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc0b983b03d07272bbdedaf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc0b983b03d07272bbdedad"
+	},
+	"createdAt": {
+		"$date": "2020-11-27T08:32:03.541Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-27T08:32:03.541Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc0b9b5b03d07272bbdedcf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc0b9b5b03d07272bbdedcd"
+	},
+	"createdAt": {
+		"$date": "2020-11-27T08:32:53.531Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-27T08:32:53.531Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc107feb03d07272bbdedef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc107feb03d07272bbdeded"
+	},
+	"createdAt": {
+		"$date": "2020-11-27T14:06:54.400Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-27T14:06:54.400Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc11a28b03d07272bbdee0f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc11a28b03d07272bbdee0d"
+	},
+	"createdAt": {
+		"$date": "2020-11-27T15:24:24.937Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-27T15:24:24.937Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc3cd79b03d07272bbdee2f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc3cd79b03d07272bbdee2d"
+	},
+	"createdAt": {
+		"$date": "2020-11-29T16:34:01.782Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-29T16:34:01.782Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc3d619b03d07272bbdee4f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc3d619b03d07272bbdee4d"
+	},
+	"createdAt": {
+		"$date": "2020-11-29T17:10:49.294Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-29T17:10:49.295Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc48cddb03d07272bbdee6f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc48cddb03d07272bbdee6d"
+	},
+	"createdAt": {
+		"$date": "2020-11-30T06:10:37.738Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-30T06:10:37.738Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc4a889b03d07272bbdee8f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc4a889b03d07272bbdee8d"
+	},
+	"createdAt": {
+		"$date": "2020-11-30T08:08:41.109Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-30T08:08:41.109Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc4d97fb03d07272bbdeeaf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc4d97fb03d07272bbdeead"
+	},
+	"createdAt": {
+		"$date": "2020-11-30T11:37:35.290Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-30T11:37:35.290Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc4d9a3b03d07272bbdeecf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc4d9a3b03d07272bbdeecd"
+	},
+	"createdAt": {
+		"$date": "2020-11-30T11:38:11.271Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-30T11:38:11.271Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc50115b03d07272bbdeeef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc50115b03d07272bbdeeed"
+	},
+	"createdAt": {
+		"$date": "2020-11-30T14:26:29.679Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-30T14:26:29.679Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc50188b03d07272bbdef0f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc50188b03d07272bbdef0d"
+	},
+	"createdAt": {
+		"$date": "2020-11-30T14:28:24.598Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-30T14:28:24.598Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc615fdb03d07272bbdef2f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc615fdb03d07272bbdef2d"
+	},
+	"createdAt": {
+		"$date": "2020-12-01T10:07:57.682Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-01T10:07:57.682Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc708d0b03d07272bbdef4f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc708d0b03d07272bbdef4d"
+	},
+	"createdAt": {
+		"$date": "2020-12-02T03:24:00.606Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-02T03:24:00.606Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc780fdb03d07272bbdef6f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc780fdb03d07272bbdef6d"
+	},
+	"createdAt": {
+		"$date": "2020-12-02T11:56:45.637Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-02T11:56:45.637Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc7ccc5b03d07272bbdef8f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc7ccc5b03d07272bbdef8d"
+	},
+	"createdAt": {
+		"$date": "2020-12-02T17:20:05.393Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-02T17:20:05.393Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc7d6f8b03d07272bbdefaf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc7d6f8b03d07272bbdefad"
+	},
+	"createdAt": {
+		"$date": "2020-12-02T18:03:36.551Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-02T18:03:36.552Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc8ab30b03d07272bbdefcf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc8ab30b03d07272bbdefcd"
+	},
+	"createdAt": {
+		"$date": "2020-12-03T09:09:04.433Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-03T09:09:04.433Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc9d057b03d07272bbdefef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc9d057b03d07272bbdefed"
+	},
+	"createdAt": {
+		"$date": "2020-12-04T05:59:51.245Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-04T05:59:51.245Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc9f75bb03d07272bbdf00f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fc9f75bb03d07272bbdf00d"
+	},
+	"createdAt": {
+		"$date": "2020-12-04T08:46:19.146Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-04T08:46:19.146Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fca13fab03d07272bbdf02f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fca13fab03d07272bbdf02d"
+	},
+	"createdAt": {
+		"$date": "2020-12-04T10:48:26.750Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-04T10:48:26.750Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fca342cb03d07272bbdf04f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fca342cb03d07272bbdf04d"
+	},
+	"createdAt": {
+		"$date": "2020-12-04T13:05:48.325Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-04T13:05:48.325Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fca4223b03d07272bbdf06f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fca4223b03d07272bbdf06d"
+	},
+	"createdAt": {
+		"$date": "2020-12-04T14:05:23.865Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-04T14:05:23.865Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fca76c3b03d07272bbdf08f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fca76c3b03d07272bbdf08d"
+	},
+	"createdAt": {
+		"$date": "2020-12-04T17:49:55.922Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-04T17:49:55.922Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcb039db03d07272bbdf0af"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fcb039db03d07272bbdf0ad"
+	},
+	"createdAt": {
+		"$date": "2020-12-05T03:50:53.137Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-05T03:50:53.137Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcb68a4b03d07272bbdf0cf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fcb68a4b03d07272bbdf0cd"
+	},
+	"createdAt": {
+		"$date": "2020-12-05T11:01:56.761Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-05T11:01:56.762Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcb8eedb03d07272bbdf0ef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fcb8eedb03d07272bbdf0ed"
+	},
+	"createdAt": {
+		"$date": "2020-12-05T13:45:17.571Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-05T13:45:17.571Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcbd1efb03d07272bbdf10f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fcbd1efb03d07272bbdf10d"
+	},
+	"createdAt": {
+		"$date": "2020-12-05T18:31:11.729Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-05T18:31:11.729Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcbd274b03d07272bbdf12f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fcbd274b03d07272bbdf12d"
+	},
+	"createdAt": {
+		"$date": "2020-12-05T18:33:24.690Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-05T18:33:24.690Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcdbf34b03d07272bbdf14f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fcdbf34b03d07272bbdf14d"
+	},
+	"createdAt": {
+		"$date": "2020-12-07T05:35:48.492Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-07T05:35:48.493Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcdbf6fb03d07272bbdf16f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fcdbf6fb03d07272bbdf16d"
+	},
+	"createdAt": {
+		"$date": "2020-12-07T05:36:47.101Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-07T05:36:47.101Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcee3e2b03d07272bbdf18f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fcee3e2b03d07272bbdf18d"
+	},
+	"createdAt": {
+		"$date": "2020-12-08T02:24:34.291Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-08T02:24:34.291Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcf06d7b03d07272bbdf1af"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fcf06d7b03d07272bbdf1ad"
+	},
+	"createdAt": {
+		"$date": "2020-12-08T04:53:43.194Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-08T04:53:43.195Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcfb880b03d07272bbdf1cf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fcfb880b03d07272bbdf1cd"
+	},
+	"createdAt": {
+		"$date": "2020-12-08T17:31:44.749Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-08T17:31:44.750Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd0b050b03d07272bbdf1ef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fd0b050b03d07272bbdf1ed"
+	},
+	"createdAt": {
+		"$date": "2020-12-09T11:09:04.206Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-09T11:09:04.206Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd21337b03d07272bbdf20f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fd21337b03d07272bbdf20d"
+	},
+	"createdAt": {
+		"$date": "2020-12-10T12:23:19.630Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-10T12:23:19.630Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd4504eb03d07272bbdf22f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fd4504eb03d07272bbdf22d"
+	},
+	"createdAt": {
+		"$date": "2020-12-12T05:08:30.415Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-12T05:08:30.415Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd45749b03d07272bbdf24f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fd45749b03d07272bbdf24d"
+	},
+	"createdAt": {
+		"$date": "2020-12-12T05:38:17.256Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-12T05:38:17.256Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd4ccdbb03d07272bbdf26f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fd4ccdbb03d07272bbdf26d"
+	},
+	"createdAt": {
+		"$date": "2020-12-12T13:59:55.946Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-12T13:59:55.946Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd5b590b03d07272bbdf28f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fd5b590b03d07272bbdf28d"
+	},
+	"createdAt": {
+		"$date": "2020-12-13T06:32:48.910Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-13T06:32:48.910Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd769b9b03d07272bbdf2af"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fd769b9b03d07272bbdf2ad"
+	},
+	"createdAt": {
+		"$date": "2020-12-14T13:33:45.976Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-14T13:33:45.976Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd76a0db03d07272bbdf2cf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fd76a0db03d07272bbdf2cd"
+	},
+	"createdAt": {
+		"$date": "2020-12-14T13:35:09.249Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-14T13:35:09.249Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd7985fb03d07272bbdf2ef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fd7985fb03d07272bbdf2ed"
+	},
+	"createdAt": {
+		"$date": "2020-12-14T16:52:47.148Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-14T16:52:47.148Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd798b8b03d07272bbdf30f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fd798b8b03d07272bbdf30d"
+	},
+	"createdAt": {
+		"$date": "2020-12-14T16:54:16.071Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-14T16:54:16.071Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd79c60b03d07272bbdf32f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fd79c60b03d07272bbdf32d"
+	},
+	"createdAt": {
+		"$date": "2020-12-14T17:09:52.536Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-14T17:09:52.536Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd86ec4b03d07272bbdf34f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fd86ec4b03d07272bbdf34d"
+	},
+	"createdAt": {
+		"$date": "2020-12-15T08:07:32.672Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-15T08:07:32.672Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd876d6b03d07272bbdf36f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fd876d6b03d07272bbdf36d"
+	},
+	"createdAt": {
+		"$date": "2020-12-15T08:41:58.969Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-15T08:41:58.969Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd89bcfb03d07272bbdf38f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fd89bcfb03d07272bbdf38d"
+	},
+	"createdAt": {
+		"$date": "2020-12-15T11:19:43.545Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-15T11:19:43.545Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdab77bb03d07272bbdf3af"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fdab77bb03d07272bbdf3ad"
+	},
+	"createdAt": {
+		"$date": "2020-12-17T01:42:19.933Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-17T01:42:19.933Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdb5390b03d07272bbdf3cf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fdb5390b03d07272bbdf3cd"
+	},
+	"createdAt": {
+		"$date": "2020-12-17T12:48:16.288Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-17T12:48:16.288Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdb542eb03d07272bbdf3ef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fdb542eb03d07272bbdf3ed"
+	},
+	"createdAt": {
+		"$date": "2020-12-17T12:50:54.096Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-17T12:50:54.096Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdc3996b03d07272bbdf40f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fdc3996b03d07272bbdf40d"
+	},
+	"createdAt": {
+		"$date": "2020-12-18T05:09:42.024Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-18T05:09:42.024Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdc3ec1b03d07272bbdf42f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fdc3ec1b03d07272bbdf42d"
+	},
+	"createdAt": {
+		"$date": "2020-12-18T05:31:45.408Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-18T05:31:45.408Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdc61a8b03d07272bbdf44f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fdc61a8b03d07272bbdf44d"
+	},
+	"createdAt": {
+		"$date": "2020-12-18T08:00:40.354Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-18T08:00:40.354Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdccdaab03d07272bbdf46f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fdccdaab03d07272bbdf46d"
+	},
+	"createdAt": {
+		"$date": "2020-12-18T15:41:30.934Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-18T15:41:30.934Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdd019eb03d07272bbdf48f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fdd019eb03d07272bbdf48d"
+	},
+	"createdAt": {
+		"$date": "2020-12-18T19:23:10.176Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-18T19:23:10.176Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdd9fbfb03d07272bbdf4af"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fdd9fbfb03d07272bbdf4ad"
+	},
+	"createdAt": {
+		"$date": "2020-12-19T06:37:51.784Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-19T06:37:51.784Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdd9fc0b03d07272bbdf4cf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fdd9fc0b03d07272bbdf4cd"
+	},
+	"createdAt": {
+		"$date": "2020-12-19T06:37:52.425Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-19T06:37:52.425Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fddd670b03d07272bbdf4ef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fddd670b03d07272bbdf4ed"
+	},
+	"createdAt": {
+		"$date": "2020-12-19T10:31:12.344Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-19T10:31:12.344Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fde29c6b03d07272bbdf50f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fde29c6b03d07272bbdf50d"
+	},
+	"createdAt": {
+		"$date": "2020-12-19T16:26:46.312Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-19T16:26:46.312Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fde2a1bb03d07272bbdf52f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fde2a1bb03d07272bbdf52d"
+	},
+	"createdAt": {
+		"$date": "2020-12-19T16:28:11.912Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-19T16:28:11.912Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdeb64cb03d07272bbdf54f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fdeb64cb03d07272bbdf54d"
+	},
+	"createdAt": {
+		"$date": "2020-12-20T02:26:20.137Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-20T02:26:20.137Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdf5aa1b03d07272bbdf56f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fdf5aa1b03d07272bbdf56d"
+	},
+	"createdAt": {
+		"$date": "2020-12-20T14:07:29.421Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-20T14:07:29.421Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdf5b1ab03d07272bbdf58f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fdf5b1ab03d07272bbdf58d"
+	},
+	"createdAt": {
+		"$date": "2020-12-20T14:09:30.296Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-20T14:09:30.296Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe4d62cb03d07272bbdf5af"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fe4d62cb03d07272bbdf5ad"
+	},
+	"createdAt": {
+		"$date": "2020-12-24T17:55:56.069Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-24T17:55:56.069Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe56e09b03d07272bbdf5cf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fe56e09b03d07272bbdf5cd"
+	},
+	"createdAt": {
+		"$date": "2020-12-25T04:43:53.654Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-25T04:43:53.654Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe5a5eab03d07272bbdf5ef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fe5a5eab03d07272bbdf5ed"
+	},
+	"createdAt": {
+		"$date": "2020-12-25T08:42:18.540Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-25T08:42:18.541Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe5a61db03d07272bbdf60f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fe5a61db03d07272bbdf60d"
+	},
+	"createdAt": {
+		"$date": "2020-12-25T08:43:09.299Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-25T08:43:09.299Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe5b69bb03d07272bbdf62f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fe5b69bb03d07272bbdf62d"
+	},
+	"createdAt": {
+		"$date": "2020-12-25T09:53:31.497Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-25T09:53:31.497Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe5c035b03d07272bbdf64f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fe5c035b03d07272bbdf64d"
+	},
+	"createdAt": {
+		"$date": "2020-12-25T10:34:29.416Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-25T10:34:29.416Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe625d2b03d07272bbdf66f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fe625d2b03d07272bbdf66d"
+	},
+	"createdAt": {
+		"$date": "2020-12-25T17:48:02.332Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-25T17:48:02.332Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe68d26b03d07272bbdf68f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fe68d26b03d07272bbdf68d"
+	},
+	"createdAt": {
+		"$date": "2020-12-26T01:08:54.236Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-26T01:08:54.236Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe7509ab03d07272bbdf6af"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fe7509ab03d07272bbdf6ad"
+	},
+	"createdAt": {
+		"$date": "2020-12-26T15:02:50.471Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-26T15:02:50.471Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe76251b03d07272bbdf6cf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fe76251b03d07272bbdf6cd"
+	},
+	"createdAt": {
+		"$date": "2020-12-26T16:18:25.760Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-26T16:18:25.760Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe7e34fb03d07272bbdf6ef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fe7e34fb03d07272bbdf6ed"
+	},
+	"createdAt": {
+		"$date": "2020-12-27T01:28:47.911Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-27T01:28:47.911Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe89c19b03d07272bbdf70f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fe89c19b03d07272bbdf70d"
+	},
+	"createdAt": {
+		"$date": "2020-12-27T14:37:13.028Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-27T14:37:13.028Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe9725cb03d07272bbdf72f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fe9725cb03d07272bbdf72d"
+	},
+	"createdAt": {
+		"$date": "2020-12-28T05:51:24.745Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-28T05:51:24.745Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe994ffb03d07272bbdf74f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fe994ffb03d07272bbdf74d"
+	},
+	"createdAt": {
+		"$date": "2020-12-28T08:19:11.882Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-28T08:19:11.882Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe99fdfb03d07272bbdf76f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fe99fdfb03d07272bbdf76d"
+	},
+	"createdAt": {
+		"$date": "2020-12-28T09:05:35.894Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-28T09:05:35.894Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5feaa42bb03d07272bbdf78f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5feaa42bb03d07272bbdf78d"
+	},
+	"createdAt": {
+		"$date": "2020-12-29T03:36:11.888Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-29T03:36:11.889Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5feb3d33b03d07272bbdf7af"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5feb3d33b03d07272bbdf7ad"
+	},
+	"createdAt": {
+		"$date": "2020-12-29T14:29:07.169Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-29T14:29:07.169Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5feb3dccb03d07272bbdf7cf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5feb3dccb03d07272bbdf7cd"
+	},
+	"createdAt": {
+		"$date": "2020-12-29T14:31:40.648Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-29T14:31:40.648Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5feb5a30b03d07272bbdf7ef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5feb5a30b03d07272bbdf7ed"
+	},
+	"createdAt": {
+		"$date": "2020-12-29T16:32:48.574Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-29T16:32:48.574Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5feb5ad0b03d07272bbdf80f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5feb5ad0b03d07272bbdf80d"
+	},
+	"createdAt": {
+		"$date": "2020-12-29T16:35:28.470Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-29T16:35:28.470Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fec9926b03d07272bbdf82f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fec9926b03d07272bbdf82d"
+	},
+	"createdAt": {
+		"$date": "2020-12-30T15:13:42.325Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-30T15:13:42.325Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fed2e2ab03d07272bbdf84f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fed2e2ab03d07272bbdf84d"
+	},
+	"createdAt": {
+		"$date": "2020-12-31T01:49:30.641Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-31T01:49:30.641Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fedbe67b03d07272bbdf86f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fedbe67b03d07272bbdf86d"
+	},
+	"createdAt": {
+		"$date": "2020-12-31T12:04:55.341Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-31T12:04:55.341Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fedbfc6b03d07272bbdf88f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fedbfc5b03d07272bbdf88d"
+	},
+	"createdAt": {
+		"$date": "2020-12-31T12:10:46.007Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-31T12:10:46.007Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fedbfd1b03d07272bbdf8af"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fedbfd1b03d07272bbdf8ad"
+	},
+	"createdAt": {
+		"$date": "2020-12-31T12:10:57.369Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-31T12:10:57.369Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fedd3d9b03d07272bbdf8cf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fedd3d9b03d07272bbdf8cd"
+	},
+	"createdAt": {
+		"$date": "2020-12-31T13:36:25.937Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-31T13:36:25.937Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fedeb77b03d07272bbdf8ef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fedeb77b03d07272bbdf8ed"
+	},
+	"createdAt": {
+		"$date": "2020-12-31T15:17:11.598Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-31T15:17:11.598Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fedf825b03d07272bbdf90f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fedf825b03d07272bbdf90d"
+	},
+	"createdAt": {
+		"$date": "2020-12-31T16:11:17.226Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-31T16:11:17.226Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fee0628b03d07272bbdf92f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fee0628b03d07272bbdf92d"
+	},
+	"createdAt": {
+		"$date": "2020-12-31T17:11:04.589Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-31T17:11:04.589Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fef5690b03d07272bbdf94f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fef5690b03d07272bbdf94d"
+	},
+	"createdAt": {
+		"$date": "2021-01-01T17:06:24.950Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-01T17:06:24.950Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fef5ed3b03d07272bbdf96f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fef5ed3b03d07272bbdf96d"
+	},
+	"createdAt": {
+		"$date": "2021-01-01T17:41:39.310Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-01T17:41:39.311Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fef5fe0b03d07272bbdf98f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fef5fe0b03d07272bbdf98d"
+	},
+	"createdAt": {
+		"$date": "2021-01-01T17:46:08.602Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-01T17:46:08.602Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fef6876b03d07272bbdf9af"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5fef6876b03d07272bbdf9ad"
+	},
+	"createdAt": {
+		"$date": "2021-01-01T18:22:46.362Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-01T18:22:46.362Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff03728b03d07272bbdf9cf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff03728b03d07272bbdf9cd"
+	},
+	"createdAt": {
+		"$date": "2021-01-02T09:04:40.627Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-02T09:04:40.627Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff157b9b03d07272bbdf9ef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff157b9b03d07272bbdf9ed"
+	},
+	"createdAt": {
+		"$date": "2021-01-03T05:35:53.187Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-03T05:35:53.187Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff294e4b03d07272bbdfa0f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff294e4b03d07272bbdfa0d"
+	},
+	"createdAt": {
+		"$date": "2021-01-04T04:09:08.338Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-04T04:09:08.338Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff2d43cb03d07272bbdfa2f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff2d43cb03d07272bbdfa2d"
+	},
+	"createdAt": {
+		"$date": "2021-01-04T08:39:24.052Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-04T08:39:24.052Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff34a0cb03d07272bbdfa4f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff34a0cb03d07272bbdfa4d"
+	},
+	"createdAt": {
+		"$date": "2021-01-04T17:02:04.428Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-04T17:02:04.428Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff3b79eb03d07272bbdfa6f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff3b79eb03d07272bbdfa6d"
+	},
+	"createdAt": {
+		"$date": "2021-01-05T00:49:34.032Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-05T00:49:34.032Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff54bdcb03d07272bbdfa8f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff54bdcb03d07272bbdfa8d"
+	},
+	"createdAt": {
+		"$date": "2021-01-06T05:34:20.983Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-06T05:34:20.983Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff5a232b03d07272bbdfaaf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff5a232b03d07272bbdfaad"
+	},
+	"createdAt": {
+		"$date": "2021-01-06T11:42:42.924Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-06T11:42:42.924Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff5cd69b03d07272bbdfacf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff5cd69b03d07272bbdfacd"
+	},
+	"createdAt": {
+		"$date": "2021-01-06T14:47:05.118Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-06T14:47:05.118Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff5d032b03d07272bbdfaef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff5d032b03d07272bbdfaed"
+	},
+	"createdAt": {
+		"$date": "2021-01-06T14:58:58.608Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-06T14:58:58.608Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff6e304b03d07272bbdfb0f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff6e304b03d07272bbdfb0d"
+	},
+	"createdAt": {
+		"$date": "2021-01-07T10:31:32.567Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-07T10:31:32.567Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff7f7cfb03d07272bbdfb2f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff7f7cfb03d07272bbdfb2d"
+	},
+	"createdAt": {
+		"$date": "2021-01-08T06:12:31.655Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-08T06:12:31.655Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff924a8b03d07272bbdfb4f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff924a8b03d07272bbdfb4d"
+	},
+	"createdAt": {
+		"$date": "2021-01-09T03:36:08.047Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-09T03:36:08.047Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff93c2cb03d07272bbdfb6f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff93c2cb03d07272bbdfb6d"
+	},
+	"createdAt": {
+		"$date": "2021-01-09T05:16:28.116Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-09T05:16:28.116Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff98670b03d07272bbdfb8f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff98670b03d07272bbdfb8d"
+	},
+	"createdAt": {
+		"$date": "2021-01-09T10:33:20.527Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-09T10:33:20.527Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff99b16b03d07272bbdfbaf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff99b16b03d07272bbdfbad"
+	},
+	"createdAt": {
+		"$date": "2021-01-09T12:01:26.416Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-09T12:01:26.416Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff9d1ffb03d07272bbdfbcf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff9d1ffb03d07272bbdfbcd"
+	},
+	"createdAt": {
+		"$date": "2021-01-09T15:55:43.851Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-09T15:55:43.851Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff9d2a3b03d07272bbdfbef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ff9d2a3b03d07272bbdfbed"
+	},
+	"createdAt": {
+		"$date": "2021-01-09T15:58:27.783Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-09T15:58:27.783Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffaafe9b03d07272bbdfc0f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ffaafe9b03d07272bbdfc0d"
+	},
+	"createdAt": {
+		"$date": "2021-01-10T07:42:33.885Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-10T07:42:33.885Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffab9d9b03d07272bbdfc2f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ffab9d9b03d07272bbdfc2d"
+	},
+	"createdAt": {
+		"$date": "2021-01-10T08:24:57.546Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-10T08:24:57.546Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffb18f1b03d07272bbdfc4f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ffb18f1b03d07272bbdfc4d"
+	},
+	"createdAt": {
+		"$date": "2021-01-10T15:10:41.606Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-10T15:10:41.606Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffb5e30b03d07272bbdfc6f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ffb5e30b03d07272bbdfc6d"
+	},
+	"createdAt": {
+		"$date": "2021-01-10T20:06:08.015Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-10T20:06:08.015Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffb6023b03d07272bbdfc8f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ffb6023b03d07272bbdfc8d"
+	},
+	"createdAt": {
+		"$date": "2021-01-10T20:14:27.703Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-10T20:14:27.703Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffbb8d9b03d07272bbdfcaf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ffbb8d9b03d07272bbdfcad"
+	},
+	"createdAt": {
+		"$date": "2021-01-11T02:32:57.798Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-11T02:32:57.798Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffbf676b03d07272bbdfccf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ffbf676b03d07272bbdfccd"
+	},
+	"createdAt": {
+		"$date": "2021-01-11T06:55:50.735Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-11T06:55:50.735Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffc6520b03d07272bbdfcef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ffc6520b03d07272bbdfced"
+	},
+	"createdAt": {
+		"$date": "2021-01-11T14:48:00.851Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-11T14:48:00.851Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffc7fd8b03d07272bbdfd0f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ffc7fd8b03d07272bbdfd0d"
+	},
+	"createdAt": {
+		"$date": "2021-01-11T16:42:00.816Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-11T16:42:00.816Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffdbe88b03d07272bbdfd2f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "5ffdbe88b03d07272bbdfd2d"
+	},
+	"createdAt": {
+		"$date": "2021-01-12T15:21:44.542Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-12T15:21:44.542Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60029682b03d07272bbdfd4f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60029682b03d07272bbdfd4d"
+	},
+	"createdAt": {
+		"$date": "2021-01-16T07:32:18.211Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-16T07:32:18.211Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600296b1b03d07272bbdfd6f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "600296b1b03d07272bbdfd6d"
+	},
+	"createdAt": {
+		"$date": "2021-01-16T07:33:05.561Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-16T07:33:05.561Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60045b1fb03d07272bbdfd8f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60045b1fb03d07272bbdfd8d"
+	},
+	"createdAt": {
+		"$date": "2021-01-17T15:43:27.451Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-17T15:43:27.451Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6004660ab03d07272bbdfdaf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6004660ab03d07272bbdfdad"
+	},
+	"createdAt": {
+		"$date": "2021-01-17T16:30:02.199Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-17T16:30:02.199Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60046650b03d07272bbdfdcf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60046650b03d07272bbdfdcd"
+	},
+	"createdAt": {
+		"$date": "2021-01-17T16:31:12.067Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-17T16:31:12.067Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600514c5b03d07272bbdfdef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "600514c5b03d07272bbdfded"
+	},
+	"createdAt": {
+		"$date": "2021-01-18T04:55:33.854Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-18T04:55:33.854Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6005abdcb03d07272bbdfe0f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6005abdcb03d07272bbdfe0d"
+	},
+	"createdAt": {
+		"$date": "2021-01-18T15:40:12.539Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-18T15:40:12.539Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6007e374b03d07272bbdfe2f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6007e374b03d07272bbdfe2d"
+	},
+	"createdAt": {
+		"$date": "2021-01-20T08:01:56.489Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-20T08:01:56.489Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60081bd9b03d07272bbdfe4f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60081bd9b03d07272bbdfe4d"
+	},
+	"createdAt": {
+		"$date": "2021-01-20T12:02:33.899Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-20T12:02:33.900Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6008e77cb03d07272bbdfe6f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6008e77cb03d07272bbdfe6d"
+	},
+	"createdAt": {
+		"$date": "2021-01-21T02:31:24.301Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-21T02:31:24.301Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60094474b03d07272bbdfe8f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60094474b03d07272bbdfe8d"
+	},
+	"createdAt": {
+		"$date": "2021-01-21T09:08:04.105Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-21T09:08:04.105Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600a572cb03d07272bbdfeaf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "600a572cb03d07272bbdfead"
+	},
+	"createdAt": {
+		"$date": "2021-01-22T04:40:12.189Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-22T04:40:12.189Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600adb3ab03d07272bbdfecf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "600adb3ab03d07272bbdfecd"
+	},
+	"createdAt": {
+		"$date": "2021-01-22T14:03:38.238Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-22T14:03:38.238Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600b222eb03d07272bbdfeef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "600b222eb03d07272bbdfeed"
+	},
+	"createdAt": {
+		"$date": "2021-01-22T19:06:22.250Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-22T19:06:22.250Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600b910fb03d07272bbdff0f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "600b910fb03d07272bbdff0d"
+	},
+	"createdAt": {
+		"$date": "2021-01-23T02:59:27.908Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-23T02:59:27.908Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600bbd88b03d07272bbdff2f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "600bbd88b03d07272bbdff2d"
+	},
+	"createdAt": {
+		"$date": "2021-01-23T06:09:12.124Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-23T06:09:12.124Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600c5a8ab03d07272bbdff4f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "600c5a8ab03d07272bbdff4d"
+	},
+	"createdAt": {
+		"$date": "2021-01-23T17:19:06.214Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-23T17:19:06.214Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600d3c55b03d07272bbdff6f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "600d3c54b03d07272bbdff6d"
+	},
+	"createdAt": {
+		"$date": "2021-01-24T09:22:29.163Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-24T09:22:29.163Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600d86beb03d07272bbdff8f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "600d86beb03d07272bbdff8d"
+	},
+	"createdAt": {
+		"$date": "2021-01-24T14:39:58.985Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-24T14:39:58.986Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600ffec1b03d07272bbdffaf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "600ffec1b03d07272bbdffad"
+	},
+	"createdAt": {
+		"$date": "2021-01-26T11:36:33.056Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-26T11:36:33.056Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601108d4b03d07272bbdffcf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "601108d4b03d07272bbdffcd"
+	},
+	"createdAt": {
+		"$date": "2021-01-27T06:31:48.119Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-27T06:31:48.119Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60115f6eb03d07272bbdffef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60115f6eb03d07272bbdffed"
+	},
+	"createdAt": {
+		"$date": "2021-01-27T12:41:18.215Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-27T12:41:18.215Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60116824b03d07272bbe000f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60116824b03d07272bbe000d"
+	},
+	"createdAt": {
+		"$date": "2021-01-27T13:18:28.691Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-27T13:18:28.691Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601179cfb03d07272bbe002f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "601179cfb03d07272bbe002d"
+	},
+	"createdAt": {
+		"$date": "2021-01-27T14:33:51.410Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-27T14:33:51.410Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60121091b03d07272bbe004f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60121091b03d07272bbe004d"
+	},
+	"createdAt": {
+		"$date": "2021-01-28T01:17:05.678Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-28T01:17:05.678Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60123261b03d07272bbe006f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60123261b03d07272bbe006d"
+	},
+	"createdAt": {
+		"$date": "2021-01-28T03:41:21.989Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-28T03:41:21.989Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60125fb1b03d07272bbe008f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60125fb1b03d07272bbe008d"
+	},
+	"createdAt": {
+		"$date": "2021-01-28T06:54:41.040Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-28T06:54:41.040Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60126022b03d07272bbe00af"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60126022b03d07272bbe00ad"
+	},
+	"createdAt": {
+		"$date": "2021-01-28T06:56:34.325Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-28T06:56:34.325Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6012a38ab03d07272bbe00cf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6012a38ab03d07272bbe00cd"
+	},
+	"createdAt": {
+		"$date": "2021-01-28T11:44:10.801Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-28T11:44:10.801Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60152ed0b03d07272bbe00ef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60152ed0b03d07272bbe00ed"
+	},
+	"createdAt": {
+		"$date": "2021-01-30T10:02:56.690Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-30T10:02:56.690Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601667a3b03d07272bbe010f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "601667a3b03d07272bbe010d"
+	},
+	"createdAt": {
+		"$date": "2021-01-31T08:17:39.627Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-31T08:17:39.627Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6016858cb03d07272bbe012f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6016858cb03d07272bbe012d"
+	},
+	"createdAt": {
+		"$date": "2021-01-31T10:25:16.834Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-31T10:25:16.834Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6016aeceb03d07272bbe014f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6016aeceb03d07272bbe014d"
+	},
+	"createdAt": {
+		"$date": "2021-01-31T13:21:18.986Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-31T13:21:18.986Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6017bfa8b03d07272bbe016f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6017bfa8b03d07272bbe016d"
+	},
+	"createdAt": {
+		"$date": "2021-02-01T08:45:28.395Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-01T08:45:28.395Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6017f4e2b03d07272bbe018f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6017f4e2b03d07272bbe018d"
+	},
+	"createdAt": {
+		"$date": "2021-02-01T12:32:34.507Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-01T12:32:34.507Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6018c012b03d07272bbe01af"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6018c012b03d07272bbe01ad"
+	},
+	"createdAt": {
+		"$date": "2021-02-02T02:59:30.174Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-02T02:59:30.174Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6018e404b03d07272bbe01cf"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6018e404b03d07272bbe01cd"
+	},
+	"createdAt": {
+		"$date": "2021-02-02T05:32:52.236Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-02T05:32:52.236Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6018f767b03d07272bbe01ef"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6018f767b03d07272bbe01ed"
+	},
+	"createdAt": {
+		"$date": "2021-02-02T06:55:35.865Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-02T06:55:35.865Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601902f2b03d07272bbe020f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "601902f2b03d07272bbe020d"
+	},
+	"createdAt": {
+		"$date": "2021-02-02T07:44:50.750Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-02T07:44:50.750Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601903bab03d07272bbe022f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "601903bab03d07272bbe022d"
+	},
+	"createdAt": {
+		"$date": "2021-02-02T07:48:10.569Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-02T07:48:10.569Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601a3feab03d07272bbe024f"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "601a3feab03d07272bbe024d"
+	},
+	"createdAt": {
+		"$date": "2021-02-03T06:17:14.847Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-03T06:17:14.847Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601b763eb03d07272bbe0272"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "601b763eb03d07272bbe0270"
+	},
+	"createdAt": {
+		"$date": "2021-02-04T04:21:18.687Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-04T04:21:18.687Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601d811ab03d07272bbe0292"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "601d811ab03d07272bbe0290"
+	},
+	"createdAt": {
+		"$date": "2021-02-05T17:32:10.374Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-05T17:32:10.374Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601d97deb03d07272bbe02b2"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "601d97deb03d07272bbe02b0"
+	},
+	"createdAt": {
+		"$date": "2021-02-05T19:09:18.204Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-05T19:09:18.204Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601fee1fb03d07272bbe02d2"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "601fee1fb03d07272bbe02d0"
+	},
+	"createdAt": {
+		"$date": "2021-02-07T13:41:51.120Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-07T13:41:51.120Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602019beb03d07272bbe02f2"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "602019beb03d07272bbe02f0"
+	},
+	"createdAt": {
+		"$date": "2021-02-07T16:47:58.751Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-07T16:47:58.751Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60239199b03d07272bbe0312"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60239199b03d07272bbe0310"
+	},
+	"createdAt": {
+		"$date": "2021-02-10T07:56:09.118Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-10T07:56:09.118Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6023b076b03d07272bbe0332"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6023b076b03d07272bbe0330"
+	},
+	"createdAt": {
+		"$date": "2021-02-10T10:07:50.963Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-10T10:07:50.964Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60240696b03d07272bbe0352"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60240696b03d07272bbe0350"
+	},
+	"createdAt": {
+		"$date": "2021-02-10T16:15:18.673Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-10T16:15:18.673Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60248420b03d07272bbe0372"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60248420b03d07272bbe0370"
+	},
+	"createdAt": {
+		"$date": "2021-02-11T01:10:56.235Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-11T01:10:56.235Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60248840b03d07272bbe0392"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60248840b03d07272bbe0390"
+	},
+	"createdAt": {
+		"$date": "2021-02-11T01:28:32.341Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-11T01:28:32.341Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6024a18db03d07272bbe03b2"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6024a18db03d07272bbe03b0"
+	},
+	"createdAt": {
+		"$date": "2021-02-11T03:16:29.064Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-11T03:16:29.064Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6024b677b03d07272bbe03d2"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6024b677b03d07272bbe03d0"
+	},
+	"createdAt": {
+		"$date": "2021-02-11T04:45:43.334Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-11T04:45:43.334Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60256b90b03d07272bbe03f2"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60256b90b03d07272bbe03f0"
+	},
+	"createdAt": {
+		"$date": "2021-02-11T17:38:24.313Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-11T17:38:24.313Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6025e53cb03d07272bbe0412"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6025e53cb03d07272bbe0410"
+	},
+	"createdAt": {
+		"$date": "2021-02-12T02:17:32.243Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-12T02:17:32.243Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6025f451b03d07272bbe0432"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6025f451b03d07272bbe0430"
+	},
+	"createdAt": {
+		"$date": "2021-02-12T03:21:53.160Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-12T03:21:53.160Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602716cdb03d07272bbe0455"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "602716cdb03d07272bbe0453"
+	},
+	"createdAt": {
+		"$date": "2021-02-13T00:01:17.715Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-13T00:01:17.715Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60271796b03d07272bbe0475"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60271796b03d07272bbe0473"
+	},
+	"createdAt": {
+		"$date": "2021-02-13T00:04:38.453Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-13T00:04:38.453Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602791fab03d07272bbe0495"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "602791fab03d07272bbe0493"
+	},
+	"createdAt": {
+		"$date": "2021-02-13T08:46:50.989Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-13T08:46:50.989Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6028a6bcb03d07272bbe04b5"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6028a6bcb03d07272bbe04b3"
+	},
+	"createdAt": {
+		"$date": "2021-02-14T04:27:40.916Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-14T04:27:40.916Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60296c4cb03d07272bbe04d5"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60296c4cb03d07272bbe04d3"
+	},
+	"createdAt": {
+		"$date": "2021-02-14T18:30:36.941Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-14T18:30:36.941Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6029dc5bb03d07272bbe04f5"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6029dc5bb03d07272bbe04f3"
+	},
+	"createdAt": {
+		"$date": "2021-02-15T02:28:43.572Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-15T02:28:43.572Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602a020cb03d07272bbe0515"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "602a020cb03d07272bbe0513"
+	},
+	"createdAt": {
+		"$date": "2021-02-15T05:09:32.287Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-15T05:09:32.288Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602ab84db03d07272bbe0535"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "602ab84db03d07272bbe0533"
+	},
+	"createdAt": {
+		"$date": "2021-02-15T18:07:09.038Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-15T18:07:09.038Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602c24a7b03d07272bbe0555"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "602c24a7b03d07272bbe0553"
+	},
+	"createdAt": {
+		"$date": "2021-02-16T20:01:43.478Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-16T20:01:43.478Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602d296eb03d07272bbe0579"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "602d296eb03d07272bbe0577"
+	},
+	"createdAt": {
+		"$date": "2021-02-17T14:34:22.800Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-17T14:34:22.800Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602e48ddb03d07272bbe0599"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "602e48ddb03d07272bbe0597"
+	},
+	"createdAt": {
+		"$date": "2021-02-18T11:00:45.179Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-18T11:00:45.179Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602e49d9b03d07272bbe05b9"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "602e49d9b03d07272bbe05b7"
+	},
+	"createdAt": {
+		"$date": "2021-02-18T11:04:57.564Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-18T11:04:57.564Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602e7e85b03d07272bbe05d9"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "602e7e85b03d07272bbe05d7"
+	},
+	"createdAt": {
+		"$date": "2021-02-18T14:49:41.822Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-18T14:49:41.822Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602fd53ab03d07272bbe05f9"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "602fd53ab03d07272bbe05f7"
+	},
+	"createdAt": {
+		"$date": "2021-02-19T15:11:54.291Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-19T15:11:54.291Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602fdf41b03d07272bbe0619"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "602fdf41b03d07272bbe0617"
+	},
+	"createdAt": {
+		"$date": "2021-02-19T15:54:41.275Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-19T15:54:41.275Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602fdf6bb03d07272bbe0639"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "602fdf6bb03d07272bbe0637"
+	},
+	"createdAt": {
+		"$date": "2021-02-19T15:55:23.312Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-19T15:55:23.312Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60300334b03d07272bbe0659"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60300334b03d07272bbe0657"
+	},
+	"createdAt": {
+		"$date": "2021-02-19T18:28:04.645Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-19T18:28:04.645Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6030c224b03d07272bbe0679"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6030c224b03d07272bbe0677"
+	},
+	"createdAt": {
+		"$date": "2021-02-20T08:02:44.334Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-20T08:02:44.334Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60331070b03d07272bbe0699"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60331070b03d07272bbe0697"
+	},
+	"createdAt": {
+		"$date": "2021-02-22T02:01:20.724Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-22T02:01:20.724Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6034d3d6b03d07272bbe06b9"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "6034d3d6b03d07272bbe06b7"
+	},
+	"createdAt": {
+		"$date": "2021-02-23T10:07:18.396Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-23T10:07:18.396Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60352bd1b03d07272bbe06d9"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60352bd1b03d07272bbe06d7"
+	},
+	"createdAt": {
+		"$date": "2021-02-23T16:22:41.775Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-23T16:22:41.775Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60354c56b03d07272bbe06f9"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60354c56b03d07272bbe06f7"
+	},
+	"createdAt": {
+		"$date": "2021-02-23T18:41:26.554Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-23T18:41:26.554Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60366491b03d07272bbe0719"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60366491b03d07272bbe0717"
+	},
+	"createdAt": {
+		"$date": "2021-02-24T14:37:05.433Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-24T14:37:05.433Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603700ecb03d07272bbe0739"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "603700ecb03d07272bbe0737"
+	},
+	"createdAt": {
+		"$date": "2021-02-25T01:44:12.707Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-25T01:44:12.707Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60376362b03d07272bbe0759"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "60376362b03d07272bbe0757"
+	},
+	"createdAt": {
+		"$date": "2021-02-25T08:44:18.845Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-25T08:44:18.845Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603b4410b03d07272bbe0779"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "603b4410b03d07272bbe0777"
+	},
+	"createdAt": {
+		"$date": "2021-02-28T07:19:44.562Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-28T07:19:44.562Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603b4634b03d07272bbe0799"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "603b4634b03d07272bbe0797"
+	},
+	"createdAt": {
+		"$date": "2021-02-28T07:28:52.389Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-28T07:28:52.389Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603cae14b03d07272bbe07b9"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "603cae14b03d07272bbe07b7"
+	},
+	"createdAt": {
+		"$date": "2021-03-01T09:04:20.682Z"
+	},
+	"updatedAt": {
+		"$date": "2021-03-01T09:04:20.682Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603dc7cbb03d07272bbe07d9"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "603dc7cbb03d07272bbe07d7"
+	},
+	"createdAt": {
+		"$date": "2021-03-02T05:06:19.777Z"
+	},
+	"updatedAt": {
+		"$date": "2021-03-02T05:06:19.777Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603dea5eb03d07272bbe07f9"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "603dea5eb03d07272bbe07f7"
+	},
+	"createdAt": {
+		"$date": "2021-03-02T07:33:50.593Z"
+	},
+	"updatedAt": {
+		"$date": "2021-03-02T07:33:50.593Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603f12a6b03d07272bbe0819"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "603f12a6b03d07272bbe0817"
+	},
+	"createdAt": {
+		"$date": "2021-03-03T04:37:58.268Z"
+	},
+	"updatedAt": {
+		"$date": "2021-03-03T04:37:58.268Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603f12dab03d07272bbe0839"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "603f12dab03d07272bbe0837"
+	},
+	"createdAt": {
+		"$date": "2021-03-03T04:38:50.124Z"
+	},
+	"updatedAt": {
+		"$date": "2021-03-03T04:38:50.124Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603f80e9b03d07272bbe0859"
+	},
+	"name": "Flock-1",
+	"birdCount": 0,
+	"farmId": {
+		"$oid": "603f80e9b03d07272bbe0857"
+	},
+	"createdAt": {
+		"$date": "2021-03-03T12:28:25.948Z"
+	},
+	"updatedAt": {
+		"$date": "2021-03-03T12:28:25.948Z"
+	}
+}

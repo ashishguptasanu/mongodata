@@ -1,0 +1,8904 @@
+{
+	"_id": {
+		"$oid": "5eaebfd66933504a671bed07"
+	},
+	"name": "Raj Plotery Farm",
+	"address": {
+		"line1": "Chiwaki",
+		"line2": "Naini",
+		"city": "Prayagraj",
+		"pincode": 211001,
+		"state": "UP",
+		"country": "India"
+	},
+	"isFeedMaking": "yes",
+	"flockCount": 0,
+	"feedInStock": 200,
+	"feedPurchaseRate": 17,
+	"createdAt": {
+		"$date": "2020-07-17T17:25:59.471Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-17T17:25:59.471Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eaec2c06933504a671bed32"
+	},
+	"name": "Shiva Agro",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 20000,
+	"feedPurchaseRate": 20.71,
+	"createdAt": {
+		"$date": "2020-05-03T13:10:24.279Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-03T13:11:23.226Z"
+	},
+	"address": {
+		"line1": "Vill Kanchanpur",
+		"line2": "Sakrol",
+		"city": "Biharsharif",
+		"pincode": 803101,
+		"state": "Bihar",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eafe5876933504a671bed58"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-04T09:51:03.523Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-04T09:51:03.523Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eafe92f6933504a671bed78"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1000000,
+	"feedPurchaseRate": 24,
+	"createdAt": {
+		"$date": "2020-05-04T10:06:39.863Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-04T10:09:15.916Z"
+	},
+	"address": {
+		"line1": "Rry",
+		"line2": "Try",
+		"city": "Allahabad",
+		"pincode": 211016,
+		"state": "Up",
+		"country": "Indua"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eb40f376933504a671bed9e"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-07T13:37:59.010Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-07T13:37:59.010Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eb7297b6933504a671bedbe"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-09T22:06:51.665Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-09T22:06:51.665Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec20ee18e0e0d2d80ec4503"
+	},
+	"name": "Pasupati agrovet",
+	"isFeedMaking": "no",
+	"flockCount": 2000,
+	"feedInStock": 500,
+	"feedPurchaseRate": 28,
+	"createdAt": {
+		"$date": "2020-05-18T04:28:17.516Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-10T13:11:57.635Z"
+	},
+	"address": {
+		"line1": "Brahmachari",
+		"line2": "",
+		"city": "Balasore",
+		"pincode": 756047,
+		"state": "Odisha",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec24e038e0e0d2d80ec4544"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-18T08:57:39.204Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-18T08:57:39.204Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec298c68e0e0d2d80ec456d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-18T14:16:38.786Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-18T14:16:38.786Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec3722e8e0e0d2d80ec458d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-19T05:44:14.087Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-19T05:44:14.087Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec3cb138e0e0d2d80ec45ad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-19T12:03:31.324Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-19T12:03:31.324Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec41c2b8e0e0d2d80ec45cd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-19T17:49:31.782Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-19T17:49:31.782Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec517d78e0e0d2d80ec45ed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-20T11:43:19.614Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-20T11:43:19.614Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec563208e0e0d2d80ec460d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-20T17:04:32.708Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-20T17:04:32.708Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec62ddc8e0e0d2d80ec462d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-21T07:29:32.034Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-21T07:29:32.034Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec7328f391f4368fabac396"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-22T02:01:51.139Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-22T02:01:51.140Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec7f78f391f4368fabac3c4"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-22T16:02:23.007Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-22T16:02:23.007Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec96204391f4368fabac3f5"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-23T17:48:52.026Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-23T17:48:52.026Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ec96702391f4368fabac415"
+	},
+	"name": "Saif \u0026 Bros Farms",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 20000,
+	"feedPurchaseRate": 21,
+	"createdAt": {
+		"$date": "2020-05-23T18:10:10.262Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-23T18:16:12.291Z"
+	},
+	"address": {
+		"line1": "27/2a/1n kareli",
+		"line2": "",
+		"city": "Allahabad",
+		"pincode": 211016,
+		"state": "Uttar Pradesh",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eca982895ef210cef5b7dc5"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-24T15:52:08.025Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-24T15:52:08.025Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecc25006ca39b12d9f4d6a8"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1200,
+	"feedPurchaseRate": 20,
+	"createdAt": {
+		"$date": "2020-05-25T20:05:20.314Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-25T21:48:16.353Z"
+	},
+	"address": {
+		"line1": "Shd",
+		"line2": "Dhd",
+		"city": "Dhd",
+		"pincode": 263139,
+		"state": "Dgdgd",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecd10ae6ca39b12d9f4d6cb"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-26T12:50:54.806Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-26T12:50:54.807Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ece618283e36e21dcd4a885"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-27T12:48:02.894Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T12:48:02.894Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ece624b83e36e21dcd4a8a5"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-05-27T12:51:23.633Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T12:51:23.633Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea84383e36e21dcd4a8fb"
+	},
+	"name": "Saif \u0026 Bros Farms",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 12500,
+	"feedPurchaseRate": 21,
+	"createdAt": {
+		"$date": "2020-05-27T17:49:55.255Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:44:52.641Z"
+	},
+	"address": {
+		"line1": "Jk ashiyana ",
+		"line2": "",
+		"city": "Allahabad",
+		"pincode": 211016,
+		"state": "UP",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5b39383e36e21dcd4a992"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 10000,
+	"feedPurchaseRate": 18.62,
+	"createdAt": {
+		"$date": "2020-06-02T02:04:03.865Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T02:05:57.440Z"
+	},
+	"address": {
+		"line1": "highway",
+		"line2": "petrol pump",
+		"city": "dhar",
+		"pincode": 454001,
+		"state": "MP",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5f7e083e36e21dcd4a9b5"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-02T06:55:28.632Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T06:55:28.632Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d5"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 10000,
+	"feedPurchaseRate": 18.4,
+	"createdAt": {
+		"$date": "2020-06-02T06:59:59.224Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:09:04.833Z"
+	},
+	"address": {
+		"line1": "01",
+		"line2": "bkp",
+		"city": "Patna",
+		"pincode": 803302,
+		"state": "Bihar",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5f8f383e36e21dcd4a9f5"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-02T07:00:03.123Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:00:03.123Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5f9fb83e36e21dcd4aa15"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-02T07:04:27.085Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:04:27.085Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5fa5283e36e21dcd4aa38"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-02T07:05:54.487Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:05:54.488Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5fb0083e36e21dcd4aa58"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 10000,
+	"feedPurchaseRate": 18.4,
+	"createdAt": {
+		"$date": "2020-06-02T07:08:48.398Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-16T09:20:28.789Z"
+	},
+	"address": {
+		"line1": "Kanchanpur ",
+		"line2": "",
+		"city": "Biharsarif ",
+		"pincode": 803101,
+		"state": "Bihar",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6014283e36e21dcd4aa7e"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-02T07:35:30.123Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:35:30.123Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6059783e36e21dcd4aa9e"
+	},
+	"name": "vaishali agro",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 650,
+	"feedPurchaseRate": 1846,
+	"createdAt": {
+		"$date": "2020-06-02T07:53:59.863Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T08:01:28.050Z"
+	},
+	"address": {
+		"line1": "Mansurpur milki",
+		"line2": "mahua vaishali",
+		"city": "mahua",
+		"pincode": 844122,
+		"state": "bihar",
+		"country": "india"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6060f83e36e21dcd4aabe"
+	},
+	"name": "AAA LAYER EGG FARM",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1600,
+	"feedPurchaseRate": 1600,
+	"createdAt": {
+		"$date": "2020-06-02T07:55:59.028Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T08:02:19.660Z"
+	},
+	"address": {
+		"line1": "Kaluahi",
+		"line2": "Kaluahi",
+		"city": "Kaluahi",
+		"pincode": 201014,
+		"state": "Bihar",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6146c83e36e21dcd4aafc"
+	},
+	"name": "Sahu layer farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 100,
+	"feedPurchaseRate": 940,
+	"createdAt": {
+		"$date": "2020-06-02T08:57:16.590Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T08:53:03.628Z"
+	},
+	"address": {
+		"line1": "9110077299",
+		"line2": "Mehsi",
+		"city": "Mehsi",
+		"pincode": 845426,
+		"state": "Bihar",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6156983e36e21dcd4ab1c"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-02T09:01:29.909Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T09:01:29.909Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6653583e36e21dcd4ab3c"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-02T14:41:57.138Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T14:41:57.138Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed66d2e83e36e21dcd4ab5c"
+	},
+	"name": "Singh's Laying Bird Agro Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 900,
+	"feedPurchaseRate": 958,
+	"createdAt": {
+		"$date": "2020-06-02T15:15:58.436Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T15:19:33.664Z"
+	},
+	"address": {
+		"line1": "Ara",
+		"line2": "Ara",
+		"city": "Ara",
+		"pincode": 802301,
+		"state": "Bihar",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed682ae83e36e21dcd4ab82"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-02T16:47:42.070Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T16:47:42.071Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed75a90e462ae7e1dfbac00"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-03T08:08:48.856Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-03T08:08:48.856Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8c940e462ae7e1dfbac23"
+	},
+	"name": "Sadiq \u0026 Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1000,
+	"feedPurchaseRate": 20,
+	"createdAt": {
+		"$date": "2020-06-04T10:13:20.930Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T10:16:41.547Z"
+	},
+	"address": {
+		"line1": "Hathoda",
+		"line2": "Nagar",
+		"city": "Mau",
+		"pincode": 227316,
+		"state": "UP",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8ce5ee462ae7e1dfbac46"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-04T10:35:10.898Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T10:35:10.898Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8d1b4e462ae7e1dfbac66"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-04T10:49:24.573Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T10:49:24.573Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8d1e4e462ae7e1dfbac86"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 669,
+	"feedPurchaseRate": 25,
+	"createdAt": {
+		"$date": "2020-06-04T10:50:12.706Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T10:55:03.220Z"
+	},
+	"address": {
+		"line1": "ghbb",
+		"line2": "",
+		"city": "vhhv",
+		"pincode": 898,
+		"state": "vbbb",
+		"country": "vvvv"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8f0ede462ae7e1dfbaca9"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-04T13:02:37.840Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T13:02:37.841Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed9ac98e462ae7e1dfbacc9"
+	},
+	"name": "New Farm NLF ",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 50,
+	"feedPurchaseRate": 19,
+	"createdAt": {
+		"$date": "2020-06-05T02:23:20.522Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-05T02:31:30.386Z"
+	},
+	"address": {
+		"line1": "Mahua ",
+		"line2": "Mahua ",
+		"city": "Mahua ",
+		"pincode": 84122,
+		"state": "Bihar ",
+		"country": "india"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edcee15e462ae7e1dfbacec"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1,
+	"feedPurchaseRate": 20,
+	"createdAt": {
+		"$date": "2020-06-07T13:39:33.337Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-07T13:40:58.207Z"
+	},
+	"address": {
+		"line1": "Hyderabad",
+		"line2": "Telangana",
+		"city": "Hyderabad",
+		"pincode": 500049,
+		"state": "Telangana",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edefed6e462ae7e1dfbad0f"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 5000,
+	"feedPurchaseRate": 80,
+	"createdAt": {
+		"$date": "2020-06-09T03:15:34.814Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-09T03:17:43.692Z"
+	},
+	"address": {
+		"line1": "belagavi",
+		"line2": "belagaviq",
+		"city": "Belagavi",
+		"pincode": 590006,
+		"state": "Karnataka",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edfb290e462ae7e1dfbad3b"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-09T16:02:24.969Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-09T16:02:24.969Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee59b62e462ae7e1dfbad63"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1000,
+	"feedPurchaseRate": 1120,
+	"createdAt": {
+		"$date": "2020-06-14T03:37:06.120Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-14T03:39:26.692Z"
+	},
+	"address": {
+		"line1": "Handia",
+		"line2": "Farm",
+		"city": "Allahabad",
+		"pincode": 211001,
+		"state": "Uttar pradesh",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee99bd1e462ae7e1dfbad8e"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1500,
+	"feedPurchaseRate": 19.2,
+	"createdAt": {
+		"$date": "2020-06-17T04:28:01.885Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-17T04:32:52.278Z"
+	},
+	"address": {
+		"line1": "45",
+		"line2": "सिकी सारे ",
+		"city": "अल्लाहाबाद ",
+		"pincode": 221508,
+		"state": "उत्तरप्रदेश ",
+		"country": "India "
+	}
+}
+{
+	"_id": {
+		"$oid": "5eeb5512e462ae7e1dfbadb7"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-18T11:50:42.040Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-18T11:50:42.040Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eec3c7ae462ae7e1dfbadda"
+	},
+	"name": "Puneet",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 650,
+	"feedPurchaseRate": 1020,
+	"createdAt": {
+		"$date": "2020-06-19T04:18:02.009Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-19T04:21:19.075Z"
+	},
+	"address": {
+		"line1": "Dhobha ",
+		"line2": "Baraut",
+		"city": "Prayagraj",
+		"pincode": 0,
+		"state": "Uttar pradesh",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ef050dcb3b83304311f4753"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-22T06:34:04.017Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-22T06:34:04.017Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ef499d8b03d07272bbdccf8"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-25T12:34:32.612Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-25T12:34:32.612Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ef7a4bcb03d07272bbdcd1a"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-27T19:57:48.336Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-27T19:57:48.336Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5efaef9ab03d07272bbdcd3a"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-06-30T07:54:02.930Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-30T07:54:02.930Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f04b046b03d07272bbdcd5a"
+	},
+	"name": "Abbu farm ",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 500,
+	"feedPurchaseRate": 18,
+	"createdAt": {
+		"$date": "2020-07-07T17:26:30.012Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-07T17:28:43.660Z"
+	},
+	"address": {
+		"line1": "Makka masjid ",
+		"line2": "",
+		"city": "Allahabad",
+		"pincode": 211016,
+		"state": "Uttar Pradesh",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f086c62b03d07272bbdcd83"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-07-10T13:25:54.045Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-10T13:25:54.045Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f107afeb03d07272bbdcdc5"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 25,
+	"feedPurchaseRate": 25,
+	"createdAt": {
+		"$date": "2020-07-16T16:06:22.393Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-06T13:36:57.777Z"
+	},
+	"address": {
+		"line1": "Test",
+		"line2": "Test",
+		"city": "Test",
+		"pincode": 560084,
+		"state": "Karnataka",
+		"country": "India "
+	}
+}
+{
+	"_id": {
+		"$oid": "5f109479b03d07272bbdcde5"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-07-16T17:55:05.197Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-16T17:55:05.197Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f11be0ab03d07272bbdce08"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-07-17T15:04:42.560Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-17T15:04:42.560Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f160460b03d07272bbdce28"
+	},
+	"name": "FRESH FARMERS",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 35,
+	"feedPurchaseRate": 30,
+	"createdAt": {
+		"$date": "2020-07-20T20:53:52.831Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-20T20:56:04.512Z"
+	},
+	"address": {
+		"line1": "Bodhgaya",
+		"line2": "",
+		"city": "Gaya",
+		"pincode": 824234,
+		"state": "Bihar",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f1e8b16b03d07272bbdce4d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-07-27T08:06:46.481Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-27T08:06:46.481Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f22e83eb03d07272bbdce6d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-07-30T15:33:18.325Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-30T15:33:18.326Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f2391aeb03d07272bbdce8d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1000,
+	"feedPurchaseRate": 400,
+	"createdAt": {
+		"$date": "2020-07-31T03:36:14.258Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-31T03:39:09.529Z"
+	},
+	"address": {
+		"line1": "Kothapeta",
+		"line2": "Sabbavaram",
+		"city": "Vizag",
+		"pincode": 533287,
+		"state": "Andhra pradesh ",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f268dedb03d07272bbdceb0"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-08-02T09:57:01.255Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-02T09:57:01.255Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f296906b03d07272bbdced0"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-08-04T13:56:22.749Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-04T13:56:22.749Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f2c5c57b03d07272bbdcef3"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-08-06T19:39:03.141Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-06T19:39:03.141Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f2d5762b03d07272bbdcf13"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-08-07T13:30:10.136Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-07T13:30:10.136Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f2ee27ab03d07272bbdcf33"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-08-08T17:35:54.439Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-08T17:35:54.440Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f301289b03d07272bbdcf53"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-08-09T15:13:13.116Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-09T15:13:13.116Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f317689b03d07272bbdcf89"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1,
+	"feedPurchaseRate": 21,
+	"createdAt": {
+		"$date": "2020-08-10T16:32:09.949Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-10T16:33:00.239Z"
+	},
+	"address": {
+		"line1": "Vvv",
+		"line2": "Vv",
+		"city": "B",
+		"pincode": 77,
+		"state": "Bb",
+		"country": "H"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f323863b03d07272bbdcfac"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-08-11T06:19:15.911Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-11T06:19:15.912Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f362cdab03d07272bbdcfcc"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-08-14T06:19:06.805Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-14T06:19:06.805Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f3798b3b03d07272bbdcfee"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-08-15T08:11:31.762Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-15T08:11:31.762Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f37b140b03d07272bbdd00e"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-08-15T09:56:16.083Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-15T09:56:16.083Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f37cbd2b03d07272bbdd02e"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-08-15T11:49:38.730Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-15T11:49:38.730Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f37f9c8b03d07272bbdd04e"
+	},
+	"name": "Padma farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 50,
+	"feedPurchaseRate": 1500,
+	"createdAt": {
+		"$date": "2020-08-15T15:05:44.151Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-15T15:08:33.449Z"
+	},
+	"address": {
+		"line1": "Pawar sahab ",
+		"line2": "Taraganj lashkar",
+		"city": "Gwalior ",
+		"pincode": 474001,
+		"state": "Madhay pradesh ",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f38eaa5b03d07272bbdd071"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-08-16T08:13:25.960Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-16T08:13:25.960Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f410c3bb03d07272bbdd091"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-08-22T12:14:51.404Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-22T12:14:51.404Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f415fbcb03d07272bbdd0b1"
+	},
+	"name": "Egg treders ",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 3,
+	"feedPurchaseRate": 40,
+	"createdAt": {
+		"$date": "2020-08-22T18:11:08.725Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-22T18:15:24.681Z"
+	},
+	"address": {
+		"line1": "Challapalli road",
+		"line2": "Challapalli road",
+		"city": "Machilipatnam ",
+		"pincode": 521001,
+		"state": "Andhra pradesh ",
+		"country": "India "
+	}
+}
+{
+	"_id": {
+		"$oid": "5f41f9e9b03d07272bbdd0d3"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-08-23T05:08:57.350Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-23T05:08:57.350Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f438533b03d07272bbdd0f3"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-08-24T09:15:31.244Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-24T09:15:31.244Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f444fdcb03d07272bbdd113"
+	},
+	"name": "Y m farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 100,
+	"feedPurchaseRate": 100,
+	"createdAt": {
+		"$date": "2020-08-24T23:40:12.757Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-24T23:43:08.575Z"
+	},
+	"address": {
+		"line1": "Ozar township",
+		"line2": "Ozar township",
+		"city": "Ozar ",
+		"pincode": 422207,
+		"state": "Maharashtra ",
+		"country": "India "
+	}
+}
+{
+	"_id": {
+		"$oid": "5f49cfbfb03d07272bbdd13d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-08-29T03:47:11.016Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-29T03:47:11.016Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f4ca13cb03d07272bbdd15d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 10000,
+	"feedPurchaseRate": 1000000,
+	"createdAt": {
+		"$date": "2020-08-31T07:05:32.652Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-31T07:07:14.341Z"
+	},
+	"address": {
+		"line1": "Bjdind",
+		"line2": "",
+		"city": "Nagarkurnool",
+		"pincode": 509209,
+		"state": "Telangana",
+		"country": "Indian"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f4cb845b03d07272bbdd180"
+	},
+	"name": "केशर पॉल्ट्री फार्म",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 500,
+	"feedPurchaseRate": 12.5,
+	"createdAt": {
+		"$date": "2020-08-31T08:43:49.692Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-31T08:45:53.767Z"
+	},
+	"address": {
+		"line1": "9887246004",
+		"line2": "सांगानेर कॉलोनी कोटा रोड",
+		"city": "भीलवाड़ा",
+		"pincode": 311001,
+		"state": "राजस्थान",
+		"country": "भारत"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f4de2d8b03d07272bbdd1a6"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-01T05:57:44.720Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-01T05:57:44.720Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5094d3b03d07272bbdd1c8"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-03T07:01:39.491Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-03T07:01:39.491Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f518de7b03d07272bbdd1e8"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-04T00:44:23.639Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-04T00:44:23.639Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f518e33b03d07272bbdd208"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-04T00:45:39.337Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-04T00:45:39.337Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5327e8b03d07272bbdd228"
+	},
+	"name": "शांताराम पाबळे पोल्ट्री फार्म ",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 250,
+	"feedPurchaseRate": 1400,
+	"createdAt": {
+		"$date": "2020-09-05T05:53:44.257Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-05T05:58:27.484Z"
+	},
+	"address": {
+		"line1": "------------",
+		"line2": "मु.सांगवी सांडस पो.पिंपरी सांडस ता.हवेली जि.पुणे",
+		"city": "पुणे",
+		"pincode": 412216,
+		"state": "महाराष्ट्र ",
+		"country": "भारत"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f53c9b7b03d07272bbdd24b"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-05T17:24:07.684Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-05T17:24:07.684Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f54a71db03d07272bbdd26b"
+	},
+	"name": "Patil Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 5000,
+	"feedPurchaseRate": 26,
+	"createdAt": {
+		"$date": "2020-09-06T09:08:45.410Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-06T09:15:25.139Z"
+	},
+	"address": {
+		"line1": "243",
+		"line2": "Athani road",
+		"city": "Athani",
+		"pincode": 591234,
+		"state": "Karanataka",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f54ff11b03d07272bbdd294"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-06T15:24:01.668Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-06T15:24:01.668Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f55c435b03d07272bbdd2b4"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-07T05:25:09.495Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-07T05:25:09.495Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f55de5db03d07272bbdd2d4"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-07T07:16:45.843Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-07T07:16:45.843Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f579cf7b03d07272bbdd2f4"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-08T15:02:15.555Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-08T15:02:15.555Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f591a71b03d07272bbdd314"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-09T18:09:53.361Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-09T18:09:53.361Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f59ac9fb03d07272bbdd334"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-10T04:33:35.808Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-10T04:33:35.808Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f59eb07b03d07272bbdd354"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-10T08:59:51.758Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-10T08:59:51.758Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f59fd29b03d07272bbdd374"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-10T10:17:13.857Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-10T10:17:13.857Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5a7155b03d07272bbdd394"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-10T18:32:53.946Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-10T18:32:53.946Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5c6962b03d07272bbdd3b4"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-12T06:23:30.011Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T06:23:30.011Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5cc0e3b03d07272bbdd3d4"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-12T12:36:51.312Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T12:36:51.312Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5cc13fb03d07272bbdd3f4"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-12T12:38:23.612Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T12:38:23.613Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5cdcbbb03d07272bbdd414"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-12T14:35:39.537Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T14:35:39.538Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5cdccbb03d07272bbdd434"
+	},
+	"name": "Tuvam Sarvan Poultry",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 750,
+	"feedPurchaseRate": 17,
+	"createdAt": {
+		"$date": "2020-09-12T14:35:55.628Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T14:39:22.091Z"
+	},
+	"address": {
+		"line1": "Village Alampur",
+		"line2": "",
+		"city": "Kurukshetra",
+		"pincode": 136119,
+		"state": "Haryana",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5ef474b03d07272bbdd45d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-14T04:41:24.927Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-14T04:41:24.927Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5f4870b03d07272bbdd47d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-14T10:39:44.955Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-14T10:39:44.955Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5fad43b03d07272bbdd49d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-14T17:49:55.036Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-14T17:49:55.036Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f61db62b03d07272bbdd4bd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-16T09:31:14.416Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-16T09:31:14.416Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f61f6b8b03d07272bbdd4dd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-16T11:27:52.053Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-16T11:27:52.053Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f623124b03d07272bbdd4fd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 30000,
+	"feedPurchaseRate": 25,
+	"createdAt": {
+		"$date": "2020-09-16T15:37:08.292Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-16T15:40:24.852Z"
+	},
+	"address": {
+		"line1": "4/14",
+		"line2": "",
+		"city": "Udumalpet ",
+		"pincode": 0,
+		"state": "Tamilnadu ",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f62cf0cb03d07272bbdd520"
+	},
+	"name": "Anish form",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1300,
+	"feedPurchaseRate": 1400,
+	"createdAt": {
+		"$date": "2020-09-17T02:50:52.656Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T02:53:30.595Z"
+	},
+	"address": {
+		"line1": "Gumla",
+		"line2": "Samastipur",
+		"city": "Samastipur",
+		"pincode": 847301,
+		"state": "Bihar",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6305cab03d07272bbdd54f"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-17T06:44:26.723Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T06:44:26.723Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f630728b03d07272bbdd56f"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-17T06:50:16.534Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T06:50:16.534Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f63b671b03d07272bbdd58f"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-17T19:18:09.543Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T19:18:09.544Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f63c985b03d07272bbdd5af"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-17T20:39:33.677Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T20:39:33.677Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f64bd6ab03d07272bbdd5cf"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 200,
+	"feedPurchaseRate": 25,
+	"createdAt": {
+		"$date": "2020-09-18T14:00:10.862Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T14:05:09.710Z"
+	},
+	"address": {
+		"line1": "Sankanwadi",
+		"line2": "",
+		"city": "Chikkodi",
+		"pincode": 591228,
+		"state": "Karnataka",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f64d616b03d07272bbdd5f8"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-18T15:45:26.853Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T15:45:26.853Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f653737b03d07272bbdd618"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 5000,
+	"feedPurchaseRate": 35,
+	"createdAt": {
+		"$date": "2020-09-18T22:39:51.416Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T22:42:01.362Z"
+	},
+	"address": {
+		"line1": "Kpr",
+		"line2": "Koen",
+		"city": "Nirmal ",
+		"pincode": 504203,
+		"state": "Telangana ",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f65c137b03d07272bbdd63b"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-19T08:28:39.911Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-19T08:28:39.911Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f69622eb03d07272bbdd65b"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-22T02:32:14.241Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-22T02:32:14.241Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f69b77eb03d07272bbdd67b"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1500,
+	"feedPurchaseRate": 3000,
+	"createdAt": {
+		"$date": "2020-09-22T08:36:14.419Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-22T09:41:02.112Z"
+	},
+	"address": {
+		"line1": "502/2",
+		"line2": "Jammohalla",
+		"city": "Jalgaon",
+		"pincode": 425201,
+		"state": "Maharashtra",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6a5c4ab03d07272bbdd69e"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-22T20:19:22.036Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-22T20:19:22.036Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6ae0b2b03d07272bbdd6be"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-23T05:44:18.593Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-23T05:44:18.593Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6b7fb9b03d07272bbdd6de"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-23T17:02:49.654Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-23T17:02:49.654Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6dca69b03d07272bbdd6fe"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-25T10:46:01.151Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-25T10:46:01.151Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6dcb98b03d07272bbdd71e"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-25T10:51:04.336Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-25T10:51:04.336Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6e1859b03d07272bbdd73e"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-25T16:18:33.077Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-25T16:18:33.078Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f1283b03d07272bbdd75e"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-26T10:05:55.927Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T10:05:55.927Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f3ae8b03d07272bbdd77e"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 5555,
+	"feedPurchaseRate": 33,
+	"createdAt": {
+		"$date": "2020-09-26T12:58:16.148Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T12:59:46.302Z"
+	},
+	"address": {
+		"line1": "Pdp",
+		"line2": "Pdp 2",
+		"city": "Pdp",
+		"pincode": 533437,
+		"state": "Ap",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f822ab03d07272bbdd7a4"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 10000,
+	"feedPurchaseRate": 209200,
+	"createdAt": {
+		"$date": "2020-09-26T18:02:18.937Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T18:05:52.764Z"
+	},
+	"address": {
+		"line1": "Dhargulli",
+		"line2": "Dhargulli",
+		"city": "Dhargulli",
+		"pincode": 825322,
+		"state": "Jharkhand",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f71e8fab03d07272bbdd7cc"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-28T13:45:30.783Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-28T13:45:30.783Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f71e93bb03d07272bbdd7ec"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-28T13:46:35.764Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-28T13:46:35.764Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f71fae4b03d07272bbdd80c"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-28T15:01:56.239Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-28T15:01:56.239Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f72276ab03d07272bbdd82c"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-28T18:11:54.681Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-28T18:11:54.681Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f725d19b03d07272bbdd84c"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-28T22:00:57.062Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-28T22:00:57.063Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f736b0eb03d07272bbdd86f"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-29T17:12:46.100Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-29T17:12:46.100Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f740a30b03d07272bbdd88f"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-30T04:31:44.043Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-30T04:31:44.043Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f74371cb03d07272bbdd8af"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-30T07:43:24.838Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-30T07:43:24.838Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7468d6b03d07272bbdd8cf"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-30T11:15:34.494Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-30T11:15:34.494Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7477fab03d07272bbdd8ef"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1,
+	"feedPurchaseRate": 100,
+	"createdAt": {
+		"$date": "2020-09-30T12:20:10.333Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-30T12:22:28.472Z"
+	},
+	"address": {
+		"line1": "Delhi",
+		"line2": "",
+		"city": "Delhi",
+		"pincode": 110001,
+		"state": "delhi",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f747d92b03d07272bbdd912"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-09-30T12:44:02.292Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-30T12:44:02.292Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7553d5b03d07272bbdd932"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 100,
+	"feedPurchaseRate": 200,
+	"createdAt": {
+		"$date": "2020-10-01T03:58:13.565Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-01T04:01:45.167Z"
+	},
+	"address": {
+		"line1": "Shivajinagar khed bramhapuri dist chandrapur",
+		"line2": "",
+		"city": "Bramhapuri",
+		"pincode": 441206,
+		"state": "Maharashtra",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f75cbbcb03d07272bbdd955"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-01T12:29:48.075Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-01T12:29:48.075Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f76e22ab03d07272bbdd975"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-02T08:17:46.339Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-02T08:17:46.339Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f777dc0b03d07272bbdd995"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-02T19:21:36.889Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-02T19:21:36.890Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7895a6b03d07272bbdd9b5"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-03T15:15:50.250Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-03T15:15:50.250Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f78a690b03d07272bbdd9d5"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-03T16:28:00.520Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-03T16:28:00.520Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f78b69eb03d07272bbdd9f5"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-03T17:36:30.462Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-03T17:36:30.462Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f78b6ceb03d07272bbdda15"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-03T17:37:18.811Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-03T17:37:18.811Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f79e015b03d07272bbdda35"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 506,
+	"feedPurchaseRate": 20,
+	"createdAt": {
+		"$date": "2020-10-04T14:45:41.099Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-04T15:07:30.423Z"
+	},
+	"address": {
+		"line1": "hpl",
+		"line2": "hpl",
+		"city": "indore",
+		"pincode": 455223,
+		"state": "madhya pradesh",
+		"country": "india"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7ac5a6b03d07272bbdda5b"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-05T07:05:10.344Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T07:05:10.344Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b02e4b03d07272bbdda7b"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 90,
+	"feedPurchaseRate": 90,
+	"createdAt": {
+		"$date": "2020-10-05T11:26:28.273Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T11:28:54.903Z"
+	},
+	"address": {
+		"line1": "Ambala",
+		"line2": "Ambala",
+		"city": "Ambala",
+		"pincode": 0,
+		"state": "Haryana",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b1d6eb03d07272bbdda9e"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-05T13:19:42.732Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T13:19:42.732Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b1e60b03d07272bbddabe"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-05T13:23:44.676Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T13:23:44.676Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b413eb03d07272bbddade"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 50,
+	"feedPurchaseRate": 68,
+	"createdAt": {
+		"$date": "2020-10-05T15:52:30.926Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T15:54:16.257Z"
+	},
+	"address": {
+		"line1": "hfs",
+		"line2": "gcsd",
+		"city": "Dkj",
+		"pincode": 506381,
+		"state": "Ts",
+		"country": "india"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b6e80b03d07272bbddb03"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 10,
+	"feedPurchaseRate": 50,
+	"createdAt": {
+		"$date": "2020-10-05T19:05:36.944Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T19:07:09.743Z"
+	},
+	"address": {
+		"line1": "Ru",
+		"line2": "Ru",
+		"city": "Tirupati",
+		"pincode": 517520,
+		"state": "Ap",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7bd817b03d07272bbddb26"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-06T02:36:07.054Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-06T02:36:07.054Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7d6e63b03d07272bbddb46"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-07T07:29:39.873Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-07T07:29:39.873Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7d7863b03d07272bbddb66"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-07T08:12:19.349Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-07T08:12:19.349Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7e94f2b03d07272bbddb86"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-08T04:26:26.853Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-08T04:26:26.853Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7f32cdb03d07272bbddba6"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-08T15:39:57.300Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-08T15:39:57.300Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7ffe92b03d07272bbddbc6"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-09T06:09:22.280Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-09T06:09:22.280Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f80693db03d07272bbddbe6"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 100,
+	"feedPurchaseRate": 250,
+	"createdAt": {
+		"$date": "2020-10-09T13:44:29.681Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-09T13:46:22.369Z"
+	},
+	"address": {
+		"line1": "55",
+		"line2": "Basti",
+		"city": "Basti",
+		"pincode": 272001,
+		"state": "Up",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f809f27b03d07272bbddc09"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-09T17:34:31.048Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-09T17:34:31.048Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f811809b03d07272bbddc29"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1,
+	"feedPurchaseRate": 1,
+	"createdAt": {
+		"$date": "2020-10-10T02:10:17.426Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T02:11:31.270Z"
+	},
+	"address": {
+		"line1": "Yewata",
+		"line2": "Yewata",
+		"city": "Kaij",
+		"pincode": 431123,
+		"state": "Maharashtra",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f818043b03d07272bbddc50"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-10T09:34:59.632Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T09:34:59.632Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f818837b03d07272bbddc70"
+	},
+	"name": "Premks21",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 50,
+	"feedPurchaseRate": 30,
+	"createdAt": {
+		"$date": "2020-10-10T10:08:55.900Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T10:13:09.461Z"
+	},
+	"address": {
+		"line1": "22, kavi kuil street,",
+		"line2": "Ashok nagar, lawspet,",
+		"city": "Pondicherry",
+		"pincode": 605008,
+		"state": "Pondicherry",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f81b53eb03d07272bbddc93"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-10T13:21:02.203Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T13:21:02.203Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f828063b03d07272bbddcb3"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-11T03:47:47.575Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T03:47:47.575Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8311d0b03d07272bbddcd3"
+	},
+	"name": "i ",
+	"isFeedMaking": "yes",
+	"flockCount": 0,
+	"feedInStock": 1,
+	"feedPurchaseRate": 0.01,
+	"createdAt": {
+		"$date": "2020-10-11T14:08:16.348Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:25:46.921Z"
+	},
+	"address": {
+		"line1": "0",
+		"line2": "Z",
+		"city": "A",
+		"pincode": 0,
+		"state": "1",
+		"country": "B"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f834883b03d07272bbddd0d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-11T18:01:39.238Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T18:01:39.238Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f842041b03d07272bbddd2d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-12T09:22:09.069Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-12T09:22:09.069Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f84730ab03d07272bbddd4d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-12T15:15:22.389Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-12T15:15:22.389Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f84c11ab03d07272bbddd6d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-12T20:48:26.665Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-12T20:48:26.665Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f84c242b03d07272bbddd8d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-12T20:53:22.449Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-12T20:53:22.449Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f84c2dfb03d07272bbdddad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 30,
+	"feedPurchaseRate": 5000,
+	"createdAt": {
+		"$date": "2020-10-12T20:55:59.221Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-12T20:58:15.054Z"
+	},
+	"address": {
+		"line1": "Hyd",
+		"line2": "",
+		"city": "Hyd",
+		"pincode": 500018,
+		"state": "Telangana",
+		"country": "Ind"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f85aea2b03d07272bbdddd0"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1.5,
+	"feedPurchaseRate": 2.3,
+	"createdAt": {
+		"$date": "2020-10-13T13:41:54.280Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-13T13:43:58.154Z"
+	},
+	"address": {
+		"line1": "Pandan ",
+		"line2": "Nagar",
+		"city": "Udumalpet ",
+		"pincode": 642203,
+		"state": "Tamil Nadu ",
+		"country": "India "
+	}
+}
+{
+	"_id": {
+		"$oid": "5f865752b03d07272bbdddf3"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-14T01:41:38.366Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-14T01:41:38.366Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f865e53b03d07272bbdde13"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 2000,
+	"feedPurchaseRate": 1600,
+	"createdAt": {
+		"$date": "2020-10-14T02:11:31.973Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-14T02:14:26.600Z"
+	},
+	"address": {
+		"line1": "Hanamasagar",
+		"line2": "",
+		"city": "Hanamsagar",
+		"pincode": 583281,
+		"state": "Karnataka",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f869fcfb03d07272bbdde36"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-14T06:50:55.512Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-14T06:50:55.512Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f87473bb03d07272bbdde56"
+	},
+	"name": "AKF",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-14T18:45:15.718Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-14T18:48:40.863Z"
+	},
+	"address": {
+		"line1": "06",
+		"line2": "Malegaon",
+		"city": "Malegaon",
+		"pincode": 423203,
+		"state": "Maharashtra",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f881251b03d07272bbdde7c"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-15T09:11:45.254Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-15T09:11:45.254Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f89063bb03d07272bbdde9c"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-16T02:32:27.421Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-16T02:36:58.908Z"
+	},
+	"address": {
+		"line1": "VPO-KHANDUA",
+		"line2": "",
+		"city": "BADAUN",
+		"pincode": 243724,
+		"state": "UP",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8943c5b03d07272bbddebf"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-16T06:55:01.751Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-16T06:55:01.751Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8a8c32b03d07272bbddedf"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-17T06:16:18.649Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-17T06:16:18.649Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8ad8e6b03d07272bbddeff"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-17T11:43:34.167Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-17T11:43:34.167Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8bcc22b03d07272bbddf1f"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-18T05:01:22.614Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-18T05:01:22.614Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8d61b0b03d07272bbddf3f"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-19T09:51:44.936Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-19T09:51:44.936Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8d7304b03d07272bbddf5f"
+	},
+	"name": "Royal poultry farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 200,
+	"feedPurchaseRate": 20,
+	"createdAt": {
+		"$date": "2020-10-19T11:05:40.214Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-19T11:08:08.461Z"
+	},
+	"address": {
+		"line1": "Pakhrud",
+		"line2": "Pakhrud",
+		"city": "Pakhrud",
+		"pincode": 413534,
+		"state": "Maharashtra",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8db66ab03d07272bbddf82"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-19T15:53:14.663Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-19T15:53:14.663Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8f2235b03d07272bbddfa2"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-20T17:45:25.207Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-20T17:45:25.207Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8ff46bb03d07272bbddfc2"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-21T08:42:19.983Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-21T08:42:19.983Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8ff4dcb03d07272bbddfe2"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-21T08:44:12.082Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-21T08:44:12.082Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f907668b03d07272bbde002"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-21T17:56:56.516Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-21T17:56:56.516Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f90e57fb03d07272bbde022"
+	},
+	"name": "Sree laxmi poultry",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 630,
+	"feedPurchaseRate": 1300,
+	"createdAt": {
+		"$date": "2020-10-22T01:50:55.868Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-22T02:00:24.036Z"
+	},
+	"address": {
+		"line1": "Thd",
+		"line2": "Thd",
+		"city": "Knr",
+		"pincode": 0,
+		"state": "Telangana",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f910da1b03d07272bbde048"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-22T04:42:09.785Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-22T04:42:09.785Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f911153b03d07272bbde068"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-22T04:57:55.800Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-22T04:57:55.800Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9112b7b03d07272bbde088"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-22T05:03:51.286Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-22T05:03:51.286Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9135f5b03d07272bbde0a8"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-22T07:34:13.507Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-22T07:34:13.507Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f923a3fb03d07272bbde0c8"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-23T02:04:47.971Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-23T02:04:47.972Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f926ac4b03d07272bbde0e8"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-23T05:31:48.389Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-23T05:31:48.389Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f92ed38b03d07272bbde108"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-23T14:48:24.149Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-23T14:48:24.149Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f93b9f3b03d07272bbde128"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-24T05:21:55.257Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-24T05:21:55.257Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f93cac8b03d07272bbde148"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-24T06:33:44.265Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-24T06:33:44.265Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f93f9c3b03d07272bbde168"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-24T09:54:11.095Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-24T09:54:11.095Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f951c3ab03d07272bbde188"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-25T06:33:30.090Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-25T06:33:30.090Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f951cd4b03d07272bbde1a8"
+	},
+	"name": "Desai",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 500,
+	"feedPurchaseRate": 17,
+	"createdAt": {
+		"$date": "2020-10-25T06:36:04.520Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-25T06:38:31.707Z"
+	},
+	"address": {
+		"line1": "Vita",
+		"line2": "Vita",
+		"city": "Vita",
+		"pincode": 415311,
+		"state": "Maharashtra",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f95501bb03d07272bbde1cb"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-25T10:14:51.227Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-25T10:14:51.227Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9564e0b03d07272bbde1eb"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-25T11:43:28.725Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-25T11:43:28.725Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f956672b03d07272bbde20b"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-25T11:50:10.389Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-25T11:50:10.389Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f968aa2b03d07272bbde22d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-26T08:36:50.533Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-26T08:36:50.533Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f979ec6b03d07272bbde24d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-27T04:15:02.361Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-27T04:15:02.361Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f982825b03d07272bbde26d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 5000,
+	"feedPurchaseRate": 1500,
+	"createdAt": {
+		"$date": "2020-10-27T14:01:09.149Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-27T14:04:02.632Z"
+	},
+	"address": {
+		"line1": "1",
+		"line2": "Sursand ",
+		"city": "Sursand ",
+		"pincode": 843331,
+		"state": "Bihar",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f991203b03d07272bbde298"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-28T06:38:59.315Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-28T06:38:59.316Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9a8fe8b03d07272bbde2b8"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-29T09:48:24.072Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-29T09:48:24.072Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9adb59b03d07272bbde2d8"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1,
+	"feedPurchaseRate": 1,
+	"createdAt": {
+		"$date": "2020-10-29T15:10:17.446Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-29T15:12:53.926Z"
+	},
+	"address": {
+		"line1": "Siddipet",
+		"line2": "",
+		"city": "Siddipet",
+		"pincode": 502103,
+		"state": "Telangana",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9bb4bbb03d07272bbde2fd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 100,
+	"feedPurchaseRate": 36,
+	"createdAt": {
+		"$date": "2020-10-30T06:37:47.374Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-30T06:43:31.699Z"
+	},
+	"address": {
+		"line1": "Noida",
+		"line2": "Noida",
+		"city": "Noida",
+		"pincode": 201301,
+		"state": "Uttar pradesh",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9cf02fb03d07272bbde320"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-10-31T05:03:43.994Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-31T05:03:43.994Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa0f772b03d07272bbde340"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-03T06:23:46.381Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-03T06:23:46.381Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa14ca3b03d07272bbde360"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-03T12:27:15.369Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-03T12:27:15.369Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa233a8b03d07272bbde380"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-04T04:52:56.594Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T04:52:56.594Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa255e8b03d07272bbde3a0"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-04T07:19:04.667Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T07:19:04.667Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa25decb03d07272bbde3c0"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-04T07:53:16.412Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T07:53:16.412Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa27306b03d07272bbde3e0"
+	},
+	"name": "YASHODA FARM ",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1,
+	"feedPurchaseRate": 1,
+	"createdAt": {
+		"$date": "2020-11-04T09:23:18.727Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T09:25:58.423Z"
+	},
+	"address": {
+		"line1": "NH 4 Bypass ",
+		"line2": "Kanavi Honnapur",
+		"city": "Dharwad",
+		"pincode": 580114,
+		"state": "Karnataka",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa29ae1b03d07272bbde403"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 100,
+	"feedPurchaseRate": 10000,
+	"createdAt": {
+		"$date": "2020-11-04T12:13:21.359Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T12:25:23.205Z"
+	},
+	"address": {
+		"line1": "Charangpat Mayai Leikai",
+		"line2": "Lai haraobam",
+		"city": "Thoubal",
+		"pincode": 795138,
+		"state": "Manipur",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa2a564b03d07272bbde426"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-04T12:58:12.314Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T12:58:12.314Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa2ae3bb03d07272bbde446"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-04T13:35:55.571Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T13:35:55.571Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa3080db03d07272bbde466"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-04T19:59:09.041Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T19:59:09.041Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa31102b03d07272bbde486"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-04T20:37:22.462Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T20:37:22.462Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa35263b03d07272bbde4a6"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-05T01:16:19.437Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T01:16:19.437Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa352a3b03d07272bbde4c6"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-05T01:17:23.183Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T01:17:23.184Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa38fd7b03d07272bbde4e6"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-05T05:38:31.734Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T05:38:31.734Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa3962cb03d07272bbde506"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-05T06:05:32.347Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T06:05:32.347Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa39655b03d07272bbde526"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1000,
+	"feedPurchaseRate": 26000,
+	"createdAt": {
+		"$date": "2020-11-05T06:06:13.682Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T06:09:04.287Z"
+	},
+	"address": {
+		"line1": "Lnp",
+		"line2": "Kip",
+		"city": "Tanuku",
+		"pincode": 534209,
+		"state": "Ap",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa3a641b03d07272bbde549"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-05T07:14:09.197Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T07:14:09.197Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa41956b03d07272bbde569"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-05T15:25:10.550Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T15:25:10.550Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa4212ab03d07272bbde589"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 200,
+	"feedPurchaseRate": 500,
+	"createdAt": {
+		"$date": "2020-11-05T15:58:34.404Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T15:59:46.817Z"
+	},
+	"address": {
+		"line1": "KIIT Road",
+		"line2": "",
+		"city": "Bhubaneswar",
+		"pincode": 751024,
+		"state": "Odisha",
+		"country": "Odisha"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa4d94eb03d07272bbde5ae"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 1,
+	"feedPurchaseRate": 2,
+	"createdAt": {
+		"$date": "2020-11-06T05:04:14.109Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-06T05:05:05.399Z"
+	},
+	"address": {
+		"line1": "Miyapur",
+		"line2": "Hyderabad",
+		"city": "Hafeezpet",
+		"pincode": 500049,
+		"state": "Telangana",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa51a4eb03d07272bbde5d1"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-06T09:41:34.007Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-06T09:41:34.007Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa51b97b03d07272bbde5f1"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-06T09:47:03.906Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-06T09:47:03.906Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa575e8b03d07272bbde611"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-06T16:12:24.841Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-06T16:12:24.841Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa64266b03d07272bbde631"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-07T06:44:54.034Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-07T06:44:54.034Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa6715bb03d07272bbde651"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-07T10:05:15.113Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-07T10:05:15.113Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa671abb03d07272bbde671"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-07T10:06:35.773Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-07T10:06:35.773Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa77d7cb03d07272bbde691"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 2200,
+	"feedPurchaseRate": 23,
+	"createdAt": {
+		"$date": "2020-11-08T05:09:16.622Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-08T05:10:23.382Z"
+	},
+	"address": {
+		"line1": "Konduru",
+		"line2": "",
+		"city": "Kondur",
+		"pincode": 515405,
+		"state": "Andhra Pradesh",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa7f453b03d07272bbde6b4"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-08T13:36:19.251Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-08T13:36:19.251Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa84085b03d07272bbde6d4"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-08T19:01:25.883Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-08T19:01:25.883Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa8e2b7b03d07272bbde6f4"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-09T06:33:27.889Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-09T06:33:27.890Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa92e82b03d07272bbde714"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-09T11:56:50.769Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-09T11:56:50.770Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa990ecb03d07272bbde734"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 5000,
+	"feedPurchaseRate": 100000,
+	"createdAt": {
+		"$date": "2020-11-09T18:56:44.996Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-09T19:00:41.637Z"
+	},
+	"address": {
+		"line1": "Nidadavole",
+		"line2": "",
+		"city": "W.G.Dt",
+		"pincode": 534301,
+		"state": "AP",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faa1da2b03d07272bbde75c"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-10T04:57:06.745Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-10T04:57:06.746Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faa669bb03d07272bbde77c"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-10T10:08:27.028Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-10T10:08:27.028Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fab4851b03d07272bbde79c"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-11T02:11:29.433Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-11T02:11:29.433Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fab84bdb03d07272bbde7bc"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-11T06:29:17.906Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-11T06:29:17.906Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fac9f53b03d07272bbde7dc"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-12T02:34:59.612Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-12T02:34:59.612Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faca442b03d07272bbde7fc"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-12T02:56:02.240Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-12T02:56:02.240Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5facac10b03d07272bbde81c"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-12T03:29:20.282Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-12T03:29:20.282Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fad4384b03d07272bbde83c"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-12T14:15:32.780Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-12T14:15:32.780Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fad6512b03d07272bbde85c"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-12T16:38:42.761Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-12T16:38:42.761Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fae2827b03d07272bbde87c"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-13T06:31:03.650Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-13T06:31:03.650Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fae37f6b03d07272bbde89c"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-13T07:38:30.974Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-13T07:38:30.974Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faeec6fb03d07272bbde8bc"
+	},
+	"name": "S.A.K POULTRY FARM (LAYER) ",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 4000,
+	"feedPurchaseRate": 20,
+	"createdAt": {
+		"$date": "2020-11-13T20:28:31.823Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-13T20:32:13.994Z"
+	},
+	"address": {
+		"line1": "Shahjahanpur",
+		"line2": "Shahjahanpur",
+		"city": "Shahjahanpur",
+		"pincode": 242001,
+		"state": "Uttar pradesh",
+		"country": "INDIA"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faf2bbfb03d07272bbde8df"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-14T00:58:39.548Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-14T00:58:39.548Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faf541bb03d07272bbde8ff"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 550,
+	"feedPurchaseRate": 10000,
+	"createdAt": {
+		"$date": "2020-11-14T03:50:51.046Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-14T03:57:02.672Z"
+	},
+	"address": {
+		"line1": "9649177715",
+		"line2": "Ararka",
+		"city": "ajmar",
+		"pincode": 305811,
+		"state": "Rajsthan",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faf8b44b03d07272bbde927"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-14T07:46:12.245Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-14T07:46:12.245Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb169aeb03d07272bbde947"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-15T17:47:26.883Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-15T17:47:26.883Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb1e364b03d07272bbde967"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-16T02:26:44.080Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-16T02:26:44.080Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb1f3f8b03d07272bbde987"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-16T03:37:28.794Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-16T03:37:28.794Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb26560b03d07272bbde9a7"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-16T11:41:20.430Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-16T11:41:20.430Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb34683b03d07272bbde9c7"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-17T03:41:55.357Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-17T03:41:55.358Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb38d4ab03d07272bbde9e7"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-17T08:43:54.042Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-17T08:43:54.042Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb39bc9b03d07272bbdea07"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-17T09:45:45.967Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-17T09:45:45.967Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb39ff1b03d07272bbdea27"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-17T10:03:29.504Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-17T10:03:29.504Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb3f2a8b03d07272bbdea47"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 100,
+	"feedPurchaseRate": 200,
+	"createdAt": {
+		"$date": "2020-11-17T15:56:24.993Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-17T15:58:07.329Z"
+	},
+	"address": {
+		"line1": "109, SLV Defence enclave",
+		"line2": "",
+		"city": "Bangalore",
+		"pincode": 560064,
+		"state": "Karnataka",
+		"country": "India"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb4305bb03d07272bbdea6a"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-17T20:19:39.164Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-17T20:19:39.164Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb49139b03d07272bbdea8a"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-18T03:12:57.542Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-18T03:12:57.542Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb4f640b03d07272bbdeaaa"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-18T10:24:00.812Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-18T10:24:00.812Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb61384b03d07272bbdeaca"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-19T06:41:08.264Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-19T06:41:08.264Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb7511cb03d07272bbdeaea"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-20T05:16:12.137Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-20T05:16:12.137Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb79c59b03d07272bbdeb0a"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-20T10:37:13.028Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-20T10:37:13.028Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb7a71ab03d07272bbdeb2a"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-20T11:23:06.997Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-20T11:23:06.997Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb7b351b03d07272bbdeb4a"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-20T12:15:13.898Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-20T12:15:13.898Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb87453b03d07272bbdeb6a"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-21T01:58:43.292Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-21T01:58:43.292Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb8772db03d07272bbdeb8a"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-21T02:10:53.958Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-21T02:10:53.958Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb8a021b03d07272bbdebaa"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-21T05:05:37.818Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-21T05:05:37.818Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb944fbb03d07272bbdebcd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-21T16:48:59.283Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-21T16:48:59.283Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fba0fc8b03d07272bbdebed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-22T07:14:16.065Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-22T07:14:16.065Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fba108fb03d07272bbdec0d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-22T07:17:35.220Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-22T07:17:35.220Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbac2e9b03d07272bbdec2d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-22T19:58:33.980Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-22T19:58:33.980Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbbbbc2b03d07272bbdec4d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-23T13:40:18.858Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-23T13:40:18.859Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbc077cb03d07272bbdec6d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-23T19:03:24.069Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-23T19:03:24.069Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbda17bb03d07272bbdec8d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-25T00:12:43.145Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-25T00:12:43.145Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbe09b3b03d07272bbdecad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-25T07:37:23.796Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-25T07:37:23.796Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbe607bb03d07272bbdeccd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-25T13:47:39.927Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-25T13:47:39.927Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbe65abb03d07272bbdeced"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-25T14:09:47.967Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-25T14:09:47.967Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbf487cb03d07272bbded0d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-26T06:17:32.221Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-26T06:17:32.221Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbf87acb03d07272bbded2d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-26T10:47:08.146Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-26T10:47:08.146Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fbff9edb03d07272bbded4d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-26T18:54:37.263Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-26T18:54:37.264Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc06021b03d07272bbded6d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-27T02:10:41.110Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-27T02:10:41.110Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc07aceb03d07272bbded8d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-27T04:04:30.663Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-27T04:04:30.663Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc0b983b03d07272bbdedad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-27T08:32:03.532Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-27T08:32:03.532Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc0b9b5b03d07272bbdedcd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-27T08:32:53.524Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-27T08:32:53.524Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc107feb03d07272bbdeded"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-27T14:06:54.391Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-27T14:06:54.391Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc11a28b03d07272bbdee0d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-27T15:24:24.929Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-27T15:24:24.929Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc3cd79b03d07272bbdee2d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-29T16:34:01.773Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-29T16:34:01.773Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc3d619b03d07272bbdee4d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-29T17:10:49.285Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-29T17:10:49.285Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc48cddb03d07272bbdee6d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-30T06:10:37.725Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-30T06:10:37.725Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc4a889b03d07272bbdee8d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-30T08:08:41.098Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-30T08:08:41.098Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc4d97fb03d07272bbdeead"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-30T11:37:35.282Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-30T11:37:35.282Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc4d9a3b03d07272bbdeecd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-30T11:38:11.263Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-30T11:38:11.263Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc50115b03d07272bbdeeed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-30T14:26:29.670Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-30T14:26:29.670Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc50188b03d07272bbdef0d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-11-30T14:28:24.584Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-30T14:28:24.584Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc615fdb03d07272bbdef2d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-01T10:07:57.671Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-01T10:07:57.672Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc708d0b03d07272bbdef4d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-02T03:24:00.472Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-02T03:24:00.472Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc780fdb03d07272bbdef6d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-02T11:56:45.629Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-02T11:56:45.629Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc7ccc5b03d07272bbdef8d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-02T17:20:05.384Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-02T17:20:05.384Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc7d6f8b03d07272bbdefad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-02T18:03:36.543Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-02T18:03:36.543Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc8ab30b03d07272bbdefcd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-03T09:09:04.420Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-03T09:09:04.420Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc9d057b03d07272bbdefed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-04T05:59:51.235Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-04T05:59:51.235Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fc9f75bb03d07272bbdf00d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-04T08:46:19.135Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-04T08:46:19.135Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fca13fab03d07272bbdf02d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-04T10:48:26.739Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-04T10:48:26.739Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fca342cb03d07272bbdf04d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-04T13:05:48.312Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-04T13:05:48.312Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fca4223b03d07272bbdf06d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-04T14:05:23.854Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-04T14:05:23.855Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fca76c3b03d07272bbdf08d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-04T17:49:55.912Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-04T17:49:55.912Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcb039db03d07272bbdf0ad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-05T03:50:53.127Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-05T03:50:53.127Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcb68a4b03d07272bbdf0cd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-05T11:01:56.751Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-05T11:01:56.751Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcb8eedb03d07272bbdf0ed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-05T13:45:17.561Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-05T13:45:17.562Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcbd1efb03d07272bbdf10d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-05T18:31:11.719Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-05T18:31:11.719Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcbd274b03d07272bbdf12d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-05T18:33:24.681Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-05T18:33:24.681Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcdbf34b03d07272bbdf14d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-07T05:35:48.482Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-07T05:35:48.483Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcdbf6fb03d07272bbdf16d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-07T05:36:47.091Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-07T05:36:47.091Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcee3e2b03d07272bbdf18d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-08T02:24:34.276Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-08T02:24:34.276Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcf06d7b03d07272bbdf1ad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-08T04:53:43.185Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-08T04:53:43.185Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fcfb880b03d07272bbdf1cd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-08T17:31:44.739Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-08T17:31:44.739Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd0b050b03d07272bbdf1ed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-09T11:09:04.196Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-09T11:09:04.196Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd21337b03d07272bbdf20d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-10T12:23:19.621Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-10T12:23:19.621Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd4504eb03d07272bbdf22d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-12T05:08:30.395Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-12T05:08:30.395Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd45749b03d07272bbdf24d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-12T05:38:17.246Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-12T05:38:17.246Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd4ccdbb03d07272bbdf26d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-12T13:59:55.936Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-12T13:59:55.936Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd5b590b03d07272bbdf28d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-13T06:32:48.900Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-13T06:32:48.900Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd769b9b03d07272bbdf2ad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-14T13:33:45.965Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-14T13:33:45.965Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd76a0db03d07272bbdf2cd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-14T13:35:09.239Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-14T13:35:09.239Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd7985fb03d07272bbdf2ed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-14T16:52:47.128Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-14T16:52:47.128Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd798b8b03d07272bbdf30d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-14T16:54:16.061Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-14T16:54:16.061Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd79c60b03d07272bbdf32d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-14T17:09:52.527Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-14T17:09:52.527Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd86ec4b03d07272bbdf34d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-15T08:07:32.662Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-15T08:07:32.662Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd876d6b03d07272bbdf36d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-15T08:41:58.960Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-15T08:41:58.960Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fd89bcfb03d07272bbdf38d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-15T11:19:43.535Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-15T11:19:43.535Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdab77bb03d07272bbdf3ad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-17T01:42:19.924Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-17T01:42:19.924Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdb5390b03d07272bbdf3cd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-17T12:48:16.276Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-17T12:48:16.276Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdb542eb03d07272bbdf3ed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-17T12:50:54.088Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-17T12:50:54.088Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdc3996b03d07272bbdf40d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-18T05:09:42.015Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-18T05:09:42.015Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdc3ec1b03d07272bbdf42d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-18T05:31:45.398Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-18T05:31:45.398Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdc61a8b03d07272bbdf44d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-18T08:00:40.345Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-18T08:00:40.345Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdccdaab03d07272bbdf46d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-18T15:41:30.926Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-18T15:41:30.926Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdd019eb03d07272bbdf48d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-18T19:23:10.167Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-18T19:23:10.167Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdd9fbfb03d07272bbdf4ad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-19T06:37:51.775Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-19T06:37:51.775Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdd9fc0b03d07272bbdf4cd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-19T06:37:52.418Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-19T06:37:52.418Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fddd670b03d07272bbdf4ed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-19T10:31:12.326Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-19T10:31:12.326Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fde29c6b03d07272bbdf50d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-19T16:26:46.302Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-19T16:26:46.302Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fde2a1bb03d07272bbdf52d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-19T16:28:11.902Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-19T16:28:11.902Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdeb64cb03d07272bbdf54d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-20T02:26:20.123Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-20T02:26:20.123Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdf5aa1b03d07272bbdf56d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-20T14:07:29.411Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-20T14:07:29.411Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fdf5b1ab03d07272bbdf58d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-20T14:09:30.286Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-20T14:09:30.286Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe4d62cb03d07272bbdf5ad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-24T17:55:56.059Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-24T17:55:56.059Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe56e09b03d07272bbdf5cd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-25T04:43:53.645Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-25T04:43:53.645Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe5a5eab03d07272bbdf5ed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-25T08:42:18.529Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-25T08:42:18.529Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe5a61db03d07272bbdf60d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-25T08:43:09.290Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-25T08:43:09.290Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe5b69bb03d07272bbdf62d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-25T09:53:31.488Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-25T09:53:31.488Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe5c035b03d07272bbdf64d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-25T10:34:29.407Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-25T10:34:29.407Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe625d2b03d07272bbdf66d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-25T17:48:02.322Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-25T17:48:02.322Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe68d26b03d07272bbdf68d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-26T01:08:54.226Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-26T01:08:54.226Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe7509ab03d07272bbdf6ad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-26T15:02:50.459Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-26T15:02:50.459Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe76251b03d07272bbdf6cd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-26T16:18:25.747Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-26T16:18:25.747Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe7e34fb03d07272bbdf6ed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-27T01:28:47.898Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-27T01:28:47.898Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe89c19b03d07272bbdf70d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-27T14:37:13.018Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-27T14:37:13.018Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe9725cb03d07272bbdf72d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-28T05:51:24.732Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-28T05:51:24.733Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe994ffb03d07272bbdf74d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-28T08:19:11.872Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-28T08:19:11.872Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fe99fdfb03d07272bbdf76d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-28T09:05:35.883Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-28T09:05:35.884Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5feaa42bb03d07272bbdf78d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-29T03:36:11.878Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-29T03:36:11.878Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5feb3d33b03d07272bbdf7ad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-29T14:29:07.159Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-29T14:29:07.159Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5feb3dccb03d07272bbdf7cd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-29T14:31:40.638Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-29T14:31:40.638Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5feb5a30b03d07272bbdf7ed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-29T16:32:48.565Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-29T16:32:48.565Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5feb5ad0b03d07272bbdf80d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-29T16:35:28.460Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-29T16:35:28.460Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fec9926b03d07272bbdf82d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-30T15:13:42.314Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-30T15:13:42.314Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fed2e2ab03d07272bbdf84d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-31T01:49:30.631Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-31T01:49:30.631Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fedbe67b03d07272bbdf86d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-31T12:04:55.331Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-31T12:04:55.331Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fedbfc5b03d07272bbdf88d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-31T12:10:45.994Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-31T12:10:45.994Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fedbfd1b03d07272bbdf8ad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-31T12:10:57.360Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-31T12:10:57.360Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fedd3d9b03d07272bbdf8cd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-31T13:36:25.927Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-31T13:36:25.927Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fedeb77b03d07272bbdf8ed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-31T15:17:11.579Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-31T15:17:11.579Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fedf825b03d07272bbdf90d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-31T16:11:17.216Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-31T16:11:17.216Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fee0628b03d07272bbdf92d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2020-12-31T17:11:04.580Z"
+	},
+	"updatedAt": {
+		"$date": "2020-12-31T17:11:04.580Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fef5690b03d07272bbdf94d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-01T17:06:24.807Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-01T17:06:24.807Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fef5ed3b03d07272bbdf96d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-01T17:41:39.301Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-01T17:41:39.301Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fef5fe0b03d07272bbdf98d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-01T17:46:08.593Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-01T17:46:08.593Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fef6876b03d07272bbdf9ad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-01T18:22:46.352Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-01T18:22:46.352Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff03728b03d07272bbdf9cd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-02T09:04:40.618Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-02T09:04:40.618Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff157b9b03d07272bbdf9ed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-03T05:35:53.175Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-03T05:35:53.175Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff294e4b03d07272bbdfa0d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-04T04:09:08.327Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-04T04:09:08.327Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff2d43cb03d07272bbdfa2d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-04T08:39:24.037Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-04T08:39:24.037Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff34a0cb03d07272bbdfa4d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-04T17:02:04.418Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-04T17:02:04.418Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff3b79eb03d07272bbdfa6d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-05T00:49:34.021Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-05T00:49:34.021Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff54bdcb03d07272bbdfa8d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-06T05:34:20.972Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-06T05:34:20.973Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff5a232b03d07272bbdfaad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-06T11:42:42.913Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-06T11:42:42.913Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff5cd69b03d07272bbdfacd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-06T14:47:05.108Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-06T14:47:05.108Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff5d032b03d07272bbdfaed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-06T14:58:58.599Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-06T14:58:58.599Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff6e304b03d07272bbdfb0d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-07T10:31:32.557Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-07T10:31:32.557Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff7f7cfb03d07272bbdfb2d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-08T06:12:31.644Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-08T06:12:31.644Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff924a8b03d07272bbdfb4d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-09T03:36:08.032Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-09T03:36:08.032Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff93c2cb03d07272bbdfb6d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-09T05:16:28.106Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-09T05:16:28.107Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff98670b03d07272bbdfb8d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-09T10:33:20.517Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-09T10:33:20.517Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff99b16b03d07272bbdfbad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-09T12:01:26.406Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-09T12:01:26.406Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff9d1ffb03d07272bbdfbcd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-09T15:55:43.841Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-09T15:55:43.841Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ff9d2a3b03d07272bbdfbed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-09T15:58:27.774Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-09T15:58:27.774Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffaafe9b03d07272bbdfc0d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-10T07:42:33.876Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-10T07:42:33.876Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffab9d9b03d07272bbdfc2d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-10T08:24:57.534Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-10T08:24:57.534Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffb18f1b03d07272bbdfc4d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-10T15:10:41.597Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-10T15:10:41.597Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffb5e30b03d07272bbdfc6d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-10T20:06:08.005Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-10T20:06:08.005Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffb6023b03d07272bbdfc8d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-10T20:14:27.695Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-10T20:14:27.695Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffbb8d9b03d07272bbdfcad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-11T02:32:57.788Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-11T02:32:57.789Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffbf676b03d07272bbdfccd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-11T06:55:50.716Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-11T06:55:50.716Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffc6520b03d07272bbdfced"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-11T14:48:00.842Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-11T14:48:00.842Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffc7fd8b03d07272bbdfd0d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-11T16:42:00.807Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-11T16:42:00.808Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ffdbe88b03d07272bbdfd2d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-12T15:21:44.531Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-12T15:21:44.531Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60029682b03d07272bbdfd4d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-16T07:32:18.199Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-16T07:32:18.199Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600296b1b03d07272bbdfd6d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-16T07:33:05.549Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-16T07:33:05.549Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60045b1fb03d07272bbdfd8d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-17T15:43:27.435Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-17T15:43:27.435Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6004660ab03d07272bbdfdad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-17T16:30:02.184Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-17T16:30:02.184Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60046650b03d07272bbdfdcd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-17T16:31:12.057Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-17T16:31:12.057Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600514c5b03d07272bbdfded"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-18T04:55:33.844Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-18T04:55:33.844Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6005abdcb03d07272bbdfe0d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-18T15:40:12.528Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-18T15:40:12.528Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6007e374b03d07272bbdfe2d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-20T08:01:56.473Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-20T08:01:56.473Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60081bd9b03d07272bbdfe4d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-20T12:02:33.884Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-20T12:02:33.885Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6008e77cb03d07272bbdfe6d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-21T02:31:24.292Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-21T02:31:24.292Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60094474b03d07272bbdfe8d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-21T09:08:04.091Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-21T09:08:04.091Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600a572cb03d07272bbdfead"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-22T04:40:12.177Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-22T04:40:12.177Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600adb3ab03d07272bbdfecd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-22T14:03:38.224Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-22T14:03:38.224Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600b222eb03d07272bbdfeed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-22T19:06:22.231Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-22T19:06:22.231Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600b910fb03d07272bbdff0d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-23T02:59:27.896Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-23T02:59:27.896Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600bbd88b03d07272bbdff2d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-23T06:09:12.113Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-23T06:09:12.113Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600c5a8ab03d07272bbdff4d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-23T17:19:06.200Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-23T17:19:06.200Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600d3c54b03d07272bbdff6d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-24T09:22:28.721Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-24T09:22:28.721Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600d86beb03d07272bbdff8d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-24T14:39:58.971Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-24T14:39:58.971Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "600ffec1b03d07272bbdffad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-26T11:36:33.039Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-26T11:36:33.039Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601108d4b03d07272bbdffcd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-27T06:31:48.106Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-27T06:31:48.106Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60115f6eb03d07272bbdffed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-27T12:41:18.201Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-27T12:41:18.201Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60116824b03d07272bbe000d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-27T13:18:28.678Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-27T13:18:28.678Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601179cfb03d07272bbe002d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-27T14:33:51.395Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-27T14:33:51.395Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60121091b03d07272bbe004d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-28T01:17:05.666Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-28T01:17:05.667Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60123261b03d07272bbe006d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-28T03:41:21.974Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-28T03:41:21.974Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60125fb1b03d07272bbe008d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-28T06:54:41.027Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-28T06:54:41.027Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60126022b03d07272bbe00ad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-28T06:56:34.313Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-28T06:56:34.313Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6012a38ab03d07272bbe00cd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-28T11:44:10.786Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-28T11:44:10.787Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60152ed0b03d07272bbe00ed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-30T10:02:56.675Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-30T10:02:56.675Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601667a3b03d07272bbe010d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-31T08:17:39.616Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-31T08:17:39.616Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6016858cb03d07272bbe012d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-31T10:25:16.823Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-31T10:25:16.823Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6016aeceb03d07272bbe014d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-01-31T13:21:18.975Z"
+	},
+	"updatedAt": {
+		"$date": "2021-01-31T13:21:18.975Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6017bfa8b03d07272bbe016d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-01T08:45:28.376Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-01T08:45:28.376Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6017f4e2b03d07272bbe018d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-01T12:32:34.494Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-01T12:32:34.494Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6018c012b03d07272bbe01ad"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-02T02:59:30.154Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-02T02:59:30.154Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6018e404b03d07272bbe01cd"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-02T05:32:52.214Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-02T05:32:52.214Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6018f767b03d07272bbe01ed"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-02T06:55:35.851Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-02T06:55:35.852Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601902f2b03d07272bbe020d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-02T07:44:50.738Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-02T07:44:50.738Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601903bab03d07272bbe022d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-02T07:48:10.554Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-02T07:48:10.554Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601a3feab03d07272bbe024d"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-03T06:17:14.833Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-03T06:17:14.833Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601b763eb03d07272bbe0270"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-04T04:21:18.677Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-04T04:21:18.677Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601d811ab03d07272bbe0290"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-05T17:32:10.360Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-05T17:32:10.360Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601d97deb03d07272bbe02b0"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-05T19:09:18.190Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-05T19:09:18.190Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601fee1fb03d07272bbe02d0"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-07T13:41:51.101Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-07T13:41:51.101Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602019beb03d07272bbe02f0"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-07T16:47:58.741Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-07T16:47:58.741Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60239199b03d07272bbe0310"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-10T07:56:09.107Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-10T07:56:09.107Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6023b076b03d07272bbe0330"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-10T10:07:50.953Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-10T10:07:50.953Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60240696b03d07272bbe0350"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-10T16:15:18.661Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-10T16:15:18.661Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60248420b03d07272bbe0370"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-11T01:10:56.223Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-11T01:10:56.223Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60248840b03d07272bbe0390"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-11T01:28:32.327Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-11T01:28:32.327Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6024a18db03d07272bbe03b0"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-11T03:16:29.047Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-11T03:16:29.047Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6024b677b03d07272bbe03d0"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-11T04:45:43.322Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-11T04:45:43.322Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60256b90b03d07272bbe03f0"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-11T17:38:24.293Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-11T17:38:24.293Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6025e53cb03d07272bbe0410"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-12T02:17:32.228Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-12T02:17:32.228Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6025f451b03d07272bbe0430"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-12T03:21:53.151Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-12T03:21:53.151Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602716cdb03d07272bbe0453"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-13T00:01:17.701Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-13T00:01:17.701Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60271796b03d07272bbe0473"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-13T00:04:38.437Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-13T00:04:38.437Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602791fab03d07272bbe0493"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-13T08:46:50.973Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-13T08:46:50.973Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6028a6bcb03d07272bbe04b3"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-14T04:27:40.907Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-14T04:27:40.907Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60296c4cb03d07272bbe04d3"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-14T18:30:36.931Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-14T18:30:36.931Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6029dc5bb03d07272bbe04f3"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-15T02:28:43.561Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-15T02:28:43.561Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602a020cb03d07272bbe0513"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-15T05:09:32.272Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-15T05:09:32.272Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602ab84db03d07272bbe0533"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-15T18:07:09.027Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-15T18:07:09.027Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602c24a7b03d07272bbe0553"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-16T20:01:43.467Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-16T20:01:43.467Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602d296eb03d07272bbe0577"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-17T14:34:22.788Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-17T14:34:22.788Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602e48ddb03d07272bbe0597"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-18T11:00:45.164Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-18T11:00:45.164Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602e49d9b03d07272bbe05b7"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-18T11:04:57.547Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-18T11:04:57.547Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602e7e85b03d07272bbe05d7"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-18T14:49:41.809Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-18T14:49:41.809Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602fd53ab03d07272bbe05f7"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-19T15:11:54.280Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-19T15:11:54.280Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602fdf41b03d07272bbe0617"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-19T15:54:41.264Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-19T15:54:41.264Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602fdf6bb03d07272bbe0637"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-19T15:55:23.299Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-19T15:55:23.299Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60300334b03d07272bbe0657"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-19T18:28:04.631Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-19T18:28:04.631Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6030c224b03d07272bbe0677"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-20T08:02:44.319Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-20T08:02:44.319Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60331070b03d07272bbe0697"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-22T02:01:20.705Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-22T02:01:20.705Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "6034d3d6b03d07272bbe06b7"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-23T10:07:18.383Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-23T10:07:18.383Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60352bd1b03d07272bbe06d7"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-23T16:22:41.765Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-23T16:22:41.766Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60354c56b03d07272bbe06f7"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-23T18:41:26.544Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-23T18:41:26.544Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60366491b03d07272bbe0717"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-24T14:37:05.413Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-24T14:37:05.413Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603700ecb03d07272bbe0737"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-25T01:44:12.695Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-25T01:44:12.695Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60376362b03d07272bbe0757"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-25T08:44:18.831Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-25T08:44:18.831Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603b4410b03d07272bbe0777"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-28T07:19:44.552Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-28T07:19:44.552Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603b4634b03d07272bbe0797"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-02-28T07:28:52.380Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-28T07:28:52.380Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603cae14b03d07272bbe07b7"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-03-01T09:04:20.672Z"
+	},
+	"updatedAt": {
+		"$date": "2021-03-01T09:04:20.672Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603dc7cbb03d07272bbe07d7"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-03-02T05:06:19.767Z"
+	},
+	"updatedAt": {
+		"$date": "2021-03-02T05:06:19.767Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603dea5eb03d07272bbe07f7"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-03-02T07:33:50.578Z"
+	},
+	"updatedAt": {
+		"$date": "2021-03-02T07:33:50.578Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603f12a6b03d07272bbe0817"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-03-03T04:37:58.251Z"
+	},
+	"updatedAt": {
+		"$date": "2021-03-03T04:37:58.251Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603f12dab03d07272bbe0837"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-03-03T04:38:50.115Z"
+	},
+	"updatedAt": {
+		"$date": "2021-03-03T04:38:50.115Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "603f80e9b03d07272bbe0857"
+	},
+	"name": "New Farm",
+	"isFeedMaking": "no",
+	"flockCount": 0,
+	"feedInStock": 0,
+	"feedPurchaseRate": 0,
+	"createdAt": {
+		"$date": "2021-03-03T12:28:25.939Z"
+	},
+	"updatedAt": {
+		"$date": "2021-03-03T12:28:25.939Z"
+	}
+}

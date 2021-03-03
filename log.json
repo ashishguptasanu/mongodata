@@ -1,0 +1,8548 @@
+{
+	"_id": {
+		"$oid": "5ecd630883e36e21dcd4a87b"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecd630883e36e21dcd4a879"
+	},
+	"byUserId": {
+		"$oid": "5eaebfd66933504a671bed06"
+	},
+	"createdAt": {
+		"$date": "2020-05-26T18:42:16.457Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-26T18:42:16.457Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecd631583e36e21dcd4a87e"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecd631583e36e21dcd4a87c"
+	},
+	"byUserId": {
+		"$oid": "5eaebfd66933504a671bed06"
+	},
+	"createdAt": {
+		"$date": "2020-05-26T18:42:29.542Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-26T18:42:29.542Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecd6d5183e36e21dcd4a880"
+	},
+	"modal": "dayEntry",
+	"action": "update",
+	"dayEntryId": {
+		"$oid": "5ecd630883e36e21dcd4a879"
+	},
+	"byUserId": {
+		"$oid": "5eaebfd66933504a671bed06"
+	},
+	"createdAt": {
+		"$date": "2020-05-26T19:26:09.583Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-26T19:26:09.584Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecd6d6b83e36e21dcd4a883"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecd6d6b83e36e21dcd4a881"
+	},
+	"byUserId": {
+		"$oid": "5eaebfd66933504a671bed06"
+	},
+	"createdAt": {
+		"$date": "2020-05-26T19:26:35.301Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-26T19:26:35.301Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ece629083e36e21dcd4a8c5"
+	},
+	"modal": "item",
+	"action": "create",
+	"itemId": {
+		"$oid": "5ece629083e36e21dcd4a8c4"
+	},
+	"byUserId": {
+		"$oid": "5ece624b83e36e21dcd4a8a4"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T12:52:32.811Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T12:52:32.811Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ece631283e36e21dcd4a8c7"
+	},
+	"modal": "flock",
+	"action": "create",
+	"flockId": {
+		"$oid": "5ece631283e36e21dcd4a8c6"
+	},
+	"byUserId": {
+		"$oid": "5ece624b83e36e21dcd4a8a4"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T12:54:42.755Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T12:54:42.755Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ece634583e36e21dcd4a8c9"
+	},
+	"modal": "item",
+	"action": "create",
+	"itemId": {
+		"$oid": "5ece634583e36e21dcd4a8c8"
+	},
+	"byUserId": {
+		"$oid": "5ece624b83e36e21dcd4a8a4"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T12:55:33.103Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T12:55:33.103Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ece639183e36e21dcd4a8cb"
+	},
+	"modal": "item",
+	"action": "create",
+	"itemId": {
+		"$oid": "5ece639183e36e21dcd4a8ca"
+	},
+	"byUserId": {
+		"$oid": "5ece624b83e36e21dcd4a8a4"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T12:56:49.308Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T12:56:49.308Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ece644383e36e21dcd4a8cd"
+	},
+	"modal": "flock",
+	"action": "create",
+	"flockId": {
+		"$oid": "5ece644383e36e21dcd4a8cc"
+	},
+	"byUserId": {
+		"$oid": "5ece618283e36e21dcd4a884"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T12:59:47.593Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T12:59:47.593Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ece64c683e36e21dcd4a8cf"
+	},
+	"modal": "party",
+	"action": "create",
+	"partyId": {
+		"$oid": "5ece64c683e36e21dcd4a8ce"
+	},
+	"byUserId": {
+		"$oid": "5ece618283e36e21dcd4a884"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T13:01:58.756Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T13:01:58.756Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ece64d683e36e21dcd4a8d1"
+	},
+	"modal": "item",
+	"action": "create",
+	"itemId": {
+		"$oid": "5ece64d683e36e21dcd4a8d0"
+	},
+	"byUserId": {
+		"$oid": "5ece618283e36e21dcd4a884"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T13:02:14.341Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T13:02:14.341Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ece64f283e36e21dcd4a8d3"
+	},
+	"modal": "item",
+	"action": "create",
+	"itemId": {
+		"$oid": "5ece64f283e36e21dcd4a8d2"
+	},
+	"byUserId": {
+		"$oid": "5ece618283e36e21dcd4a884"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T13:02:42.262Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T13:02:42.262Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ece658683e36e21dcd4a8d5"
+	},
+	"modal": "item",
+	"action": "create",
+	"itemId": {
+		"$oid": "5ece658683e36e21dcd4a8d4"
+	},
+	"byUserId": {
+		"$oid": "5ece618283e36e21dcd4a884"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T13:05:10.946Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T13:05:10.946Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea71b83e36e21dcd4a8d8"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecea71b83e36e21dcd4a8d6"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:44:59.626Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:44:59.626Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea72d83e36e21dcd4a8db"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecea72d83e36e21dcd4a8d9"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:45:17.577Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:45:17.577Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea74583e36e21dcd4a8de"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecea74583e36e21dcd4a8dc"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:45:41.479Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:45:41.479Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea75783e36e21dcd4a8e1"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecea75783e36e21dcd4a8df"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:45:59.938Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:45:59.938Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea76d83e36e21dcd4a8e4"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecea76d83e36e21dcd4a8e2"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:46:21.579Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:46:21.579Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea77c83e36e21dcd4a8e7"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecea77c83e36e21dcd4a8e5"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:46:36.135Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:46:36.135Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea79283e36e21dcd4a8ea"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecea79283e36e21dcd4a8e8"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:46:58.483Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:46:58.483Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea79f83e36e21dcd4a8ed"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecea79f83e36e21dcd4a8eb"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:47:11.060Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:47:11.060Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea7bc83e36e21dcd4a8f1"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecea7bc83e36e21dcd4a8ee"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:47:40.586Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:47:40.586Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea7d583e36e21dcd4a8f5"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecea7d583e36e21dcd4a8f2"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:48:05.071Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:48:05.071Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea7f883e36e21dcd4a8f9"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecea7f883e36e21dcd4a8f6"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:48:40.986Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:48:40.986Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea86383e36e21dcd4a91c"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecea86383e36e21dcd4a91a"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:50:27.593Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:50:27.593Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea87383e36e21dcd4a91f"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecea87383e36e21dcd4a91d"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:50:43.278Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:50:43.278Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea89c83e36e21dcd4a922"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecea89c83e36e21dcd4a920"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:51:24.646Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:51:24.646Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceaa3c83e36e21dcd4a923"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:58:20.346Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:58:20.346Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceaa3c83e36e21dcd4a924"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ecea84383e36e21dcd4a8fb"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:58:20.724Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:58:20.724Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceaa3d83e36e21dcd4a925"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ecea84383e36e21dcd4a8fd"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:58:21.015Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:58:21.015Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceaa7d83e36e21dcd4a928"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5eceaa7d83e36e21dcd4a926"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:59:25.706Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:59:25.706Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb0d283e36e21dcd4a929"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ecea84383e36e21dcd4a8fb"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:26:26.038Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:26:26.038Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb12783e36e21dcd4a92c"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5eceb12783e36e21dcd4a92a"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:27:51.489Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:27:51.489Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb16483e36e21dcd4a931"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5eceb16483e36e21dcd4a92d"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:28:52.929Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:28:52.929Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb18283e36e21dcd4a934"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5eceb18283e36e21dcd4a932"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:29:22.412Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:29:22.412Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb1b183e36e21dcd4a937"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5eceb1b183e36e21dcd4a935"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:30:09.235Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:30:09.235Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb1ce83e36e21dcd4a93a"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5eceb1ce83e36e21dcd4a938"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:30:38.814Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:30:38.814Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb1f383e36e21dcd4a93d"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5eceb1f383e36e21dcd4a93b"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:31:15.418Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:31:15.418Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb21b83e36e21dcd4a940"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5eceb21b83e36e21dcd4a93e"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:31:55.086Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:31:55.086Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb23d83e36e21dcd4a944"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5eceb23d83e36e21dcd4a941"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:32:29.053Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:32:29.053Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb26d83e36e21dcd4a947"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5eceb26d83e36e21dcd4a945"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:33:17.383Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:33:17.383Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb32683e36e21dcd4a94a"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5eceb32683e36e21dcd4a948"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:36:22.923Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:36:22.923Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb38d83e36e21dcd4a94b"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ecea84383e36e21dcd4a8fb"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:38:05.015Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:38:05.015Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb4c783e36e21dcd4a94d"
+	},
+	"modal": "dayEntry",
+	"action": "update",
+	"dayEntryId": {
+		"$oid": "5eceb32683e36e21dcd4a948"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:43:19.620Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:43:19.621Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb4f583e36e21dcd4a94e"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ecea84383e36e21dcd4a8fb"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:44:05.585Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:44:05.585Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb50e83e36e21dcd4a950"
+	},
+	"modal": "dayEntry",
+	"action": "update",
+	"dayEntryId": {
+		"$oid": "5eceb32683e36e21dcd4a948"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:44:30.572Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:44:30.572Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb52483e36e21dcd4a951"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ecea84383e36e21dcd4a8fb"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:44:52.642Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:44:52.642Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb5bc83e36e21dcd4a953"
+	},
+	"modal": "item",
+	"action": "create",
+	"itemId": {
+		"$oid": "5eceb5bc83e36e21dcd4a952"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:47:24.031Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:47:24.031Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb5f383e36e21dcd4a955"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5eceb5f383e36e21dcd4a954"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:48:19.932Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:48:19.933Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceba8683e36e21dcd4a957"
+	},
+	"modal": "dayEntry",
+	"action": "update",
+	"dayEntryId": {
+		"$oid": "5eceaa7d83e36e21dcd4a926"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T19:07:50.034Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T19:07:50.034Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceba9183e36e21dcd4a959"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5eceba9183e36e21dcd4a958"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T19:08:01.342Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T19:08:01.342Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecebac183e36e21dcd4a95a"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5eaebfd66933504a671bed07"
+	},
+	"byUserId": {
+		"$oid": "5eaebfd66933504a671bed06"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T19:08:49.690Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T19:08:49.690Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecebad483e36e21dcd4a95c"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5ecebad483e36e21dcd4a95b"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T19:09:08.308Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T19:09:08.308Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecebaff83e36e21dcd4a95e"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5ecebaff83e36e21dcd4a95d"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T19:09:51.688Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T19:09:51.688Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecebb2483e36e21dcd4a960"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5ecebb2483e36e21dcd4a95f"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T19:10:28.269Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T19:10:28.269Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecfa2cc83e36e21dcd4a963"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ecfa2cc83e36e21dcd4a961"
+	},
+	"byUserId": {
+		"$oid": "5eaebfd66933504a671bed06"
+	},
+	"createdAt": {
+		"$date": "2020-05-28T11:38:52.097Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-28T11:38:52.097Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed017af83e36e21dcd4a965"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5ed017af83e36e21dcd4a964"
+	},
+	"byUserId": {
+		"$oid": "5eaebfd66933504a671bed06"
+	},
+	"createdAt": {
+		"$date": "2020-05-28T19:57:35.906Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-28T19:57:35.906Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed0b7b783e36e21dcd4a968"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ed0b7b783e36e21dcd4a966"
+	},
+	"byUserId": {
+		"$oid": "5eaebfd66933504a671bed06"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T07:20:23.767Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T07:20:23.767Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed0bf7483e36e21dcd4a96b"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ed0bf7483e36e21dcd4a969"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T07:53:24.823Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T07:53:24.823Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed0cd3b83e36e21dcd4a96e"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ed0cd3b83e36e21dcd4a96c"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T08:52:11.288Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T08:52:11.288Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed0cd5983e36e21dcd4a970"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5ed0cd5983e36e21dcd4a96f"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T08:52:41.259Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T08:52:41.259Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed0cd7583e36e21dcd4a972"
+	},
+	"modal": "sale",
+	"action": "create",
+	"saleId": {
+		"$oid": "5ed0cd7583e36e21dcd4a971"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T08:53:09.830Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T08:53:09.830Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed0cd9883e36e21dcd4a974"
+	},
+	"modal": "dayEntry",
+	"action": "update",
+	"dayEntryId": {
+		"$oid": "5ecea86383e36e21dcd4a91a"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T08:53:44.140Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T08:53:44.140Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed0f73c83e36e21dcd4a976"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5ed0f73c83e36e21dcd4a975"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T11:51:24.110Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T11:51:24.110Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed1078483e36e21dcd4a978"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5ed1078483e36e21dcd4a977"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T13:00:52.256Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T13:00:52.256Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed1084f83e36e21dcd4a97a"
+	},
+	"modal": "sale",
+	"action": "create",
+	"saleId": {
+		"$oid": "5ed1084f83e36e21dcd4a979"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T13:04:15.780Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T13:04:15.780Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed1086a83e36e21dcd4a97c"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5ed1086a83e36e21dcd4a97b"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T13:04:42.694Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T13:04:42.694Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed1088483e36e21dcd4a97e"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5ed1088483e36e21dcd4a97d"
+	},
+	"byUserId": {
+		"$oid": "5ecea84383e36e21dcd4a8fa"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T13:05:08.828Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T13:05:08.828Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed1108d83e36e21dcd4a981"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ed1108d83e36e21dcd4a97f"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T13:39:25.306Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T13:39:25.306Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed110b483e36e21dcd4a983"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5ed110b483e36e21dcd4a982"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T13:40:04.817Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T13:40:04.817Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed110fd83e36e21dcd4a985"
+	},
+	"modal": "sale",
+	"action": "create",
+	"saleId": {
+		"$oid": "5ed110fd83e36e21dcd4a984"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T13:41:17.906Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T13:41:17.906Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed1115c83e36e21dcd4a987"
+	},
+	"modal": "dayEntry",
+	"action": "update",
+	"dayEntryId": {
+		"$oid": "5ed1108d83e36e21dcd4a97f"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T13:42:52.757Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T13:42:52.757Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed55fa883e36e21dcd4a98a"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ed55fa883e36e21dcd4a988"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-06-01T20:06:00.444Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-01T20:06:00.444Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed55fb883e36e21dcd4a98d"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ed55fb883e36e21dcd4a98b"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-06-01T20:06:16.339Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-01T20:06:16.339Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed55fc983e36e21dcd4a990"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ed55fc983e36e21dcd4a98e"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-06-01T20:06:33.366Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-01T20:06:33.366Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5b40583e36e21dcd4a9b1"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed5b39383e36e21dcd4a991"
+	},
+	"byUserId": {
+		"$oid": "5ed5b39383e36e21dcd4a991"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T02:05:57.196Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T02:05:57.196Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5b40583e36e21dcd4a9b2"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed5b39383e36e21dcd4a992"
+	},
+	"byUserId": {
+		"$oid": "5ed5b39383e36e21dcd4a991"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T02:05:57.442Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T02:05:57.442Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5b40583e36e21dcd4a9b3"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed5b39383e36e21dcd4a994"
+	},
+	"byUserId": {
+		"$oid": "5ed5b39383e36e21dcd4a991"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T02:05:57.676Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T02:05:57.676Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5fa0583e36e21dcd4aa34"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d4"
+	},
+	"byUserId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d4"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:04:37.001Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:04:37.001Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5fa0583e36e21dcd4aa35"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d5"
+	},
+	"byUserId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d4"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:04:37.276Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:04:37.276Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5fa0583e36e21dcd4aa36"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d7"
+	},
+	"byUserId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d4"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:04:37.560Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:04:37.560Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5fb1083e36e21dcd4aa77"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d4"
+	},
+	"byUserId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d4"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:09:04.125Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:09:04.125Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5fb1083e36e21dcd4aa78"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d5"
+	},
+	"byUserId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d4"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:09:04.290Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:09:04.290Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5fb1083e36e21dcd4aa79"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d7"
+	},
+	"byUserId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d4"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:09:04.431Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:09:04.431Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5fb1083e36e21dcd4aa7a"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d4"
+	},
+	"byUserId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d4"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:09:04.577Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:09:04.577Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5fb1083e36e21dcd4aa7b"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d5"
+	},
+	"byUserId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d4"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:09:04.834Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:09:04.834Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed5fb1183e36e21dcd4aa7c"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d7"
+	},
+	"byUserId": {
+		"$oid": "5ed5f8ef83e36e21dcd4a9d4"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:09:05.293Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:09:05.293Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606db83e36e21dcd4aadd"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:23.815Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:23.815Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606dc83e36e21dcd4aade"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed6060f83e36e21dcd4aabe"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:24.125Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:24.125Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606dc83e36e21dcd4aadf"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed6060f83e36e21dcd4aac0"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:24.396Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:24.396Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e283e36e21dcd4aae0"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:30.092Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:30.092Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e283e36e21dcd4aae1"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed6060f83e36e21dcd4aabe"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:30.237Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:30.237Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e283e36e21dcd4aae2"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed6060f83e36e21dcd4aac0"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:30.395Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:30.395Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e383e36e21dcd4aae3"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:31.048Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:31.049Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e383e36e21dcd4aae4"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:31.222Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:31.222Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e383e36e21dcd4aae5"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed6060f83e36e21dcd4aabe"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:31.370Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:31.370Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e383e36e21dcd4aae6"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:31.439Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:31.439Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e383e36e21dcd4aae7"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed6060f83e36e21dcd4aabe"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:31.447Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:31.447Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e383e36e21dcd4aae8"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:31.512Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:31.512Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e383e36e21dcd4aae9"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed6060f83e36e21dcd4aac0"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:31.593Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:31.593Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e383e36e21dcd4aaea"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed6060f83e36e21dcd4aabe"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:31.634Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:31.634Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e383e36e21dcd4aaeb"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed6060f83e36e21dcd4aac0"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:31.667Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:31.667Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e383e36e21dcd4aaec"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed6060f83e36e21dcd4aabe"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:31.723Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:31.723Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e383e36e21dcd4aaed"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:31.742Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:31.742Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e383e36e21dcd4aaee"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:31.766Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:31.766Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e383e36e21dcd4aaef"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed6060f83e36e21dcd4aac0"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:31.788Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:31.788Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e383e36e21dcd4aaf0"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed6060f83e36e21dcd4aac0"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:31.921Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:31.921Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e383e36e21dcd4aaf1"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed6060f83e36e21dcd4aabe"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:31.948Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:31.948Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e383e36e21dcd4aaf2"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed6060f83e36e21dcd4aabe"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:31.980Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:31.980Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e483e36e21dcd4aaf3"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed6060f83e36e21dcd4aac0"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:32.109Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:32.109Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed606e483e36e21dcd4aaf4"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed6060f83e36e21dcd4aac0"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T07:59:32.121Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T07:59:32.121Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6075783e36e21dcd4aaf5"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed6059783e36e21dcd4aa9d"
+	},
+	"byUserId": {
+		"$oid": "5ed6059783e36e21dcd4aa9d"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T08:01:27.663Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T08:01:27.663Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6075883e36e21dcd4aaf6"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed6059783e36e21dcd4aa9e"
+	},
+	"byUserId": {
+		"$oid": "5ed6059783e36e21dcd4aa9d"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T08:01:28.051Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T08:01:28.051Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6075883e36e21dcd4aaf7"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed6059783e36e21dcd4aaa0"
+	},
+	"byUserId": {
+		"$oid": "5ed6059783e36e21dcd4aa9d"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T08:01:28.289Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T08:01:28.289Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6078b83e36e21dcd4aaf8"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T08:02:19.237Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T08:02:19.237Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6078b83e36e21dcd4aaf9"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed6060f83e36e21dcd4aabe"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T08:02:19.661Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T08:02:19.661Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed6078c83e36e21dcd4aafa"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed6060f83e36e21dcd4aac0"
+	},
+	"byUserId": {
+		"$oid": "5ed6060f83e36e21dcd4aabd"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T08:02:20.535Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T08:02:20.535Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed66e0483e36e21dcd4ab7b"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed66d2e83e36e21dcd4ab5b"
+	},
+	"byUserId": {
+		"$oid": "5ed66d2e83e36e21dcd4ab5b"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T15:19:32.946Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T15:19:32.946Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed66e0583e36e21dcd4ab7c"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed66d2e83e36e21dcd4ab5c"
+	},
+	"byUserId": {
+		"$oid": "5ed66d2e83e36e21dcd4ab5b"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T15:19:33.665Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T15:19:33.665Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed66e0683e36e21dcd4ab7d"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed66d2e83e36e21dcd4ab5e"
+	},
+	"byUserId": {
+		"$oid": "5ed66d2e83e36e21dcd4ab5b"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T15:19:34.286Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T15:19:34.286Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed66e5083e36e21dcd4ab80"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ed66e5083e36e21dcd4ab7e"
+	},
+	"byUserId": {
+		"$oid": "5ed66d2e83e36e21dcd4ab5b"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T15:20:48.850Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T15:20:48.850Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8b66fe462ae7e1dfbac1f"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed6146c83e36e21dcd4aafb"
+	},
+	"byUserId": {
+		"$oid": "5ed6146c83e36e21dcd4aafb"
+	},
+	"createdAt": {
+		"$date": "2020-06-04T08:53:03.335Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T08:53:03.335Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8b66fe462ae7e1dfbac20"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed6146c83e36e21dcd4aafc"
+	},
+	"byUserId": {
+		"$oid": "5ed6146c83e36e21dcd4aafb"
+	},
+	"createdAt": {
+		"$date": "2020-06-04T08:53:03.629Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T08:53:03.630Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8b66fe462ae7e1dfbac21"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed6146c83e36e21dcd4aafe"
+	},
+	"byUserId": {
+		"$oid": "5ed6146c83e36e21dcd4aafb"
+	},
+	"createdAt": {
+		"$date": "2020-06-04T08:53:03.881Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T08:53:03.881Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8ca09e462ae7e1dfbac42"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed8c940e462ae7e1dfbac22"
+	},
+	"byUserId": {
+		"$oid": "5ed8c940e462ae7e1dfbac22"
+	},
+	"createdAt": {
+		"$date": "2020-06-04T10:16:41.082Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T10:16:41.082Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8ca09e462ae7e1dfbac43"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed8c940e462ae7e1dfbac23"
+	},
+	"byUserId": {
+		"$oid": "5ed8c940e462ae7e1dfbac22"
+	},
+	"createdAt": {
+		"$date": "2020-06-04T10:16:41.549Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T10:16:41.549Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8ca0ae462ae7e1dfbac44"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed8c940e462ae7e1dfbac25"
+	},
+	"byUserId": {
+		"$oid": "5ed8c940e462ae7e1dfbac22"
+	},
+	"createdAt": {
+		"$date": "2020-06-04T10:16:42.011Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T10:16:42.011Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8d306e462ae7e1dfbaca5"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed8d1e4e462ae7e1dfbac85"
+	},
+	"byUserId": {
+		"$oid": "5ed8d1e4e462ae7e1dfbac85"
+	},
+	"createdAt": {
+		"$date": "2020-06-04T10:55:02.978Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T10:55:02.978Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8d307e462ae7e1dfbaca6"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed8d1e4e462ae7e1dfbac86"
+	},
+	"byUserId": {
+		"$oid": "5ed8d1e4e462ae7e1dfbac85"
+	},
+	"createdAt": {
+		"$date": "2020-06-04T10:55:03.222Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T10:55:03.222Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed8d307e462ae7e1dfbaca7"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed8d1e4e462ae7e1dfbac88"
+	},
+	"byUserId": {
+		"$oid": "5ed8d1e4e462ae7e1dfbac85"
+	},
+	"createdAt": {
+		"$date": "2020-06-04T10:55:03.441Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-04T10:55:03.441Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed9ae82e462ae7e1dfbace8"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed9ac98e462ae7e1dfbacc8"
+	},
+	"byUserId": {
+		"$oid": "5ed9ac98e462ae7e1dfbacc8"
+	},
+	"createdAt": {
+		"$date": "2020-06-05T02:31:30.141Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-05T02:31:30.141Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed9ae82e462ae7e1dfbace9"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed9ac98e462ae7e1dfbacc9"
+	},
+	"byUserId": {
+		"$oid": "5ed9ac98e462ae7e1dfbacc8"
+	},
+	"createdAt": {
+		"$date": "2020-06-05T02:31:30.388Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-05T02:31:30.388Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed9ae82e462ae7e1dfbacea"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed9ac98e462ae7e1dfbaccb"
+	},
+	"byUserId": {
+		"$oid": "5ed9ac98e462ae7e1dfbacc8"
+	},
+	"createdAt": {
+		"$date": "2020-06-05T02:31:30.611Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-05T02:31:30.611Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edcee6ae462ae7e1dfbad0b"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5edcee15e462ae7e1dfbaceb"
+	},
+	"byUserId": {
+		"$oid": "5edcee15e462ae7e1dfbaceb"
+	},
+	"createdAt": {
+		"$date": "2020-06-07T13:40:58.031Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-07T13:40:58.031Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edcee6ae462ae7e1dfbad0c"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5edcee15e462ae7e1dfbacec"
+	},
+	"byUserId": {
+		"$oid": "5edcee15e462ae7e1dfbaceb"
+	},
+	"createdAt": {
+		"$date": "2020-06-07T13:40:58.208Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-07T13:40:58.208Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edcee6ae462ae7e1dfbad0d"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5edcee15e462ae7e1dfbacee"
+	},
+	"byUserId": {
+		"$oid": "5edcee15e462ae7e1dfbaceb"
+	},
+	"createdAt": {
+		"$date": "2020-06-07T13:40:58.384Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-07T13:40:58.384Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edeff4ce462ae7e1dfbad2e"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5edefed6e462ae7e1dfbad0e"
+	},
+	"byUserId": {
+		"$oid": "5edefed6e462ae7e1dfbad0e"
+	},
+	"createdAt": {
+		"$date": "2020-06-09T03:17:32.391Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-09T03:17:32.391Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edeff50e462ae7e1dfbad2f"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5edefed6e462ae7e1dfbad0f"
+	},
+	"byUserId": {
+		"$oid": "5edefed6e462ae7e1dfbad0e"
+	},
+	"createdAt": {
+		"$date": "2020-06-09T03:17:36.292Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-09T03:17:36.292Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edeff56e462ae7e1dfbad30"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5edefed6e462ae7e1dfbad0e"
+	},
+	"byUserId": {
+		"$oid": "5edefed6e462ae7e1dfbad0e"
+	},
+	"createdAt": {
+		"$date": "2020-06-09T03:17:42.049Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-09T03:17:42.049Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edeff56e462ae7e1dfbad31"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5edefed6e462ae7e1dfbad0e"
+	},
+	"byUserId": {
+		"$oid": "5edefed6e462ae7e1dfbad0e"
+	},
+	"createdAt": {
+		"$date": "2020-06-09T03:17:42.474Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-09T03:17:42.474Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edeff56e462ae7e1dfbad32"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5edefed6e462ae7e1dfbad0e"
+	},
+	"byUserId": {
+		"$oid": "5edefed6e462ae7e1dfbad0e"
+	},
+	"createdAt": {
+		"$date": "2020-06-09T03:17:42.621Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-09T03:17:42.621Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edeff57e462ae7e1dfbad33"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5edefed6e462ae7e1dfbad0f"
+	},
+	"byUserId": {
+		"$oid": "5edefed6e462ae7e1dfbad0e"
+	},
+	"createdAt": {
+		"$date": "2020-06-09T03:17:43.165Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-09T03:17:43.165Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edeff57e462ae7e1dfbad34"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5edefed6e462ae7e1dfbad11"
+	},
+	"byUserId": {
+		"$oid": "5edefed6e462ae7e1dfbad0e"
+	},
+	"createdAt": {
+		"$date": "2020-06-09T03:17:43.532Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-09T03:17:43.532Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edeff57e462ae7e1dfbad35"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5edefed6e462ae7e1dfbad0f"
+	},
+	"byUserId": {
+		"$oid": "5edefed6e462ae7e1dfbad0e"
+	},
+	"createdAt": {
+		"$date": "2020-06-09T03:17:43.578Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-09T03:17:43.578Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edeff57e462ae7e1dfbad36"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5edefed6e462ae7e1dfbad0f"
+	},
+	"byUserId": {
+		"$oid": "5edefed6e462ae7e1dfbad0e"
+	},
+	"createdAt": {
+		"$date": "2020-06-09T03:17:43.693Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-09T03:17:43.693Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edeff58e462ae7e1dfbad37"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5edefed6e462ae7e1dfbad11"
+	},
+	"byUserId": {
+		"$oid": "5edefed6e462ae7e1dfbad0e"
+	},
+	"createdAt": {
+		"$date": "2020-06-09T03:17:44.018Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-09T03:17:44.018Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edeff58e462ae7e1dfbad38"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5edefed6e462ae7e1dfbad11"
+	},
+	"byUserId": {
+		"$oid": "5edefed6e462ae7e1dfbad0e"
+	},
+	"createdAt": {
+		"$date": "2020-06-09T03:17:44.479Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-09T03:17:44.479Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5edeff58e462ae7e1dfbad39"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5edefed6e462ae7e1dfbad11"
+	},
+	"byUserId": {
+		"$oid": "5edefed6e462ae7e1dfbad0e"
+	},
+	"createdAt": {
+		"$date": "2020-06-09T03:17:44.538Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-09T03:17:44.538Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee0dc1de462ae7e1dfbad5a"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ec20ee18e0e0d2d80ec4502"
+	},
+	"byUserId": {
+		"$oid": "5ec20ee18e0e0d2d80ec4502"
+	},
+	"createdAt": {
+		"$date": "2020-06-10T13:11:57.268Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-10T13:11:57.268Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee0dc1de462ae7e1dfbad5b"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ec20ee18e0e0d2d80ec4503"
+	},
+	"byUserId": {
+		"$oid": "5ec20ee18e0e0d2d80ec4502"
+	},
+	"createdAt": {
+		"$date": "2020-06-10T13:11:57.636Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-10T13:11:57.636Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee0dc1de462ae7e1dfbad5c"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ec20ee18e0e0d2d80ec4505"
+	},
+	"byUserId": {
+		"$oid": "5ec20ee18e0e0d2d80ec4502"
+	},
+	"createdAt": {
+		"$date": "2020-06-10T13:11:57.901Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-10T13:11:57.901Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee0dd81e462ae7e1dfbad5f"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ee0dd81e462ae7e1dfbad5d"
+	},
+	"byUserId": {
+		"$oid": "5ec20ee18e0e0d2d80ec4502"
+	},
+	"createdAt": {
+		"$date": "2020-06-10T13:17:53.078Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-10T13:17:53.078Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee0de08e462ae7e1dfbad61"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5ee0de08e462ae7e1dfbad60"
+	},
+	"byUserId": {
+		"$oid": "5ec20ee18e0e0d2d80ec4502"
+	},
+	"createdAt": {
+		"$date": "2020-06-10T13:20:08.284Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-10T13:20:08.284Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee59beee462ae7e1dfbad82"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ee59b62e462ae7e1dfbad62"
+	},
+	"byUserId": {
+		"$oid": "5ee59b62e462ae7e1dfbad62"
+	},
+	"createdAt": {
+		"$date": "2020-06-14T03:39:26.463Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-14T03:39:26.464Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee59beee462ae7e1dfbad83"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ee59b62e462ae7e1dfbad63"
+	},
+	"byUserId": {
+		"$oid": "5ee59b62e462ae7e1dfbad62"
+	},
+	"createdAt": {
+		"$date": "2020-06-14T03:39:26.694Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-14T03:39:26.694Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee59beee462ae7e1dfbad84"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ee59b62e462ae7e1dfbad65"
+	},
+	"byUserId": {
+		"$oid": "5ee59b62e462ae7e1dfbad62"
+	},
+	"createdAt": {
+		"$date": "2020-06-14T03:39:26.897Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-14T03:39:26.897Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee632ede462ae7e1dfbad86"
+	},
+	"modal": "flock",
+	"action": "create",
+	"flockId": {
+		"$oid": "5ee632ede462ae7e1dfbad85"
+	},
+	"byUserId": {
+		"$oid": "5ed5fb0083e36e21dcd4aa57"
+	},
+	"createdAt": {
+		"$date": "2020-06-14T14:23:41.597Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-14T14:23:41.597Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee88edce462ae7e1dfbad87"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ed5fb0083e36e21dcd4aa57"
+	},
+	"byUserId": {
+		"$oid": "5ed5fb0083e36e21dcd4aa57"
+	},
+	"createdAt": {
+		"$date": "2020-06-16T09:20:28.520Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-16T09:20:28.520Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee88edce462ae7e1dfbad88"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ed5fb0083e36e21dcd4aa58"
+	},
+	"byUserId": {
+		"$oid": "5ed5fb0083e36e21dcd4aa57"
+	},
+	"createdAt": {
+		"$date": "2020-06-16T09:20:28.799Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-16T09:20:28.799Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee88edde462ae7e1dfbad89"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ed5fb0083e36e21dcd4aa5a"
+	},
+	"byUserId": {
+		"$oid": "5ed5fb0083e36e21dcd4aa57"
+	},
+	"createdAt": {
+		"$date": "2020-06-16T09:20:29.068Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-16T09:20:29.068Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee88f76e462ae7e1dfbad8c"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ee88f76e462ae7e1dfbad8a"
+	},
+	"byUserId": {
+		"$oid": "5ed5fb0083e36e21dcd4aa57"
+	},
+	"createdAt": {
+		"$date": "2020-06-16T09:23:02.488Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-16T09:23:02.488Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee99cf3e462ae7e1dfbadad"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5ee99bd1e462ae7e1dfbad8d"
+	},
+	"byUserId": {
+		"$oid": "5ee99bd1e462ae7e1dfbad8d"
+	},
+	"createdAt": {
+		"$date": "2020-06-17T04:32:51.968Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-17T04:32:51.968Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee99cf4e462ae7e1dfbadae"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5ee99bd1e462ae7e1dfbad8e"
+	},
+	"byUserId": {
+		"$oid": "5ee99bd1e462ae7e1dfbad8d"
+	},
+	"createdAt": {
+		"$date": "2020-06-17T04:32:52.284Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-17T04:32:52.284Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee99cf4e462ae7e1dfbadaf"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5ee99bd1e462ae7e1dfbad90"
+	},
+	"byUserId": {
+		"$oid": "5ee99bd1e462ae7e1dfbad8d"
+	},
+	"createdAt": {
+		"$date": "2020-06-17T04:32:52.538Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-17T04:32:52.538Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee9c027e462ae7e1dfbadb2"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5ee9c027e462ae7e1dfbadb0"
+	},
+	"byUserId": {
+		"$oid": "5ed5fb0083e36e21dcd4aa57"
+	},
+	"createdAt": {
+		"$date": "2020-06-17T07:03:03.512Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-17T07:03:03.512Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eeacd12e462ae7e1dfbadb5"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5eeacd12e462ae7e1dfbadb3"
+	},
+	"byUserId": {
+		"$oid": "5ee99bd1e462ae7e1dfbad8d"
+	},
+	"createdAt": {
+		"$date": "2020-06-18T02:10:26.041Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-18T02:10:26.041Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eec3c0ae462ae7e1dfbadd8"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5eec3c0ae462ae7e1dfbadd6"
+	},
+	"byUserId": {
+		"$oid": "5ee99bd1e462ae7e1dfbad8d"
+	},
+	"createdAt": {
+		"$date": "2020-06-19T04:16:10.864Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-19T04:16:10.864Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eec3d3ee462ae7e1dfbadf9"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5eec3c7ae462ae7e1dfbadd9"
+	},
+	"byUserId": {
+		"$oid": "5eec3c7ae462ae7e1dfbadd9"
+	},
+	"createdAt": {
+		"$date": "2020-06-19T04:21:18.819Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-19T04:21:18.819Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eec3d3fe462ae7e1dfbadfa"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5eec3c7ae462ae7e1dfbadda"
+	},
+	"byUserId": {
+		"$oid": "5eec3c7ae462ae7e1dfbadd9"
+	},
+	"createdAt": {
+		"$date": "2020-06-19T04:21:19.076Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-19T04:21:19.076Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eec3d3fe462ae7e1dfbadfb"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5eec3c7ae462ae7e1dfbaddc"
+	},
+	"byUserId": {
+		"$oid": "5eec3c7ae462ae7e1dfbadd9"
+	},
+	"createdAt": {
+		"$date": "2020-06-19T04:21:19.319Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-19T04:21:19.319Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eec3ddee462ae7e1dfbadfe"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5eec3ddee462ae7e1dfbadfc"
+	},
+	"byUserId": {
+		"$oid": "5eec3c7ae462ae7e1dfbadd9"
+	},
+	"createdAt": {
+		"$date": "2020-06-19T04:23:58.247Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-19T04:23:58.247Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ef77c90b03d07272bbdcd18"
+	},
+	"modal": "sale",
+	"action": "create",
+	"saleId": {
+		"$oid": "5ef77c90b03d07272bbdcd17"
+	},
+	"byUserId": {
+		"$oid": "5eaebfd66933504a671bed06"
+	},
+	"createdAt": {
+		"$date": "2020-06-27T17:06:24.541Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-27T17:06:24.541Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f04b0cbb03d07272bbdcd79"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f04b046b03d07272bbdcd59"
+	},
+	"byUserId": {
+		"$oid": "5f04b046b03d07272bbdcd59"
+	},
+	"createdAt": {
+		"$date": "2020-07-07T17:28:43.425Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-07T17:28:43.425Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f04b0cbb03d07272bbdcd7a"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f04b046b03d07272bbdcd5a"
+	},
+	"byUserId": {
+		"$oid": "5f04b046b03d07272bbdcd59"
+	},
+	"createdAt": {
+		"$date": "2020-07-07T17:28:43.662Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-07T17:28:43.662Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f04b0cbb03d07272bbdcd7b"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f04b046b03d07272bbdcd5c"
+	},
+	"byUserId": {
+		"$oid": "5f04b046b03d07272bbdcd59"
+	},
+	"createdAt": {
+		"$date": "2020-07-07T17:28:43.915Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-07T17:28:43.915Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f059716b03d07272bbdcd7c"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5eaebfd66933504a671bed09"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-08T09:51:18.769Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-08T09:51:18.769Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f06004cb03d07272bbdcd7d"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5eaebfd66933504a671bed09"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-08T17:20:12.376Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-08T17:20:12.376Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0603eeb03d07272bbdcd7f"
+	},
+	"modal": "item",
+	"action": "create",
+	"itemId": {
+		"$oid": "5f0603eeb03d07272bbdcd7e"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-08T17:35:42.097Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-08T17:35:42.097Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f060444b03d07272bbdcd81"
+	},
+	"modal": "item",
+	"action": "create",
+	"itemId": {
+		"$oid": "5f060444b03d07272bbdcd80"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-08T17:37:08.271Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-08T17:37:08.271Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f08b1d4b03d07272bbdcda3"
+	},
+	"modal": "sale",
+	"action": "create",
+	"saleId": {
+		"$oid": "5f08b1d4b03d07272bbdcda2"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-10T18:22:12.361Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-10T18:22:12.361Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0b0716b03d07272bbdcda5"
+	},
+	"modal": "party",
+	"action": "create",
+	"partyId": {
+		"$oid": "5f0b0716b03d07272bbdcda4"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-12T12:50:30.317Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-12T12:50:30.317Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0b0948b03d07272bbdcda6"
+	},
+	"modal": "party",
+	"action": "update",
+	"partyId": {
+		"$oid": "5f0b0716b03d07272bbdcda4"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-12T12:59:52.237Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-12T12:59:52.237Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0b096db03d07272bbdcda7"
+	},
+	"modal": "party",
+	"action": "update",
+	"partyId": {
+		"$oid": "5f0b0716b03d07272bbdcda4"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-12T13:00:29.955Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-12T13:00:29.955Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0df16eb03d07272bbdcda9"
+	},
+	"modal": "sale",
+	"action": "create",
+	"saleId": {
+		"$oid": "5f0df16eb03d07272bbdcda8"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-14T17:54:54.520Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-14T17:54:54.521Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0df24db03d07272bbdcdab"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5f0df24db03d07272bbdcdaa"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-14T17:58:37.028Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-14T17:58:37.028Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0df319b03d07272bbdcdad"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5f0df319b03d07272bbdcdac"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-14T18:02:01.895Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-14T18:02:01.895Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0e03d4b03d07272bbdcdae"
+	},
+	"modal": "expence",
+	"action": "update",
+	"expenceId": {
+		"$oid": "5f0df319b03d07272bbdcdac"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-14T19:13:24.538Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-14T19:13:24.538Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0ee707b03d07272bbdcdaf"
+	},
+	"modal": "expence",
+	"action": "update",
+	"expenceId": {
+		"$oid": "5f0df319b03d07272bbdcdac"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T11:22:47.665Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T11:22:47.665Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0eeaaab03d07272bbdcdb0"
+	},
+	"modal": "sale",
+	"action": "update",
+	"saleId": {
+		"$oid": "5f0df16eb03d07272bbdcda8"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T11:38:18.798Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T11:38:18.798Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0ef4d5b03d07272bbdcdb4"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5f0ef4d5b03d07272bbdcdb1"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T12:21:41.373Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T12:21:41.373Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0ef50bb03d07272bbdcdb8"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5f0ef50bb03d07272bbdcdb5"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T12:22:35.491Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T12:22:35.491Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0ef5a2b03d07272bbdcdbb"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5f0ef5a2b03d07272bbdcdb9"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T12:25:06.869Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T12:25:06.869Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0ef65cb03d07272bbdcdbe"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5f0ef65cb03d07272bbdcdbc"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T12:28:12.603Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T12:28:12.603Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0f032ab03d07272bbdcdc0"
+	},
+	"modal": "dayEntry",
+	"action": "update",
+	"dayEntryId": {
+		"$oid": "5f0ef4d5b03d07272bbdcdb1"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T13:22:50.447Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T13:22:50.447Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0f036bb03d07272bbdcdc3"
+	},
+	"modal": "dayEntry",
+	"action": "update",
+	"dayEntryId": {
+		"$oid": "5f0ef4d5b03d07272bbdcdb1"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T13:23:55.516Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T13:23:55.516Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f1099d6b03d07272bbdce04"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5eaebfd66933504a671bed06"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-16T18:17:58.793Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-16T18:17:58.793Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f1099e8b03d07272bbdce05"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5eaebfd66933504a671bed06"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-16T18:18:16.902Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-16T18:18:16.902Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f109d64b03d07272bbdce06"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5eaebfd66933504a671bed06"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-07-16T18:33:08.233Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-16T18:33:08.233Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f1604e4b03d07272bbdce47"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f160460b03d07272bbdce27"
+	},
+	"byUserId": {
+		"$oid": "5f160460b03d07272bbdce27"
+	},
+	"createdAt": {
+		"$date": "2020-07-20T20:56:04.275Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-20T20:56:04.275Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f1604e4b03d07272bbdce48"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f160460b03d07272bbdce28"
+	},
+	"byUserId": {
+		"$oid": "5f160460b03d07272bbdce27"
+	},
+	"createdAt": {
+		"$date": "2020-07-20T20:56:04.514Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-20T20:56:04.514Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f1604e4b03d07272bbdce49"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f160460b03d07272bbdce2a"
+	},
+	"byUserId": {
+		"$oid": "5f160460b03d07272bbdce27"
+	},
+	"createdAt": {
+		"$date": "2020-07-20T20:56:04.753Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-20T20:56:04.753Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f1605feb03d07272bbdce4b"
+	},
+	"modal": "sale",
+	"action": "create",
+	"saleId": {
+		"$oid": "5f1605feb03d07272bbdce4a"
+	},
+	"byUserId": {
+		"$oid": "5f160460b03d07272bbdce27"
+	},
+	"createdAt": {
+		"$date": "2020-07-20T21:00:46.642Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-20T21:00:46.642Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f23925db03d07272bbdceac"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f2391aeb03d07272bbdce8c"
+	},
+	"byUserId": {
+		"$oid": "5f2391aeb03d07272bbdce8c"
+	},
+	"createdAt": {
+		"$date": "2020-07-31T03:39:09.409Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-31T03:39:09.409Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f23925db03d07272bbdcead"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f2391aeb03d07272bbdce8d"
+	},
+	"byUserId": {
+		"$oid": "5f2391aeb03d07272bbdce8c"
+	},
+	"createdAt": {
+		"$date": "2020-07-31T03:39:09.531Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-31T03:39:09.531Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f23925db03d07272bbdceae"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f2391aeb03d07272bbdce8f"
+	},
+	"byUserId": {
+		"$oid": "5f2391aeb03d07272bbdce8c"
+	},
+	"createdAt": {
+		"$date": "2020-07-31T03:39:09.644Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-31T03:39:09.644Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f2c0779b03d07272bbdceef"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f107afeb03d07272bbdcdc4"
+	},
+	"byUserId": {
+		"$oid": "5f107afeb03d07272bbdcdc4"
+	},
+	"createdAt": {
+		"$date": "2020-08-06T13:36:57.703Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-06T13:36:57.703Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f2c0779b03d07272bbdcef0"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f107afeb03d07272bbdcdc5"
+	},
+	"byUserId": {
+		"$oid": "5f107afeb03d07272bbdcdc4"
+	},
+	"createdAt": {
+		"$date": "2020-08-06T13:36:57.778Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-06T13:36:57.778Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f2c0779b03d07272bbdcef1"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f107afeb03d07272bbdcdc7"
+	},
+	"byUserId": {
+		"$oid": "5f107afeb03d07272bbdcdc4"
+	},
+	"createdAt": {
+		"$date": "2020-08-06T13:36:57.825Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-06T13:36:57.825Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f3012c5b03d07272bbdcf73"
+	},
+	"modal": "flock",
+	"action": "create",
+	"flockId": {
+		"$oid": "5f3012c5b03d07272bbdcf72"
+	},
+	"byUserId": {
+		"$oid": "5f301289b03d07272bbdcf52"
+	},
+	"createdAt": {
+		"$date": "2020-08-09T15:14:13.928Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-09T15:14:13.928Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f30133db03d07272bbdcf75"
+	},
+	"modal": "item",
+	"action": "create",
+	"itemId": {
+		"$oid": "5f30133db03d07272bbdcf74"
+	},
+	"byUserId": {
+		"$oid": "5f301289b03d07272bbdcf52"
+	},
+	"createdAt": {
+		"$date": "2020-08-09T15:16:13.301Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-09T15:16:13.301Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f30136db03d07272bbdcf77"
+	},
+	"modal": "item",
+	"action": "create",
+	"itemId": {
+		"$oid": "5f30136db03d07272bbdcf76"
+	},
+	"byUserId": {
+		"$oid": "5f301289b03d07272bbdcf52"
+	},
+	"createdAt": {
+		"$date": "2020-08-09T15:17:01.280Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-09T15:17:01.280Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f3013b6b03d07272bbdcf78"
+	},
+	"modal": "flock",
+	"action": "delete",
+	"flockId": {
+		"$oid": "5f3012c5b03d07272bbdcf72"
+	},
+	"byUserId": {
+		"$oid": "5f301289b03d07272bbdcf52"
+	},
+	"createdAt": {
+		"$date": "2020-08-09T15:18:14.816Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-09T15:18:14.816Z"
+	},
+	"record": {
+		"name": "Bv300",
+		"birdCount": 23899,
+		"chickPlacementDate": {
+			"$date": "2020-08-01T18:30:00.000Z"
+		},
+		"id": {
+			"$oid": "5f3012c5b03d07272bbdcf72"
+		},
+		"farmId": {
+			"$oid": "5f301289b03d07272bbdcf53"
+		},
+		"createdAt": {
+			"$date": "2020-08-09T15:14:13.926Z"
+		},
+		"updatedAt": {
+			"$date": "2020-08-09T15:14:13.926Z"
+		},
+		"farm": {
+			"name": "New Farm",
+			"address": null,
+			"isFeedMaking": "no",
+			"flockCount": 0,
+			"feedInStock": 0,
+			"feedPurchaseRate": 0,
+			"id": {
+				"$oid": "5f301289b03d07272bbdcf53"
+			},
+			"createdAt": {
+				"$date": "2020-08-09T15:13:13.116Z"
+			},
+			"updatedAt": {
+				"$date": "2020-08-09T15:13:13.116Z"
+			}
+		}
+	}
+}
+{
+	"_id": {
+		"$oid": "5f3013ecb03d07272bbdcf7a"
+	},
+	"modal": "flock",
+	"action": "create",
+	"flockId": {
+		"$oid": "5f3013ecb03d07272bbdcf79"
+	},
+	"byUserId": {
+		"$oid": "5f301289b03d07272bbdcf52"
+	},
+	"createdAt": {
+		"$date": "2020-08-09T15:19:08.175Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-09T15:19:08.175Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f301410b03d07272bbdcf7c"
+	},
+	"modal": "item",
+	"action": "create",
+	"itemId": {
+		"$oid": "5f301410b03d07272bbdcf7b"
+	},
+	"byUserId": {
+		"$oid": "5f301289b03d07272bbdcf52"
+	},
+	"createdAt": {
+		"$date": "2020-08-09T15:19:44.827Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-09T15:19:44.827Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f301462b03d07272bbdcf7e"
+	},
+	"modal": "item",
+	"action": "create",
+	"itemId": {
+		"$oid": "5f301462b03d07272bbdcf7d"
+	},
+	"byUserId": {
+		"$oid": "5f301289b03d07272bbdcf52"
+	},
+	"createdAt": {
+		"$date": "2020-08-09T15:21:06.779Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-09T15:21:06.779Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f3014a9b03d07272bbdcf80"
+	},
+	"modal": "item",
+	"action": "create",
+	"itemId": {
+		"$oid": "5f3014a9b03d07272bbdcf7f"
+	},
+	"byUserId": {
+		"$oid": "5f301289b03d07272bbdcf52"
+	},
+	"createdAt": {
+		"$date": "2020-08-09T15:22:17.825Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-09T15:22:17.825Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f301557b03d07272bbdcf82"
+	},
+	"modal": "party",
+	"action": "create",
+	"partyId": {
+		"$oid": "5f301557b03d07272bbdcf81"
+	},
+	"byUserId": {
+		"$oid": "5f301289b03d07272bbdcf52"
+	},
+	"createdAt": {
+		"$date": "2020-08-09T15:25:11.852Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-09T15:25:11.852Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f301590b03d07272bbdcf84"
+	},
+	"modal": "sale",
+	"action": "create",
+	"saleId": {
+		"$oid": "5f301590b03d07272bbdcf83"
+	},
+	"byUserId": {
+		"$oid": "5f301289b03d07272bbdcf52"
+	},
+	"createdAt": {
+		"$date": "2020-08-09T15:26:08.920Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-09T15:26:08.920Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f301590b03d07272bbdcf86"
+	},
+	"modal": "sale",
+	"action": "create",
+	"saleId": {
+		"$oid": "5f301590b03d07272bbdcf85"
+	},
+	"byUserId": {
+		"$oid": "5f301289b03d07272bbdcf52"
+	},
+	"createdAt": {
+		"$date": "2020-08-09T15:26:08.982Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-09T15:26:08.982Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f3103fdb03d07272bbdcf87"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5eaebfd66933504a671bed09"
+	},
+	"byUserId": {
+		"$oid": "5de226168ae59d3777232208"
+	},
+	"createdAt": {
+		"$date": "2020-08-10T08:23:25.489Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-10T08:23:25.489Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f3176bbb03d07272bbdcfa8"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f317689b03d07272bbdcf88"
+	},
+	"byUserId": {
+		"$oid": "5f317689b03d07272bbdcf88"
+	},
+	"createdAt": {
+		"$date": "2020-08-10T16:32:59.805Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-10T16:32:59.805Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f3176bcb03d07272bbdcfa9"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f317689b03d07272bbdcf89"
+	},
+	"byUserId": {
+		"$oid": "5f317689b03d07272bbdcf88"
+	},
+	"createdAt": {
+		"$date": "2020-08-10T16:33:00.240Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-10T16:33:00.241Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f3176bcb03d07272bbdcfaa"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f317689b03d07272bbdcf8b"
+	},
+	"byUserId": {
+		"$oid": "5f317689b03d07272bbdcf88"
+	},
+	"createdAt": {
+		"$date": "2020-08-10T16:33:00.654Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-10T16:33:00.654Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f379828b03d07272bbdcfec"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5f379828b03d07272bbdcfeb"
+	},
+	"byUserId": {
+		"$oid": "5f362cdab03d07272bbdcfcb"
+	},
+	"createdAt": {
+		"$date": "2020-08-15T08:09:12.891Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-15T08:09:12.891Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f37fa71b03d07272bbdd06d"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f37f9c8b03d07272bbdd04d"
+	},
+	"byUserId": {
+		"$oid": "5f37f9c8b03d07272bbdd04d"
+	},
+	"createdAt": {
+		"$date": "2020-08-15T15:08:33.210Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-15T15:08:33.210Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f37fa71b03d07272bbdd06e"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f37f9c8b03d07272bbdd04e"
+	},
+	"byUserId": {
+		"$oid": "5f37f9c8b03d07272bbdd04d"
+	},
+	"createdAt": {
+		"$date": "2020-08-15T15:08:33.453Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-15T15:08:33.453Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f37fa71b03d07272bbdd06f"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f37f9c8b03d07272bbdd050"
+	},
+	"byUserId": {
+		"$oid": "5f37f9c8b03d07272bbdd04d"
+	},
+	"createdAt": {
+		"$date": "2020-08-15T15:08:33.680Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-15T15:08:33.680Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f4160bbb03d07272bbdd0d0"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f415fbcb03d07272bbdd0b0"
+	},
+	"byUserId": {
+		"$oid": "5f415fbcb03d07272bbdd0b0"
+	},
+	"createdAt": {
+		"$date": "2020-08-22T18:15:23.891Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-22T18:15:23.891Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f4160bcb03d07272bbdd0d1"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f415fbcb03d07272bbdd0b1"
+	},
+	"byUserId": {
+		"$oid": "5f415fbcb03d07272bbdd0b0"
+	},
+	"createdAt": {
+		"$date": "2020-08-22T18:15:24.683Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-22T18:15:24.684Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f44508cb03d07272bbdd132"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f444fdcb03d07272bbdd112"
+	},
+	"byUserId": {
+		"$oid": "5f444fdcb03d07272bbdd112"
+	},
+	"createdAt": {
+		"$date": "2020-08-24T23:43:08.327Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-24T23:43:08.327Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f44508cb03d07272bbdd133"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f444fdcb03d07272bbdd113"
+	},
+	"byUserId": {
+		"$oid": "5f444fdcb03d07272bbdd112"
+	},
+	"createdAt": {
+		"$date": "2020-08-24T23:43:08.576Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-24T23:43:08.576Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f44508cb03d07272bbdd134"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f444fdcb03d07272bbdd115"
+	},
+	"byUserId": {
+		"$oid": "5f444fdcb03d07272bbdd112"
+	},
+	"createdAt": {
+		"$date": "2020-08-24T23:43:08.802Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-24T23:43:08.802Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f46bdb7b03d07272bbdd137"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5f46bdb7b03d07272bbdd135"
+	},
+	"byUserId": {
+		"$oid": "5eaebfd66933504a671bed06"
+	},
+	"createdAt": {
+		"$date": "2020-08-26T19:53:27.871Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-26T19:53:27.871Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f46bdfbb03d07272bbdd139"
+	},
+	"modal": "dayEntry",
+	"action": "update",
+	"dayEntryId": {
+		"$oid": "5f46bdb7b03d07272bbdd135"
+	},
+	"byUserId": {
+		"$oid": "5eaebfd66933504a671bed06"
+	},
+	"createdAt": {
+		"$date": "2020-08-26T19:54:35.831Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-26T19:54:35.831Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f4ca1a2b03d07272bbdd17c"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f4ca13cb03d07272bbdd15c"
+	},
+	"byUserId": {
+		"$oid": "5f4ca13cb03d07272bbdd15c"
+	},
+	"createdAt": {
+		"$date": "2020-08-31T07:07:14.170Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-31T07:07:14.170Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f4ca1a2b03d07272bbdd17d"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f4ca13cb03d07272bbdd15d"
+	},
+	"byUserId": {
+		"$oid": "5f4ca13cb03d07272bbdd15c"
+	},
+	"createdAt": {
+		"$date": "2020-08-31T07:07:14.343Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-31T07:07:14.343Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f4ca1a2b03d07272bbdd17e"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f4ca13cb03d07272bbdd15f"
+	},
+	"byUserId": {
+		"$oid": "5f4ca13cb03d07272bbdd15c"
+	},
+	"createdAt": {
+		"$date": "2020-08-31T07:07:14.511Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-31T07:07:14.511Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f4cb8c1b03d07272bbdd19f"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f4cb845b03d07272bbdd17f"
+	},
+	"byUserId": {
+		"$oid": "5f4cb845b03d07272bbdd17f"
+	},
+	"createdAt": {
+		"$date": "2020-08-31T08:45:53.552Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-31T08:45:53.552Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f4cb8c1b03d07272bbdd1a0"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f4cb845b03d07272bbdd180"
+	},
+	"byUserId": {
+		"$oid": "5f4cb845b03d07272bbdd17f"
+	},
+	"createdAt": {
+		"$date": "2020-08-31T08:45:53.768Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-31T08:45:53.768Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f4cb8c2b03d07272bbdd1a1"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f4cb845b03d07272bbdd182"
+	},
+	"byUserId": {
+		"$oid": "5f4cb845b03d07272bbdd17f"
+	},
+	"createdAt": {
+		"$date": "2020-08-31T08:45:54.008Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-31T08:45:54.008Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f4cb97fb03d07272bbdd1a4"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5f4cb97fb03d07272bbdd1a2"
+	},
+	"byUserId": {
+		"$oid": "5f4cb845b03d07272bbdd17f"
+	},
+	"createdAt": {
+		"$date": "2020-08-31T08:49:03.768Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-31T08:49:03.768Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f4e1559b03d07272bbdd1c6"
+	},
+	"modal": "item",
+	"action": "create",
+	"itemId": {
+		"$oid": "5f4e1559b03d07272bbdd1c5"
+	},
+	"byUserId": {
+		"$oid": "5f4cb845b03d07272bbdd17f"
+	},
+	"createdAt": {
+		"$date": "2020-09-01T09:33:13.225Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-01T09:33:13.225Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f532902b03d07272bbdd247"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f5327e8b03d07272bbdd227"
+	},
+	"byUserId": {
+		"$oid": "5f5327e8b03d07272bbdd227"
+	},
+	"createdAt": {
+		"$date": "2020-09-05T05:58:26.738Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-05T05:58:26.738Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f532903b03d07272bbdd248"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f5327e8b03d07272bbdd228"
+	},
+	"byUserId": {
+		"$oid": "5f5327e8b03d07272bbdd227"
+	},
+	"createdAt": {
+		"$date": "2020-09-05T05:58:27.485Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-05T05:58:27.485Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f532904b03d07272bbdd249"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f5327e8b03d07272bbdd22a"
+	},
+	"byUserId": {
+		"$oid": "5f5327e8b03d07272bbdd227"
+	},
+	"createdAt": {
+		"$date": "2020-09-05T05:58:28.128Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-05T05:58:28.128Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f54a8a4b03d07272bbdd28a"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f54a71db03d07272bbdd26a"
+	},
+	"byUserId": {
+		"$oid": "5f54a71db03d07272bbdd26a"
+	},
+	"createdAt": {
+		"$date": "2020-09-06T09:15:16.124Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-06T09:15:16.124Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f54a8a5b03d07272bbdd28b"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f54a71db03d07272bbdd26b"
+	},
+	"byUserId": {
+		"$oid": "5f54a71db03d07272bbdd26a"
+	},
+	"createdAt": {
+		"$date": "2020-09-06T09:15:17.860Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-06T09:15:17.860Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f54a8a7b03d07272bbdd28c"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f54a71db03d07272bbdd26d"
+	},
+	"byUserId": {
+		"$oid": "5f54a71db03d07272bbdd26a"
+	},
+	"createdAt": {
+		"$date": "2020-09-06T09:15:19.846Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-06T09:15:19.846Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f54a8a8b03d07272bbdd28d"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f54a71db03d07272bbdd26a"
+	},
+	"byUserId": {
+		"$oid": "5f54a71db03d07272bbdd26a"
+	},
+	"createdAt": {
+		"$date": "2020-09-06T09:15:20.357Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-06T09:15:20.357Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f54a8a8b03d07272bbdd28e"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f54a71db03d07272bbdd26b"
+	},
+	"byUserId": {
+		"$oid": "5f54a71db03d07272bbdd26a"
+	},
+	"createdAt": {
+		"$date": "2020-09-06T09:15:20.721Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-06T09:15:20.721Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f54a8aab03d07272bbdd28f"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f54a71db03d07272bbdd26d"
+	},
+	"byUserId": {
+		"$oid": "5f54a71db03d07272bbdd26a"
+	},
+	"createdAt": {
+		"$date": "2020-09-06T09:15:22.038Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-06T09:15:22.038Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f54a8abb03d07272bbdd290"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f54a71db03d07272bbdd26a"
+	},
+	"byUserId": {
+		"$oid": "5f54a71db03d07272bbdd26a"
+	},
+	"createdAt": {
+		"$date": "2020-09-06T09:15:23.583Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-06T09:15:23.583Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f54a8adb03d07272bbdd291"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f54a71db03d07272bbdd26b"
+	},
+	"byUserId": {
+		"$oid": "5f54a71db03d07272bbdd26a"
+	},
+	"createdAt": {
+		"$date": "2020-09-06T09:15:25.141Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-06T09:15:25.141Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f54a8adb03d07272bbdd292"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f54a71db03d07272bbdd26d"
+	},
+	"byUserId": {
+		"$oid": "5f54a71db03d07272bbdd26a"
+	},
+	"createdAt": {
+		"$date": "2020-09-06T09:15:25.922Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-06T09:15:25.922Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5cdd8fb03d07272bbdd453"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f5cdccbb03d07272bbdd433"
+	},
+	"byUserId": {
+		"$oid": "5f5cdccbb03d07272bbdd433"
+	},
+	"createdAt": {
+		"$date": "2020-09-12T14:39:11.773Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T14:39:11.773Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5cdd90b03d07272bbdd454"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f5cdccbb03d07272bbdd433"
+	},
+	"byUserId": {
+		"$oid": "5f5cdccbb03d07272bbdd433"
+	},
+	"createdAt": {
+		"$date": "2020-09-12T14:39:12.533Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T14:39:12.534Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5cdd92b03d07272bbdd455"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f5cdccbb03d07272bbdd434"
+	},
+	"byUserId": {
+		"$oid": "5f5cdccbb03d07272bbdd433"
+	},
+	"createdAt": {
+		"$date": "2020-09-12T14:39:14.128Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T14:39:14.128Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5cdd94b03d07272bbdd456"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f5cdccbb03d07272bbdd434"
+	},
+	"byUserId": {
+		"$oid": "5f5cdccbb03d07272bbdd433"
+	},
+	"createdAt": {
+		"$date": "2020-09-12T14:39:16.644Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T14:39:16.644Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5cdd95b03d07272bbdd457"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f5cdccbb03d07272bbdd433"
+	},
+	"byUserId": {
+		"$oid": "5f5cdccbb03d07272bbdd433"
+	},
+	"createdAt": {
+		"$date": "2020-09-12T14:39:17.724Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T14:39:17.724Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5cdd9ab03d07272bbdd458"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f5cdccbb03d07272bbdd434"
+	},
+	"byUserId": {
+		"$oid": "5f5cdccbb03d07272bbdd433"
+	},
+	"createdAt": {
+		"$date": "2020-09-12T14:39:22.092Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T14:39:22.092Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5cdd9cb03d07272bbdd459"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f5cdccbb03d07272bbdd436"
+	},
+	"byUserId": {
+		"$oid": "5f5cdccbb03d07272bbdd433"
+	},
+	"createdAt": {
+		"$date": "2020-09-12T14:39:24.173Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T14:39:24.173Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5cdd9fb03d07272bbdd45a"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f5cdccbb03d07272bbdd436"
+	},
+	"byUserId": {
+		"$oid": "5f5cdccbb03d07272bbdd433"
+	},
+	"createdAt": {
+		"$date": "2020-09-12T14:39:27.090Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T14:39:27.090Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f5cdd9fb03d07272bbdd45b"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f5cdccbb03d07272bbdd436"
+	},
+	"byUserId": {
+		"$oid": "5f5cdccbb03d07272bbdd433"
+	},
+	"createdAt": {
+		"$date": "2020-09-12T14:39:27.811Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-12T14:39:27.811Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6231e8b03d07272bbdd51c"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f623124b03d07272bbdd4fc"
+	},
+	"byUserId": {
+		"$oid": "5f623124b03d07272bbdd4fc"
+	},
+	"createdAt": {
+		"$date": "2020-09-16T15:40:24.546Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-16T15:40:24.546Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6231e8b03d07272bbdd51d"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f623124b03d07272bbdd4fd"
+	},
+	"byUserId": {
+		"$oid": "5f623124b03d07272bbdd4fc"
+	},
+	"createdAt": {
+		"$date": "2020-09-16T15:40:24.853Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-16T15:40:24.853Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6231e9b03d07272bbdd51e"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f623124b03d07272bbdd4ff"
+	},
+	"byUserId": {
+		"$oid": "5f623124b03d07272bbdd4fc"
+	},
+	"createdAt": {
+		"$date": "2020-09-16T15:40:25.188Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-16T15:40:25.188Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f62cf99b03d07272bbdd53f"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"byUserId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T02:53:13.303Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T02:53:13.303Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f62cf99b03d07272bbdd540"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"byUserId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T02:53:13.875Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T02:53:13.875Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f62cf9db03d07272bbdd541"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f62cf0cb03d07272bbdd520"
+	},
+	"byUserId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T02:53:17.740Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T02:53:17.740Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f62cf9eb03d07272bbdd542"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f62cf0cb03d07272bbdd520"
+	},
+	"byUserId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T02:53:18.709Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T02:53:18.709Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f62cf9fb03d07272bbdd543"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"byUserId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T02:53:19.941Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T02:53:19.941Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f62cfa3b03d07272bbdd544"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f62cf0cb03d07272bbdd520"
+	},
+	"byUserId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T02:53:23.763Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T02:53:23.763Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f62cfa5b03d07272bbdd545"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f62cf0cb03d07272bbdd522"
+	},
+	"byUserId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T02:53:25.259Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T02:53:25.259Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f62cfa6b03d07272bbdd546"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"byUserId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T02:53:26.336Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T02:53:26.336Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f62cfa7b03d07272bbdd547"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f62cf0cb03d07272bbdd522"
+	},
+	"byUserId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T02:53:27.133Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T02:53:27.133Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f62cfa7b03d07272bbdd548"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"byUserId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T02:53:27.960Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T02:53:27.960Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f62cfa8b03d07272bbdd549"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f62cf0cb03d07272bbdd522"
+	},
+	"byUserId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T02:53:28.325Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T02:53:28.325Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f62cfa9b03d07272bbdd54a"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f62cf0cb03d07272bbdd520"
+	},
+	"byUserId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T02:53:29.595Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T02:53:29.595Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f62cfaab03d07272bbdd54b"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f62cf0cb03d07272bbdd520"
+	},
+	"byUserId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T02:53:30.596Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T02:53:30.596Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f62cfacb03d07272bbdd54c"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f62cf0cb03d07272bbdd522"
+	},
+	"byUserId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T02:53:32.068Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T02:53:32.068Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f62cfaeb03d07272bbdd54d"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f62cf0cb03d07272bbdd522"
+	},
+	"byUserId": {
+		"$oid": "5f62cf0cb03d07272bbdd51f"
+	},
+	"createdAt": {
+		"$date": "2020-09-17T02:53:34.912Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-17T02:53:34.912Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f64be51b03d07272bbdd5ee"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f64bd6ab03d07272bbdd5ce"
+	},
+	"byUserId": {
+		"$oid": "5f64bd6ab03d07272bbdd5ce"
+	},
+	"createdAt": {
+		"$date": "2020-09-18T14:04:01.932Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T14:04:01.933Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f64be52b03d07272bbdd5ef"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f64bd6ab03d07272bbdd5cf"
+	},
+	"byUserId": {
+		"$oid": "5f64bd6ab03d07272bbdd5ce"
+	},
+	"createdAt": {
+		"$date": "2020-09-18T14:04:02.224Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T14:04:02.224Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f64be52b03d07272bbdd5f0"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f64bd6ab03d07272bbdd5d1"
+	},
+	"byUserId": {
+		"$oid": "5f64bd6ab03d07272bbdd5ce"
+	},
+	"createdAt": {
+		"$date": "2020-09-18T14:04:02.540Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T14:04:02.540Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f64be6eb03d07272bbdd5f1"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f64bd6ab03d07272bbdd5ce"
+	},
+	"byUserId": {
+		"$oid": "5f64bd6ab03d07272bbdd5ce"
+	},
+	"createdAt": {
+		"$date": "2020-09-18T14:04:30.597Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T14:04:30.597Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f64be6eb03d07272bbdd5f2"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f64bd6ab03d07272bbdd5cf"
+	},
+	"byUserId": {
+		"$oid": "5f64bd6ab03d07272bbdd5ce"
+	},
+	"createdAt": {
+		"$date": "2020-09-18T14:04:30.743Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T14:04:30.743Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f64be6eb03d07272bbdd5f3"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f64bd6ab03d07272bbdd5d1"
+	},
+	"byUserId": {
+		"$oid": "5f64bd6ab03d07272bbdd5ce"
+	},
+	"createdAt": {
+		"$date": "2020-09-18T14:04:30.897Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T14:04:30.897Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f64be95b03d07272bbdd5f4"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f64bd6ab03d07272bbdd5ce"
+	},
+	"byUserId": {
+		"$oid": "5f64bd6ab03d07272bbdd5ce"
+	},
+	"createdAt": {
+		"$date": "2020-09-18T14:05:09.516Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T14:05:09.516Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f64be95b03d07272bbdd5f5"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f64bd6ab03d07272bbdd5cf"
+	},
+	"byUserId": {
+		"$oid": "5f64bd6ab03d07272bbdd5ce"
+	},
+	"createdAt": {
+		"$date": "2020-09-18T14:05:09.711Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T14:05:09.711Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f64be95b03d07272bbdd5f6"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f64bd6ab03d07272bbdd5d1"
+	},
+	"byUserId": {
+		"$oid": "5f64bd6ab03d07272bbdd5ce"
+	},
+	"createdAt": {
+		"$date": "2020-09-18T14:05:09.875Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T14:05:09.875Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6537b9b03d07272bbdd637"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f653737b03d07272bbdd617"
+	},
+	"byUserId": {
+		"$oid": "5f653737b03d07272bbdd617"
+	},
+	"createdAt": {
+		"$date": "2020-09-18T22:42:01.233Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T22:42:01.233Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6537b9b03d07272bbdd638"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f653737b03d07272bbdd618"
+	},
+	"byUserId": {
+		"$oid": "5f653737b03d07272bbdd617"
+	},
+	"createdAt": {
+		"$date": "2020-09-18T22:42:01.363Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T22:42:01.363Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6537b9b03d07272bbdd639"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f653737b03d07272bbdd61a"
+	},
+	"byUserId": {
+		"$oid": "5f653737b03d07272bbdd617"
+	},
+	"createdAt": {
+		"$date": "2020-09-18T22:42:01.494Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-18T22:42:01.494Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f69c6adb03d07272bbdd69a"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f69b77eb03d07272bbdd67a"
+	},
+	"byUserId": {
+		"$oid": "5f69b77eb03d07272bbdd67a"
+	},
+	"createdAt": {
+		"$date": "2020-09-22T09:41:01.883Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-22T09:41:01.883Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f69c6aeb03d07272bbdd69b"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f69b77eb03d07272bbdd67b"
+	},
+	"byUserId": {
+		"$oid": "5f69b77eb03d07272bbdd67a"
+	},
+	"createdAt": {
+		"$date": "2020-09-22T09:41:02.113Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-22T09:41:02.113Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f69c6aeb03d07272bbdd69c"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f69b77eb03d07272bbdd67d"
+	},
+	"byUserId": {
+		"$oid": "5f69b77eb03d07272bbdd67a"
+	},
+	"createdAt": {
+		"$date": "2020-09-22T09:41:02.350Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-22T09:41:02.350Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f3b40b03d07272bbdd79d"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f6f3ae8b03d07272bbdd77d"
+	},
+	"byUserId": {
+		"$oid": "5f6f3ae8b03d07272bbdd77d"
+	},
+	"createdAt": {
+		"$date": "2020-09-26T12:59:44.921Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T12:59:44.921Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f3b41b03d07272bbdd79e"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f6f3ae8b03d07272bbdd77e"
+	},
+	"byUserId": {
+		"$oid": "5f6f3ae8b03d07272bbdd77d"
+	},
+	"createdAt": {
+		"$date": "2020-09-26T12:59:45.182Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T12:59:45.182Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f3b41b03d07272bbdd79f"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f6f3ae8b03d07272bbdd780"
+	},
+	"byUserId": {
+		"$oid": "5f6f3ae8b03d07272bbdd77d"
+	},
+	"createdAt": {
+		"$date": "2020-09-26T12:59:45.425Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T12:59:45.425Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f3b42b03d07272bbdd7a0"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f6f3ae8b03d07272bbdd77d"
+	},
+	"byUserId": {
+		"$oid": "5f6f3ae8b03d07272bbdd77d"
+	},
+	"createdAt": {
+		"$date": "2020-09-26T12:59:46.173Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T12:59:46.173Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f3b42b03d07272bbdd7a1"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f6f3ae8b03d07272bbdd77e"
+	},
+	"byUserId": {
+		"$oid": "5f6f3ae8b03d07272bbdd77d"
+	},
+	"createdAt": {
+		"$date": "2020-09-26T12:59:46.313Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T12:59:46.313Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f3b42b03d07272bbdd7a2"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f6f3ae8b03d07272bbdd780"
+	},
+	"byUserId": {
+		"$oid": "5f6f3ae8b03d07272bbdd77d"
+	},
+	"createdAt": {
+		"$date": "2020-09-26T12:59:46.428Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T12:59:46.428Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f8300b03d07272bbdd7c3"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f6f822ab03d07272bbdd7a3"
+	},
+	"byUserId": {
+		"$oid": "5f6f822ab03d07272bbdd7a3"
+	},
+	"createdAt": {
+		"$date": "2020-09-26T18:05:52.513Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T18:05:52.513Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f8300b03d07272bbdd7c4"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f6f822ab03d07272bbdd7a4"
+	},
+	"byUserId": {
+		"$oid": "5f6f822ab03d07272bbdd7a3"
+	},
+	"createdAt": {
+		"$date": "2020-09-26T18:05:52.765Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T18:05:52.765Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f8301b03d07272bbdd7c5"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f6f822ab03d07272bbdd7a6"
+	},
+	"byUserId": {
+		"$oid": "5f6f822ab03d07272bbdd7a3"
+	},
+	"createdAt": {
+		"$date": "2020-09-26T18:05:53.041Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T18:05:53.041Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f835cb03d07272bbdd7c8"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5f6f835cb03d07272bbdd7c6"
+	},
+	"byUserId": {
+		"$oid": "5f6f822ab03d07272bbdd7a3"
+	},
+	"createdAt": {
+		"$date": "2020-09-26T18:07:24.598Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T18:07:24.598Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f8819b03d07272bbdd7ca"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5f6f8819b03d07272bbdd7c9"
+	},
+	"byUserId": {
+		"$oid": "5f6f822ab03d07272bbdd7a3"
+	},
+	"createdAt": {
+		"$date": "2020-09-26T18:27:37.030Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T18:27:37.030Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f734703b03d07272bbdd86d"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5f734703b03d07272bbdd86b"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-09-29T14:38:59.898Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-29T14:38:59.898Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f747884b03d07272bbdd90e"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f7477fab03d07272bbdd8ee"
+	},
+	"byUserId": {
+		"$oid": "5f7477fab03d07272bbdd8ee"
+	},
+	"createdAt": {
+		"$date": "2020-09-30T12:22:28.164Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-30T12:22:28.164Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f747884b03d07272bbdd90f"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f7477fab03d07272bbdd8ef"
+	},
+	"byUserId": {
+		"$oid": "5f7477fab03d07272bbdd8ee"
+	},
+	"createdAt": {
+		"$date": "2020-09-30T12:22:28.473Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-30T12:22:28.473Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f747885b03d07272bbdd910"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f7477fab03d07272bbdd8f1"
+	},
+	"byUserId": {
+		"$oid": "5f7477fab03d07272bbdd8ee"
+	},
+	"createdAt": {
+		"$date": "2020-09-30T12:22:29.097Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-30T12:22:29.097Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7554a8b03d07272bbdd951"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f7553d5b03d07272bbdd931"
+	},
+	"byUserId": {
+		"$oid": "5f7553d5b03d07272bbdd931"
+	},
+	"createdAt": {
+		"$date": "2020-10-01T04:01:44.899Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-01T04:01:44.899Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7554a9b03d07272bbdd952"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f7553d5b03d07272bbdd932"
+	},
+	"byUserId": {
+		"$oid": "5f7553d5b03d07272bbdd931"
+	},
+	"createdAt": {
+		"$date": "2020-10-01T04:01:45.168Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-01T04:01:45.169Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7554a9b03d07272bbdd953"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f7553d5b03d07272bbdd934"
+	},
+	"byUserId": {
+		"$oid": "5f7553d5b03d07272bbdd931"
+	},
+	"createdAt": {
+		"$date": "2020-10-01T04:01:45.396Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-01T04:01:45.396Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f79e531b03d07272bbdda54"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f79e015b03d07272bbdda34"
+	},
+	"byUserId": {
+		"$oid": "5f79e015b03d07272bbdda34"
+	},
+	"createdAt": {
+		"$date": "2020-10-04T15:07:29.721Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-04T15:07:29.721Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f79e531b03d07272bbdda55"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f79e015b03d07272bbdda35"
+	},
+	"byUserId": {
+		"$oid": "5f79e015b03d07272bbdda34"
+	},
+	"createdAt": {
+		"$date": "2020-10-04T15:07:29.975Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-04T15:07:29.975Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f79e532b03d07272bbdda56"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f79e015b03d07272bbdda34"
+	},
+	"byUserId": {
+		"$oid": "5f79e015b03d07272bbdda34"
+	},
+	"createdAt": {
+		"$date": "2020-10-04T15:07:30.191Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-04T15:07:30.191Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f79e532b03d07272bbdda57"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f79e015b03d07272bbdda35"
+	},
+	"byUserId": {
+		"$oid": "5f79e015b03d07272bbdda34"
+	},
+	"createdAt": {
+		"$date": "2020-10-04T15:07:30.426Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-04T15:07:30.426Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f79e532b03d07272bbdda58"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f79e015b03d07272bbdda37"
+	},
+	"byUserId": {
+		"$oid": "5f79e015b03d07272bbdda34"
+	},
+	"createdAt": {
+		"$date": "2020-10-04T15:07:30.448Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-04T15:07:30.448Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f79e532b03d07272bbdda59"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f79e015b03d07272bbdda37"
+	},
+	"byUserId": {
+		"$oid": "5f79e015b03d07272bbdda34"
+	},
+	"createdAt": {
+		"$date": "2020-10-04T15:07:30.567Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-04T15:07:30.567Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b0376b03d07272bbdda9a"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f7b02e4b03d07272bbdda7a"
+	},
+	"byUserId": {
+		"$oid": "5f7b02e4b03d07272bbdda7a"
+	},
+	"createdAt": {
+		"$date": "2020-10-05T11:28:54.699Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T11:28:54.699Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b0376b03d07272bbdda9b"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f7b02e4b03d07272bbdda7b"
+	},
+	"byUserId": {
+		"$oid": "5f7b02e4b03d07272bbdda7a"
+	},
+	"createdAt": {
+		"$date": "2020-10-05T11:28:54.904Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T11:28:54.904Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b0377b03d07272bbdda9c"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f7b02e4b03d07272bbdda7d"
+	},
+	"byUserId": {
+		"$oid": "5f7b02e4b03d07272bbdda7a"
+	},
+	"createdAt": {
+		"$date": "2020-10-05T11:28:55.086Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T11:28:55.086Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b41a7b03d07272bbddafd"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f7b413eb03d07272bbddadd"
+	},
+	"byUserId": {
+		"$oid": "5f7b413eb03d07272bbddadd"
+	},
+	"createdAt": {
+		"$date": "2020-10-05T15:54:15.998Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T15:54:15.998Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b41a8b03d07272bbddafe"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f7b413eb03d07272bbddade"
+	},
+	"byUserId": {
+		"$oid": "5f7b413eb03d07272bbddadd"
+	},
+	"createdAt": {
+		"$date": "2020-10-05T15:54:16.259Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T15:54:16.259Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b41a8b03d07272bbddaff"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f7b413eb03d07272bbddae0"
+	},
+	"byUserId": {
+		"$oid": "5f7b413eb03d07272bbddadd"
+	},
+	"createdAt": {
+		"$date": "2020-10-05T15:54:16.548Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T15:54:16.548Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b4218b03d07272bbddb01"
+	},
+	"modal": "sale",
+	"action": "create",
+	"saleId": {
+		"$oid": "5f7b4218b03d07272bbddb00"
+	},
+	"byUserId": {
+		"$oid": "5f7b413eb03d07272bbddadd"
+	},
+	"createdAt": {
+		"$date": "2020-10-05T15:56:08.665Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T15:56:08.665Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b6eddb03d07272bbddb22"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f7b6e80b03d07272bbddb02"
+	},
+	"byUserId": {
+		"$oid": "5f7b6e80b03d07272bbddb02"
+	},
+	"createdAt": {
+		"$date": "2020-10-05T19:07:09.507Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T19:07:09.507Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b6eddb03d07272bbddb23"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f7b6e80b03d07272bbddb03"
+	},
+	"byUserId": {
+		"$oid": "5f7b6e80b03d07272bbddb02"
+	},
+	"createdAt": {
+		"$date": "2020-10-05T19:07:09.744Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T19:07:09.744Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b6eddb03d07272bbddb24"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f7b6e80b03d07272bbddb05"
+	},
+	"byUserId": {
+		"$oid": "5f7b6e80b03d07272bbddb02"
+	},
+	"createdAt": {
+		"$date": "2020-10-05T19:07:09.976Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T19:07:09.976Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8069aeb03d07272bbddc05"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f80693db03d07272bbddbe5"
+	},
+	"byUserId": {
+		"$oid": "5f80693db03d07272bbddbe5"
+	},
+	"createdAt": {
+		"$date": "2020-10-09T13:46:22.129Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-09T13:46:22.129Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8069aeb03d07272bbddc06"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f80693db03d07272bbddbe6"
+	},
+	"byUserId": {
+		"$oid": "5f80693db03d07272bbddbe5"
+	},
+	"createdAt": {
+		"$date": "2020-10-09T13:46:22.371Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-09T13:46:22.371Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8069aeb03d07272bbddc07"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f80693db03d07272bbddbe8"
+	},
+	"byUserId": {
+		"$oid": "5f80693db03d07272bbddbe5"
+	},
+	"createdAt": {
+		"$date": "2020-10-09T13:46:22.579Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-09T13:46:22.579Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f81184eb03d07272bbddc48"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f811809b03d07272bbddc28"
+	},
+	"byUserId": {
+		"$oid": "5f811809b03d07272bbddc28"
+	},
+	"createdAt": {
+		"$date": "2020-10-10T02:11:26.598Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T02:11:26.598Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f81184fb03d07272bbddc49"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f811809b03d07272bbddc29"
+	},
+	"byUserId": {
+		"$oid": "5f811809b03d07272bbddc28"
+	},
+	"createdAt": {
+		"$date": "2020-10-10T02:11:27.463Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T02:11:27.463Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f811850b03d07272bbddc4a"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f811809b03d07272bbddc2b"
+	},
+	"byUserId": {
+		"$oid": "5f811809b03d07272bbddc28"
+	},
+	"createdAt": {
+		"$date": "2020-10-10T02:11:28.707Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T02:11:28.707Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f811851b03d07272bbddc4b"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f811809b03d07272bbddc28"
+	},
+	"byUserId": {
+		"$oid": "5f811809b03d07272bbddc28"
+	},
+	"createdAt": {
+		"$date": "2020-10-10T02:11:29.155Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T02:11:29.155Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f811853b03d07272bbddc4c"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f811809b03d07272bbddc29"
+	},
+	"byUserId": {
+		"$oid": "5f811809b03d07272bbddc28"
+	},
+	"createdAt": {
+		"$date": "2020-10-10T02:11:31.273Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T02:11:31.273Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f811855b03d07272bbddc4d"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f811809b03d07272bbddc2b"
+	},
+	"byUserId": {
+		"$oid": "5f811809b03d07272bbddc28"
+	},
+	"createdAt": {
+		"$date": "2020-10-10T02:11:33.409Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T02:11:33.409Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f811875b03d07272bbddc4e"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f811809b03d07272bbddc28"
+	},
+	"byUserId": {
+		"$oid": "5f811809b03d07272bbddc28"
+	},
+	"createdAt": {
+		"$date": "2020-10-10T02:12:05.182Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T02:12:05.182Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f818935b03d07272bbddc8f"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f818837b03d07272bbddc6f"
+	},
+	"byUserId": {
+		"$oid": "5f818837b03d07272bbddc6f"
+	},
+	"createdAt": {
+		"$date": "2020-10-10T10:13:09.270Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T10:13:09.270Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f818935b03d07272bbddc90"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f818837b03d07272bbddc70"
+	},
+	"byUserId": {
+		"$oid": "5f818837b03d07272bbddc6f"
+	},
+	"createdAt": {
+		"$date": "2020-10-10T10:13:09.463Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T10:13:09.463Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f818935b03d07272bbddc91"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f818837b03d07272bbddc72"
+	},
+	"byUserId": {
+		"$oid": "5f818837b03d07272bbddc6f"
+	},
+	"createdAt": {
+		"$date": "2020-10-10T10:13:09.680Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-10T10:13:09.680Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f831273b03d07272bbddcf2"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:10:59.089Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:10:59.090Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f831273b03d07272bbddcf3"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:10:59.936Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:10:59.936Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f831274b03d07272bbddcf4"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:11:00.212Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:11:00.213Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f831274b03d07272bbddcf5"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f8311d0b03d07272bbddcd3"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:11:00.467Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:11:00.467Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f831274b03d07272bbddcf6"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f8311d0b03d07272bbddcd3"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:11:00.800Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:11:00.800Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f831275b03d07272bbddcf7"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f8311d0b03d07272bbddcd3"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:11:01.134Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:11:01.134Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f831275b03d07272bbddcf8"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:11:01.541Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:11:01.541Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f831276b03d07272bbddcf9"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f8311d0b03d07272bbddcd5"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:11:02.046Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:11:02.046Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f831276b03d07272bbddcfa"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f8311d0b03d07272bbddcd5"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:11:02.176Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:11:02.176Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f831276b03d07272bbddcfb"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f8311d0b03d07272bbddcd3"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:11:02.296Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:11:02.296Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f831276b03d07272bbddcfc"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f8311d0b03d07272bbddcd5"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:11:02.428Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:11:02.428Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f831276b03d07272bbddcfd"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f8311d0b03d07272bbddcd5"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:11:02.648Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:11:02.648Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8312f0b03d07272bbddd00"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5f8312f0b03d07272bbddcfe"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:13:04.204Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:13:04.204Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f83138eb03d07272bbddd02"
+	},
+	"modal": "flock",
+	"action": "create",
+	"flockId": {
+		"$oid": "5f83138eb03d07272bbddd01"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:15:42.276Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:15:42.276Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f831391b03d07272bbddd04"
+	},
+	"modal": "flock",
+	"action": "create",
+	"flockId": {
+		"$oid": "5f831391b03d07272bbddd03"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:15:45.047Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:15:45.047Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f831455b03d07272bbddd07"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5f831455b03d07272bbddd05"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:19:01.554Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:19:01.554Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8315eab03d07272bbddd08"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f8311d0b03d07272bbddcd3"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:25:46.923Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:25:46.923Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8316e6b03d07272bbddd09"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:29:58.958Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:29:58.958Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8316f2b03d07272bbddd0a"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:30:10.259Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:30:10.259Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f831728b03d07272bbddd0b"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"byUserId": {
+		"$oid": "5f8311d0b03d07272bbddcd2"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:31:04.412Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:31:04.412Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f84c366b03d07272bbdddcc"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f84c2dfb03d07272bbdddac"
+	},
+	"byUserId": {
+		"$oid": "5f84c2dfb03d07272bbdddac"
+	},
+	"createdAt": {
+		"$date": "2020-10-12T20:58:14.972Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-12T20:58:14.972Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f84c367b03d07272bbdddcd"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f84c2dfb03d07272bbdddad"
+	},
+	"byUserId": {
+		"$oid": "5f84c2dfb03d07272bbdddac"
+	},
+	"createdAt": {
+		"$date": "2020-10-12T20:58:15.055Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-12T20:58:15.055Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f84c367b03d07272bbdddce"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f84c2dfb03d07272bbdddaf"
+	},
+	"byUserId": {
+		"$oid": "5f84c2dfb03d07272bbdddac"
+	},
+	"createdAt": {
+		"$date": "2020-10-12T20:58:15.132Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-12T20:58:15.132Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f85af1db03d07272bbdddef"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f85aea2b03d07272bbdddcf"
+	},
+	"byUserId": {
+		"$oid": "5f85aea2b03d07272bbdddcf"
+	},
+	"createdAt": {
+		"$date": "2020-10-13T13:43:57.873Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-13T13:43:57.873Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f85af1eb03d07272bbdddf0"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f85aea2b03d07272bbdddd0"
+	},
+	"byUserId": {
+		"$oid": "5f85aea2b03d07272bbdddcf"
+	},
+	"createdAt": {
+		"$date": "2020-10-13T13:43:58.156Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-13T13:43:58.156Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f85af1eb03d07272bbdddf1"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f85aea2b03d07272bbdddd2"
+	},
+	"byUserId": {
+		"$oid": "5f85aea2b03d07272bbdddcf"
+	},
+	"createdAt": {
+		"$date": "2020-10-13T13:43:58.388Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-13T13:43:58.388Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f865f02b03d07272bbdde32"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f865e53b03d07272bbdde12"
+	},
+	"byUserId": {
+		"$oid": "5f865e53b03d07272bbdde12"
+	},
+	"createdAt": {
+		"$date": "2020-10-14T02:14:26.309Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-14T02:14:26.309Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f865f02b03d07272bbdde33"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f865e53b03d07272bbdde13"
+	},
+	"byUserId": {
+		"$oid": "5f865e53b03d07272bbdde12"
+	},
+	"createdAt": {
+		"$date": "2020-10-14T02:14:26.601Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-14T02:14:26.601Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f865f02b03d07272bbdde34"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f865e53b03d07272bbdde15"
+	},
+	"byUserId": {
+		"$oid": "5f865e53b03d07272bbdde12"
+	},
+	"createdAt": {
+		"$date": "2020-10-14T02:14:26.827Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-14T02:14:26.827Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f874808b03d07272bbdde75"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f87473bb03d07272bbdde55"
+	},
+	"byUserId": {
+		"$oid": "5f87473bb03d07272bbdde55"
+	},
+	"createdAt": {
+		"$date": "2020-10-14T18:48:40.607Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-14T18:48:40.607Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f874808b03d07272bbdde76"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f87473bb03d07272bbdde56"
+	},
+	"byUserId": {
+		"$oid": "5f87473bb03d07272bbdde55"
+	},
+	"createdAt": {
+		"$date": "2020-10-14T18:48:40.864Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-14T18:48:40.864Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f874809b03d07272bbdde77"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f87473bb03d07272bbdde58"
+	},
+	"byUserId": {
+		"$oid": "5f87473bb03d07272bbdde55"
+	},
+	"createdAt": {
+		"$date": "2020-10-14T18:48:41.125Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-14T18:48:41.125Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f874a03b03d07272bbdde7a"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5f874a03b03d07272bbdde78"
+	},
+	"byUserId": {
+		"$oid": "5f87473bb03d07272bbdde55"
+	},
+	"createdAt": {
+		"$date": "2020-10-14T18:57:07.531Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-14T18:57:07.531Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f89074ab03d07272bbddebb"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f89063bb03d07272bbdde9b"
+	},
+	"byUserId": {
+		"$oid": "5f89063bb03d07272bbdde9b"
+	},
+	"createdAt": {
+		"$date": "2020-10-16T02:36:58.653Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-16T02:36:58.653Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f89074ab03d07272bbddebc"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f89063bb03d07272bbdde9c"
+	},
+	"byUserId": {
+		"$oid": "5f89063bb03d07272bbdde9b"
+	},
+	"createdAt": {
+		"$date": "2020-10-16T02:36:58.909Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-16T02:36:58.909Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f89074bb03d07272bbddebd"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f89063bb03d07272bbdde9e"
+	},
+	"byUserId": {
+		"$oid": "5f89063bb03d07272bbdde9b"
+	},
+	"createdAt": {
+		"$date": "2020-10-16T02:36:59.253Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-16T02:36:59.253Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8d7398b03d07272bbddf7e"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f8d7304b03d07272bbddf5e"
+	},
+	"byUserId": {
+		"$oid": "5f8d7304b03d07272bbddf5e"
+	},
+	"createdAt": {
+		"$date": "2020-10-19T11:08:08.246Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-19T11:08:08.246Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8d7398b03d07272bbddf7f"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f8d7304b03d07272bbddf5f"
+	},
+	"byUserId": {
+		"$oid": "5f8d7304b03d07272bbddf5e"
+	},
+	"createdAt": {
+		"$date": "2020-10-19T11:08:08.463Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-19T11:08:08.463Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8d7398b03d07272bbddf80"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f8d7304b03d07272bbddf61"
+	},
+	"byUserId": {
+		"$oid": "5f8d7304b03d07272bbddf5e"
+	},
+	"createdAt": {
+		"$date": "2020-10-19T11:08:08.678Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-19T11:08:08.678Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f90e62cb03d07272bbde041"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f90e57fb03d07272bbde021"
+	},
+	"byUserId": {
+		"$oid": "5f90e57fb03d07272bbde021"
+	},
+	"createdAt": {
+		"$date": "2020-10-22T01:53:48.983Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-22T01:53:48.983Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f90e62db03d07272bbde042"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f90e57fb03d07272bbde022"
+	},
+	"byUserId": {
+		"$oid": "5f90e57fb03d07272bbde021"
+	},
+	"createdAt": {
+		"$date": "2020-10-22T01:53:49.206Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-22T01:53:49.206Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f90e62db03d07272bbde043"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f90e57fb03d07272bbde024"
+	},
+	"byUserId": {
+		"$oid": "5f90e57fb03d07272bbde021"
+	},
+	"createdAt": {
+		"$date": "2020-10-22T01:53:49.437Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-22T01:53:49.437Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f90e7b7b03d07272bbde044"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f90e57fb03d07272bbde021"
+	},
+	"byUserId": {
+		"$oid": "5f90e57fb03d07272bbde021"
+	},
+	"createdAt": {
+		"$date": "2020-10-22T02:00:23.923Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-22T02:00:23.923Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f90e7b8b03d07272bbde045"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f90e57fb03d07272bbde022"
+	},
+	"byUserId": {
+		"$oid": "5f90e57fb03d07272bbde021"
+	},
+	"createdAt": {
+		"$date": "2020-10-22T02:00:24.039Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-22T02:00:24.039Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f90e7b8b03d07272bbde046"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f90e57fb03d07272bbde024"
+	},
+	"byUserId": {
+		"$oid": "5f90e57fb03d07272bbde021"
+	},
+	"createdAt": {
+		"$date": "2020-10-22T02:00:24.146Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-22T02:00:24.146Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f951d67b03d07272bbde1c7"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f951cd4b03d07272bbde1a7"
+	},
+	"byUserId": {
+		"$oid": "5f951cd4b03d07272bbde1a7"
+	},
+	"createdAt": {
+		"$date": "2020-10-25T06:38:31.173Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-25T06:38:31.173Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f951d67b03d07272bbde1c8"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f951cd4b03d07272bbde1a8"
+	},
+	"byUserId": {
+		"$oid": "5f951cd4b03d07272bbde1a7"
+	},
+	"createdAt": {
+		"$date": "2020-10-25T06:38:31.709Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-25T06:38:31.709Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f951d68b03d07272bbde1c9"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f951cd4b03d07272bbde1aa"
+	},
+	"byUserId": {
+		"$oid": "5f951cd4b03d07272bbde1a7"
+	},
+	"createdAt": {
+		"$date": "2020-10-25T06:38:32.224Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-25T06:38:32.224Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f962a8eb03d07272bbde22b"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5f962a8eb03d07272bbde22a"
+	},
+	"byUserId": {
+		"$oid": "5f90e57fb03d07272bbde021"
+	},
+	"createdAt": {
+		"$date": "2020-10-26T01:46:54.451Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-26T01:46:54.451Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9828d2b03d07272bbde28c"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f982825b03d07272bbde26c"
+	},
+	"byUserId": {
+		"$oid": "5f982825b03d07272bbde26c"
+	},
+	"createdAt": {
+		"$date": "2020-10-27T14:04:02.238Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-27T14:04:02.238Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9828d2b03d07272bbde28d"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f982825b03d07272bbde26d"
+	},
+	"byUserId": {
+		"$oid": "5f982825b03d07272bbde26c"
+	},
+	"createdAt": {
+		"$date": "2020-10-27T14:04:02.633Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-27T14:04:02.633Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9828d2b03d07272bbde28e"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f982825b03d07272bbde26f"
+	},
+	"byUserId": {
+		"$oid": "5f982825b03d07272bbde26c"
+	},
+	"createdAt": {
+		"$date": "2020-10-27T14:04:02.983Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-27T14:04:02.983Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f98d75fb03d07272bbde290"
+	},
+	"modal": "item",
+	"action": "create",
+	"itemId": {
+		"$oid": "5f98d75fb03d07272bbde28f"
+	},
+	"byUserId": {
+		"$oid": "5f90e57fb03d07272bbde021"
+	},
+	"createdAt": {
+		"$date": "2020-10-28T02:28:47.485Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-28T02:28:47.485Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f98d7b1b03d07272bbde292"
+	},
+	"modal": "item",
+	"action": "create",
+	"itemId": {
+		"$oid": "5f98d7b1b03d07272bbde291"
+	},
+	"byUserId": {
+		"$oid": "5f90e57fb03d07272bbde021"
+	},
+	"createdAt": {
+		"$date": "2020-10-28T02:30:09.904Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-28T02:30:09.904Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f98d810b03d07272bbde294"
+	},
+	"modal": "flock",
+	"action": "create",
+	"flockId": {
+		"$oid": "5f98d810b03d07272bbde293"
+	},
+	"byUserId": {
+		"$oid": "5f90e57fb03d07272bbde021"
+	},
+	"createdAt": {
+		"$date": "2020-10-28T02:31:44.747Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-28T02:31:44.747Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f98d825b03d07272bbde296"
+	},
+	"modal": "flock",
+	"action": "create",
+	"flockId": {
+		"$oid": "5f98d825b03d07272bbde295"
+	},
+	"byUserId": {
+		"$oid": "5f90e57fb03d07272bbde021"
+	},
+	"createdAt": {
+		"$date": "2020-10-28T02:32:05.204Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-28T02:32:05.204Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9adbf5b03d07272bbde2f7"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f9adb59b03d07272bbde2d7"
+	},
+	"byUserId": {
+		"$oid": "5f9adb59b03d07272bbde2d7"
+	},
+	"createdAt": {
+		"$date": "2020-10-29T15:12:53.698Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-29T15:12:53.698Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9adbf5b03d07272bbde2f8"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f9adb59b03d07272bbde2d8"
+	},
+	"byUserId": {
+		"$oid": "5f9adb59b03d07272bbde2d7"
+	},
+	"createdAt": {
+		"$date": "2020-10-29T15:12:53.927Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-29T15:12:53.927Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9adbf6b03d07272bbde2f9"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f9adb59b03d07272bbde2da"
+	},
+	"byUserId": {
+		"$oid": "5f9adb59b03d07272bbde2d7"
+	},
+	"createdAt": {
+		"$date": "2020-10-29T15:12:54.151Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-29T15:12:54.151Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9adc79b03d07272bbde2fb"
+	},
+	"modal": "sale",
+	"action": "create",
+	"saleId": {
+		"$oid": "5f9adc79b03d07272bbde2fa"
+	},
+	"byUserId": {
+		"$oid": "5f9adb59b03d07272bbde2d7"
+	},
+	"createdAt": {
+		"$date": "2020-10-29T15:15:05.859Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-29T15:15:05.859Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9bb613b03d07272bbde31c"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5f9bb4bbb03d07272bbde2fc"
+	},
+	"byUserId": {
+		"$oid": "5f9bb4bbb03d07272bbde2fc"
+	},
+	"createdAt": {
+		"$date": "2020-10-30T06:43:31.308Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-30T06:43:31.308Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9bb613b03d07272bbde31d"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5f9bb4bbb03d07272bbde2fd"
+	},
+	"byUserId": {
+		"$oid": "5f9bb4bbb03d07272bbde2fc"
+	},
+	"createdAt": {
+		"$date": "2020-10-30T06:43:31.700Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-30T06:43:31.700Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9bb613b03d07272bbde31e"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5f9bb4bbb03d07272bbde2ff"
+	},
+	"byUserId": {
+		"$oid": "5f9bb4bbb03d07272bbde2fc"
+	},
+	"createdAt": {
+		"$date": "2020-10-30T06:43:31.875Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-30T06:43:31.875Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa273a6b03d07272bbde3ff"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5fa27306b03d07272bbde3df"
+	},
+	"byUserId": {
+		"$oid": "5fa27306b03d07272bbde3df"
+	},
+	"createdAt": {
+		"$date": "2020-11-04T09:25:58.329Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T09:25:58.329Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa273a6b03d07272bbde400"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5fa27306b03d07272bbde3e0"
+	},
+	"byUserId": {
+		"$oid": "5fa27306b03d07272bbde3df"
+	},
+	"createdAt": {
+		"$date": "2020-11-04T09:25:58.424Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T09:25:58.424Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa273a6b03d07272bbde401"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5fa27306b03d07272bbde3e2"
+	},
+	"byUserId": {
+		"$oid": "5fa27306b03d07272bbde3df"
+	},
+	"createdAt": {
+		"$date": "2020-11-04T09:25:58.514Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T09:25:58.514Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa29db2b03d07272bbde422"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5fa29ae1b03d07272bbde402"
+	},
+	"byUserId": {
+		"$oid": "5fa29ae1b03d07272bbde402"
+	},
+	"createdAt": {
+		"$date": "2020-11-04T12:25:22.892Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T12:25:22.892Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa29db3b03d07272bbde423"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5fa29ae1b03d07272bbde403"
+	},
+	"byUserId": {
+		"$oid": "5fa29ae1b03d07272bbde402"
+	},
+	"createdAt": {
+		"$date": "2020-11-04T12:25:23.208Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T12:25:23.208Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa29db3b03d07272bbde424"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5fa29ae1b03d07272bbde405"
+	},
+	"byUserId": {
+		"$oid": "5fa29ae1b03d07272bbde402"
+	},
+	"createdAt": {
+		"$date": "2020-11-04T12:25:23.512Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-04T12:25:23.512Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa39700b03d07272bbde545"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5fa39655b03d07272bbde525"
+	},
+	"byUserId": {
+		"$oid": "5fa39655b03d07272bbde525"
+	},
+	"createdAt": {
+		"$date": "2020-11-05T06:09:04.044Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T06:09:04.044Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa39700b03d07272bbde546"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5fa39655b03d07272bbde526"
+	},
+	"byUserId": {
+		"$oid": "5fa39655b03d07272bbde525"
+	},
+	"createdAt": {
+		"$date": "2020-11-05T06:09:04.289Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T06:09:04.289Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa39700b03d07272bbde547"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5fa39655b03d07272bbde528"
+	},
+	"byUserId": {
+		"$oid": "5fa39655b03d07272bbde525"
+	},
+	"createdAt": {
+		"$date": "2020-11-05T06:09:04.542Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T06:09:04.542Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa42172b03d07272bbde5a8"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5fa4212ab03d07272bbde588"
+	},
+	"byUserId": {
+		"$oid": "5fa4212ab03d07272bbde588"
+	},
+	"createdAt": {
+		"$date": "2020-11-05T15:59:46.613Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T15:59:46.613Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa42172b03d07272bbde5a9"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5fa4212ab03d07272bbde589"
+	},
+	"byUserId": {
+		"$oid": "5fa4212ab03d07272bbde588"
+	},
+	"createdAt": {
+		"$date": "2020-11-05T15:59:46.820Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T15:59:46.820Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa42173b03d07272bbde5aa"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5fa4212ab03d07272bbde58b"
+	},
+	"byUserId": {
+		"$oid": "5fa4212ab03d07272bbde588"
+	},
+	"createdAt": {
+		"$date": "2020-11-05T15:59:47.055Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-05T15:59:47.055Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa4d8b6b03d07272bbde5ac"
+	},
+	"modal": "sale",
+	"action": "create",
+	"saleId": {
+		"$oid": "5fa4d8b6b03d07272bbde5ab"
+	},
+	"byUserId": {
+		"$oid": "5edcee15e462ae7e1dfbaceb"
+	},
+	"createdAt": {
+		"$date": "2020-11-06T05:01:42.505Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-06T05:01:42.505Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa4d981b03d07272bbde5cd"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5fa4d94eb03d07272bbde5ad"
+	},
+	"byUserId": {
+		"$oid": "5fa4d94eb03d07272bbde5ad"
+	},
+	"createdAt": {
+		"$date": "2020-11-06T05:05:05.261Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-06T05:05:05.261Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa4d981b03d07272bbde5ce"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5fa4d94eb03d07272bbde5ae"
+	},
+	"byUserId": {
+		"$oid": "5fa4d94eb03d07272bbde5ad"
+	},
+	"createdAt": {
+		"$date": "2020-11-06T05:05:05.400Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-06T05:05:05.400Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa4d981b03d07272bbde5cf"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5fa4d94eb03d07272bbde5b0"
+	},
+	"byUserId": {
+		"$oid": "5fa4d94eb03d07272bbde5ad"
+	},
+	"createdAt": {
+		"$date": "2020-11-06T05:05:05.512Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-06T05:05:05.512Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa77dbfb03d07272bbde6b0"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5fa77d7cb03d07272bbde690"
+	},
+	"byUserId": {
+		"$oid": "5fa77d7cb03d07272bbde690"
+	},
+	"createdAt": {
+		"$date": "2020-11-08T05:10:23.136Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-08T05:10:23.136Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa77dbfb03d07272bbde6b1"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5fa77d7cb03d07272bbde691"
+	},
+	"byUserId": {
+		"$oid": "5fa77d7cb03d07272bbde690"
+	},
+	"createdAt": {
+		"$date": "2020-11-08T05:10:23.384Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-08T05:10:23.384Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa77dbfb03d07272bbde6b2"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5fa77d7cb03d07272bbde693"
+	},
+	"byUserId": {
+		"$oid": "5fa77d7cb03d07272bbde690"
+	},
+	"createdAt": {
+		"$date": "2020-11-08T05:10:23.589Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-08T05:10:23.589Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa991d9b03d07272bbde753"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5fa990ecb03d07272bbde733"
+	},
+	"byUserId": {
+		"$oid": "5fa990ecb03d07272bbde733"
+	},
+	"createdAt": {
+		"$date": "2020-11-09T19:00:41.456Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-09T19:00:41.456Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa991d9b03d07272bbde754"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5fa990ecb03d07272bbde734"
+	},
+	"byUserId": {
+		"$oid": "5fa990ecb03d07272bbde733"
+	},
+	"createdAt": {
+		"$date": "2020-11-09T19:00:41.639Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-09T19:00:41.639Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa991d9b03d07272bbde755"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5fa990edb03d07272bbde736"
+	},
+	"byUserId": {
+		"$oid": "5fa990ecb03d07272bbde733"
+	},
+	"createdAt": {
+		"$date": "2020-11-09T19:00:41.824Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-09T19:00:41.824Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa9922ab03d07272bbde758"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5fa9922ab03d07272bbde756"
+	},
+	"byUserId": {
+		"$oid": "5fa990ecb03d07272bbde733"
+	},
+	"createdAt": {
+		"$date": "2020-11-09T19:02:02.355Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-09T19:02:02.355Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa992ddb03d07272bbde75a"
+	},
+	"modal": "sale",
+	"action": "create",
+	"saleId": {
+		"$oid": "5fa992ddb03d07272bbde759"
+	},
+	"byUserId": {
+		"$oid": "5fa990ecb03d07272bbde733"
+	},
+	"createdAt": {
+		"$date": "2020-11-09T19:05:01.687Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-09T19:05:01.687Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faeed4db03d07272bbde8db"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5faeec6fb03d07272bbde8bb"
+	},
+	"byUserId": {
+		"$oid": "5faeec6fb03d07272bbde8bb"
+	},
+	"createdAt": {
+		"$date": "2020-11-13T20:32:13.745Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-13T20:32:13.745Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faeed4db03d07272bbde8dc"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5faeec6fb03d07272bbde8bc"
+	},
+	"byUserId": {
+		"$oid": "5faeec6fb03d07272bbde8bb"
+	},
+	"createdAt": {
+		"$date": "2020-11-13T20:32:13.996Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-13T20:32:13.996Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faeed4eb03d07272bbde8dd"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5faeec6fb03d07272bbde8be"
+	},
+	"byUserId": {
+		"$oid": "5faeec6fb03d07272bbde8bb"
+	},
+	"createdAt": {
+		"$date": "2020-11-13T20:32:14.234Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-13T20:32:14.234Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faf54b7b03d07272bbde91e"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5faf541bb03d07272bbde8fe"
+	},
+	"byUserId": {
+		"$oid": "5faf541bb03d07272bbde8fe"
+	},
+	"createdAt": {
+		"$date": "2020-11-14T03:53:27.932Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-14T03:53:27.932Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faf54b8b03d07272bbde91f"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5faf541bb03d07272bbde8ff"
+	},
+	"byUserId": {
+		"$oid": "5faf541bb03d07272bbde8fe"
+	},
+	"createdAt": {
+		"$date": "2020-11-14T03:53:28.145Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-14T03:53:28.145Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faf54b8b03d07272bbde920"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5faf541bb03d07272bbde901"
+	},
+	"byUserId": {
+		"$oid": "5faf541bb03d07272bbde8fe"
+	},
+	"createdAt": {
+		"$date": "2020-11-14T03:53:28.366Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-14T03:53:28.366Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faf556ab03d07272bbde922"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "5faf556ab03d07272bbde921"
+	},
+	"byUserId": {
+		"$oid": "5faf541bb03d07272bbde8fe"
+	},
+	"createdAt": {
+		"$date": "2020-11-14T03:56:26.340Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-14T03:56:26.340Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faf558eb03d07272bbde923"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5faf541bb03d07272bbde8fe"
+	},
+	"byUserId": {
+		"$oid": "5faf541bb03d07272bbde8fe"
+	},
+	"createdAt": {
+		"$date": "2020-11-14T03:57:02.545Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-14T03:57:02.545Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faf558eb03d07272bbde924"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5faf541bb03d07272bbde8ff"
+	},
+	"byUserId": {
+		"$oid": "5faf541bb03d07272bbde8fe"
+	},
+	"createdAt": {
+		"$date": "2020-11-14T03:57:02.673Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-14T03:57:02.673Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5faf558eb03d07272bbde925"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5faf541bb03d07272bbde901"
+	},
+	"byUserId": {
+		"$oid": "5faf541bb03d07272bbde8fe"
+	},
+	"createdAt": {
+		"$date": "2020-11-14T03:57:02.816Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-14T03:57:02.816Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb3f30eb03d07272bbdea66"
+	},
+	"modal": "profile",
+	"action": "update",
+	"profileId": {
+		"$oid": "5fb3f2a8b03d07272bbdea46"
+	},
+	"byUserId": {
+		"$oid": "5fb3f2a8b03d07272bbdea46"
+	},
+	"createdAt": {
+		"$date": "2020-11-17T15:58:06.555Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-17T15:58:06.555Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb3f30fb03d07272bbdea67"
+	},
+	"modal": "farm",
+	"action": "update",
+	"farmId": {
+		"$oid": "5fb3f2a8b03d07272bbdea47"
+	},
+	"byUserId": {
+		"$oid": "5fb3f2a8b03d07272bbdea46"
+	},
+	"createdAt": {
+		"$date": "2020-11-17T15:58:07.330Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-17T15:58:07.330Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb3f310b03d07272bbdea68"
+	},
+	"modal": "flock",
+	"action": "update",
+	"flockId": {
+		"$oid": "5fb3f2a9b03d07272bbdea49"
+	},
+	"byUserId": {
+		"$oid": "5fb3f2a8b03d07272bbdea46"
+	},
+	"createdAt": {
+		"$date": "2020-11-17T15:58:08.199Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-17T15:58:08.200Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb8b3c6b03d07272bbdebcb"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "5fb8b3c6b03d07272bbdebc9"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2020-11-21T06:29:26.806Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-21T06:29:26.807Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601a8d8db03d07272bbe026e"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "601a8d8db03d07272bbe026c"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2021-02-03T11:48:29.786Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-03T11:48:29.786Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60261e32b03d07272bbe0451"
+	},
+	"modal": "dayEntry",
+	"action": "create",
+	"dayEntryId": {
+		"$oid": "60261e32b03d07272bbe044f"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2021-02-12T06:20:34.696Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-12T06:20:34.696Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602cfcedb03d07272bbe0573"
+	},
+	"modal": "expence",
+	"action": "create",
+	"expenceId": {
+		"$oid": "602cfcedb03d07272bbe0572"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2021-02-17T11:24:29.871Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-17T11:24:29.872Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602cfdebb03d07272bbe0575"
+	},
+	"modal": "sale",
+	"action": "create",
+	"saleId": {
+		"$oid": "602cfdebb03d07272bbe0574"
+	},
+	"byUserId": {
+		"$oid": "5eaec2c06933504a671bed31"
+	},
+	"createdAt": {
+		"$date": "2021-02-17T11:28:43.724Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-17T11:28:43.724Z"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"_id": {
+		"$oid": "5f46bdfcb03d07272bbdd13a"
+	},
+	"name": "1598471676631_1598471672497_IMG-20200827-WA0000.jpg",
+	"type": "image/jpeg",
+	"container": "public",
+	"size": "162021",
+	"userId": {
+		"$oid": "5eaebfd66933504a671bed06"
+	},
+	"createdAt": {
+		"$date": "2020-08-26T19:54:36.639Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-26T19:54:36.639Z"
+	},
+	"field": "files[]"
+}

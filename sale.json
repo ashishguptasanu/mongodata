@@ -1,0 +1,406 @@
+{
+	"_id": {
+		"$oid": "5ed0cd7583e36e21dcd4a971"
+	},
+	"saleDate": {
+		"$date": "2020-05-29T08:52:43.026Z"
+	},
+	"quantity": 5,
+	"unit": "Box",
+	"rate": 800,
+	"discount": 500,
+	"amountPaid": 3000,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5eaec2c06933504a671bed32"
+	},
+	"partyId": {
+		"$oid": "5eaec2c06933504a671bed35"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed49"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T08:53:09.827Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T08:53:09.827Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed1084f83e36e21dcd4a979"
+	},
+	"saleDate": {
+		"$date": "2020-05-29T13:03:17.860Z"
+	},
+	"quantity": 5,
+	"unit": "Tray",
+	"rate": 120,
+	"discount": 50,
+	"amountPaid": 500,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5eaec2c06933504a671bed32"
+	},
+	"partyId": {
+		"$oid": "5eaec2c06933504a671bed35"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed49"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T13:04:15.778Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T13:04:15.778Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed110fd83e36e21dcd4a984"
+	},
+	"saleDate": {
+		"$date": "2020-05-29T13:40:10.335Z"
+	},
+	"quantity": 5,
+	"unit": "Tray",
+	"rate": 150,
+	"discount": 20,
+	"amountPaid": 700,
+	"remarks": "Sold to local",
+	"farmId": {
+		"$oid": "5eaec2c06933504a671bed32"
+	},
+	"partyId": {
+		"$oid": "5eaec2c06933504a671bed35"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed49"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T13:41:17.905Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T13:41:17.905Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ef77c90b03d07272bbdcd17"
+	},
+	"saleDate": {
+		"$date": "2020-06-27T17:05:44.383Z"
+	},
+	"quantity": 1,
+	"unit": "Box",
+	"rate": 108,
+	"discount": 0,
+	"amountPaid": 100,
+	"remarks": "Cash sale",
+	"farmId": {
+		"$oid": "5eaebfd66933504a671bed07"
+	},
+	"partyId": {
+		"$oid": "5eaebfd66933504a671bed0a"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed1e"
+	},
+	"createdAt": {
+		"$date": "2020-06-27T17:06:24.537Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-27T17:06:24.537Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f08b1d4b03d07272bbdcda2"
+	},
+	"saleDate": {
+		"$date": "2020-07-09T18:30:00.000Z"
+	},
+	"quantity": 2,
+	"unit": "Box",
+	"rate": 200,
+	"discount": 0,
+	"amountPaid": 300,
+	"remarks": "cash",
+	"farmId": {
+		"$oid": "5eaebfd66933504a671bed07"
+	},
+	"partyId": {
+		"$oid": "5eaebfd66933504a671bed0a"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed1e"
+	},
+	"createdAt": {
+		"$date": "2020-07-10T18:22:12.359Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-10T18:22:12.359Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0df16eb03d07272bbdcda8"
+	},
+	"saleDate": {
+		"$date": "2020-07-13T18:30:00.000Z"
+	},
+	"quantity": 5,
+	"unit": "Box",
+	"rate": 120,
+	"discount": 0,
+	"amountPaid": 600,
+	"remarks": "paid all",
+	"farmId": {
+		"$oid": "5eaebfd66933504a671bed07"
+	},
+	"partyId": {
+		"$oid": "5eaebfd66933504a671bed0a"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed1f"
+	},
+	"createdAt": {
+		"$date": "2020-07-14T17:54:54.518Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T11:38:18.796Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f1605feb03d07272bbdce4a"
+	},
+	"saleDate": {
+		"$date": "2020-07-20T20:56:37.125Z"
+	},
+	"quantity": 56,
+	"unit": "Box",
+	"rate": 805,
+	"discount": 10,
+	"amountPaid": 804.9,
+	"remarks": "4RS",
+	"farmId": {
+		"$oid": "5f160460b03d07272bbdce28"
+	},
+	"partyId": {
+		"$oid": "5f160460b03d07272bbdce2b"
+	},
+	"itemId": {
+		"$oid": "5f160460b03d07272bbdce3f"
+	},
+	"createdAt": {
+		"$date": "2020-07-20T21:00:46.636Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-20T21:00:46.636Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f301590b03d07272bbdcf83"
+	},
+	"saleDate": {
+		"$date": "2020-08-09T15:25:14.039Z"
+	},
+	"quantity": 45000,
+	"unit": "Egg",
+	"rate": 3.4,
+	"discount": 0,
+	"amountPaid": 0,
+	"remarks": "T",
+	"farmId": {
+		"$oid": "5f301289b03d07272bbdcf53"
+	},
+	"partyId": {
+		"$oid": "5f301557b03d07272bbdcf81"
+	},
+	"itemId": {
+		"$oid": "5f301289b03d07272bbdcf6a"
+	},
+	"createdAt": {
+		"$date": "2020-08-09T15:26:08.918Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-09T15:26:08.918Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f301590b03d07272bbdcf85"
+	},
+	"saleDate": {
+		"$date": "2020-08-09T15:25:14.039Z"
+	},
+	"quantity": 45000,
+	"unit": "Egg",
+	"rate": 3.4,
+	"discount": 0,
+	"amountPaid": 0,
+	"remarks": "T",
+	"farmId": {
+		"$oid": "5f301289b03d07272bbdcf53"
+	},
+	"partyId": {
+		"$oid": "5f301557b03d07272bbdcf81"
+	},
+	"itemId": {
+		"$oid": "5f301289b03d07272bbdcf6a"
+	},
+	"createdAt": {
+		"$date": "2020-08-09T15:26:08.981Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-09T15:26:08.981Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f7b4218b03d07272bbddb00"
+	},
+	"saleDate": {
+		"$date": "2020-10-05T15:54:36.158Z"
+	},
+	"quantity": 2,
+	"unit": "Tray",
+	"rate": 500,
+	"discount": 5,
+	"amountPaid": 10,
+	"remarks": "Hihihi",
+	"farmId": {
+		"$oid": "5f7b413eb03d07272bbddade"
+	},
+	"partyId": {
+		"$oid": "5f7b413eb03d07272bbddae1"
+	},
+	"itemId": {
+		"$oid": "5f7b413eb03d07272bbddaf5"
+	},
+	"createdAt": {
+		"$date": "2020-10-05T15:56:08.663Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-05T15:56:08.663Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f9adc79b03d07272bbde2fa"
+	},
+	"saleDate": {
+		"$date": "2020-10-29T15:13:38.133Z"
+	},
+	"quantity": 1000,
+	"unit": "Tray",
+	"rate": 490,
+	"discount": 0,
+	"amountPaid": 490000,
+	"remarks": "No",
+	"farmId": {
+		"$oid": "5f9adb59b03d07272bbde2d8"
+	},
+	"partyId": {
+		"$oid": "5f9adb59b03d07272bbde2db"
+	},
+	"itemId": {
+		"$oid": "5f9adb59b03d07272bbde2ef"
+	},
+	"createdAt": {
+		"$date": "2020-10-29T15:15:05.857Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-29T15:15:05.857Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa4d8b6b03d07272bbde5ab"
+	},
+	"saleDate": {
+		"$date": "2020-11-06T05:00:21.712Z"
+	},
+	"quantity": 1000,
+	"unit": "Egg",
+	"rate": 5,
+	"discount": 500,
+	"amountPaid": 500,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5edcee15e462ae7e1dfbacec"
+	},
+	"partyId": {
+		"$oid": "5edcee15e462ae7e1dfbacef"
+	},
+	"itemId": {
+		"$oid": "5edcee15e462ae7e1dfbad03"
+	},
+	"createdAt": {
+		"$date": "2020-11-06T05:01:42.503Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-06T05:01:42.503Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa992ddb03d07272bbde759"
+	},
+	"saleDate": {
+		"$date": "2020-11-09T19:03:24.611Z"
+	},
+	"quantity": 5250,
+	"unit": "Egg",
+	"rate": 4.3,
+	"discount": 451,
+	"amountPaid": 0,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5fa990ecb03d07272bbde734"
+	},
+	"partyId": {
+		"$oid": "5fa990edb03d07272bbde737"
+	},
+	"itemId": {
+		"$oid": "5fa990edb03d07272bbde74b"
+	},
+	"createdAt": {
+		"$date": "2020-11-09T19:05:01.685Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-09T19:05:01.685Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "602cfdebb03d07272bbe0574"
+	},
+	"saleDate": {
+		"$date": "2021-02-17T11:28:03.397Z"
+	},
+	"quantity": 10,
+	"unit": "Kg",
+	"rate": 100,
+	"discount": 0,
+	"amountPaid": 100,
+	"remarks": "Remarks",
+	"farmId": {
+		"$oid": "5eaec2c06933504a671bed32"
+	},
+	"partyId": {
+		"$oid": "5eaec2c06933504a671bed35"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed4d"
+	},
+	"createdAt": {
+		"$date": "2021-02-17T11:28:43.722Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-17T11:28:43.722Z"
+	}
+}

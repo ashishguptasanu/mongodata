@@ -1,0 +1,540 @@
+{
+	"_id": {
+		"$oid": "5eceb5f383e36e21dcd4a954"
+	},
+	"expenceDate": {
+		"$date": "2020-05-27T18:47:37.673Z"
+	},
+	"quantity": "12000",
+	"amount": 240000,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5ecea84383e36e21dcd4a8fb"
+	},
+	"partyId": {
+		"$oid": "5ecea84383e36e21dcd4a8ff"
+	},
+	"itemId": {
+		"$oid": "5eceb5bc83e36e21dcd4a952"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:48:19.931Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:48:19.931Z"
+	},
+	"unit": "Kg"
+}
+{
+	"_id": {
+		"$oid": "5eceba9183e36e21dcd4a958"
+	},
+	"expenceDate": {
+		"$date": "2020-05-27T19:07:36.800Z"
+	},
+	"quantity": "10000",
+	"amount": 200000,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5eaec2c06933504a671bed32"
+	},
+	"partyId": {
+		"$oid": "5eaec2c06933504a671bed36"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T19:08:01.340Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T19:08:01.340Z"
+	},
+	"unit": "Kg"
+}
+{
+	"_id": {
+		"$oid": "5ecebad483e36e21dcd4a95b"
+	},
+	"expenceDate": {
+		"$date": "2020-05-27T19:08:44.578Z"
+	},
+	"quantity": "13000",
+	"amount": 260000,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5ecea84383e36e21dcd4a8fb"
+	},
+	"partyId": {
+		"$oid": "5ecea84383e36e21dcd4a8ff"
+	},
+	"itemId": {
+		"$oid": "5eceb5bc83e36e21dcd4a952"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T19:09:08.306Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T19:09:08.306Z"
+	},
+	"unit": "Kg"
+}
+{
+	"_id": {
+		"$oid": "5ecebaff83e36e21dcd4a95d"
+	},
+	"expenceDate": {
+		"$date": "2020-05-27T19:09:30.300Z"
+	},
+	"quantity": "1000",
+	"amount": 20000,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5ecea84383e36e21dcd4a8fb"
+	},
+	"partyId": {
+		"$oid": "5ecea84383e36e21dcd4a8ff"
+	},
+	"itemId": {
+		"$oid": "5eceb5bc83e36e21dcd4a952"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T19:09:51.687Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T19:09:51.687Z"
+	},
+	"unit": "Kg"
+}
+{
+	"_id": {
+		"$oid": "5ecebb2483e36e21dcd4a95f"
+	},
+	"expenceDate": {
+		"$date": "2020-05-26T18:30:00.000Z"
+	},
+	"quantity": "1000",
+	"amount": 20000,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5ecea84383e36e21dcd4a8fb"
+	},
+	"partyId": {
+		"$oid": "5ecea84383e36e21dcd4a8ff"
+	},
+	"itemId": {
+		"$oid": "5eceb5bc83e36e21dcd4a952"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T19:10:28.267Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T19:10:28.267Z"
+	},
+	"unit": "Kg"
+}
+{
+	"_id": {
+		"$oid": "5ed017af83e36e21dcd4a964"
+	},
+	"expenceDate": {
+		"$date": "2020-05-28T19:57:09.497Z"
+	},
+	"quantity": "50",
+	"amount": 1000,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5eaebfd66933504a671bed07"
+	},
+	"partyId": {
+		"$oid": "5eaebfd66933504a671bed0b"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed0c"
+	},
+	"createdAt": {
+		"$date": "2020-05-28T19:57:35.904Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-28T19:57:35.904Z"
+	},
+	"unit": "Kg"
+}
+{
+	"_id": {
+		"$oid": "5ed0cd5983e36e21dcd4a96f"
+	},
+	"expenceDate": {
+		"$date": "2020-05-29T08:52:26.645Z"
+	},
+	"quantity": "10000",
+	"amount": 200000,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5eaec2c06933504a671bed32"
+	},
+	"partyId": {
+		"$oid": "5eaec2c06933504a671bed36"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T08:52:41.256Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T08:52:41.256Z"
+	},
+	"unit": "Kg"
+}
+{
+	"_id": {
+		"$oid": "5ed0f73c83e36e21dcd4a975"
+	},
+	"expenceDate": {
+		"$date": "2020-05-29T11:50:05.497Z"
+	},
+	"quantity": "100000",
+	"amount": 2100000,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5ecea84383e36e21dcd4a8fb"
+	},
+	"partyId": {
+		"$oid": "5ecea84383e36e21dcd4a8ff"
+	},
+	"itemId": {
+		"$oid": "5eceb5bc83e36e21dcd4a952"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T11:51:24.108Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T11:51:24.108Z"
+	},
+	"unit": "Kg"
+}
+{
+	"_id": {
+		"$oid": "5ed1078483e36e21dcd4a977"
+	},
+	"expenceDate": {
+		"$date": "2020-05-29T13:00:20.721Z"
+	},
+	"quantity": "100000",
+	"amount": 2100000,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5ecea84383e36e21dcd4a8fb"
+	},
+	"partyId": {
+		"$oid": "5ecea84383e36e21dcd4a8ff"
+	},
+	"itemId": {
+		"$oid": "5eceb5bc83e36e21dcd4a952"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T13:00:52.255Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T13:00:52.255Z"
+	},
+	"unit": "Kg"
+}
+{
+	"_id": {
+		"$oid": "5ed1086a83e36e21dcd4a97b"
+	},
+	"expenceDate": {
+		"$date": "2020-05-19T18:30:00.000Z"
+	},
+	"quantity": "100000",
+	"amount": 2100000,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5ecea84383e36e21dcd4a8fb"
+	},
+	"partyId": {
+		"$oid": "5ecea84383e36e21dcd4a8ff"
+	},
+	"itemId": {
+		"$oid": "5eceb5bc83e36e21dcd4a952"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T13:04:42.692Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T13:04:42.692Z"
+	},
+	"unit": "Kg"
+}
+{
+	"_id": {
+		"$oid": "5ed1088483e36e21dcd4a97d"
+	},
+	"expenceDate": {
+		"$date": "2020-05-27T18:30:00.000Z"
+	},
+	"quantity": "100000",
+	"amount": 2100000,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5ecea84383e36e21dcd4a8fb"
+	},
+	"partyId": {
+		"$oid": "5ecea84383e36e21dcd4a8ff"
+	},
+	"itemId": {
+		"$oid": "5eceb5bc83e36e21dcd4a952"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T13:05:08.827Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T13:05:08.827Z"
+	},
+	"unit": "Kg"
+}
+{
+	"_id": {
+		"$oid": "5ed110b483e36e21dcd4a982"
+	},
+	"expenceDate": {
+		"$date": "2020-05-29T13:39:48.617Z"
+	},
+	"quantity": "5000",
+	"amount": 100000,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5eaec2c06933504a671bed32"
+	},
+	"partyId": {
+		"$oid": "5eaec2c06933504a671bed36"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T13:40:04.816Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T13:40:04.816Z"
+	},
+	"unit": "Kg"
+}
+{
+	"_id": {
+		"$oid": "5ee0de08e462ae7e1dfbad60"
+	},
+	"expenceDate": {
+		"$date": "2020-06-10T13:19:35.652Z"
+	},
+	"quantity": "500",
+	"amount": 1400,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5ec20ee18e0e0d2d80ec4503"
+	},
+	"partyId": {
+		"$oid": "5ec20ee18e0e0d2d80ec4507"
+	},
+	"itemId": {
+		"$oid": "5ec214958e0e0d2d80ec4535"
+	},
+	"createdAt": {
+		"$date": "2020-06-10T13:20:08.282Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-10T13:20:08.282Z"
+	},
+	"unit": "Kg"
+}
+{
+	"_id": {
+		"$oid": "5f0df24db03d07272bbdcdaa"
+	},
+	"expenceDate": {
+		"$date": "2020-07-14T17:58:14.328Z"
+	},
+	"quantity": "20",
+	"amount": 2000,
+	"remarks": "purchased",
+	"farmId": {
+		"$oid": "5eaebfd66933504a671bed07"
+	},
+	"partyId": {
+		"$oid": "5eaebfd66933504a671bed0b"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed0c"
+	},
+	"createdAt": {
+		"$date": "2020-07-14T17:58:37.025Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-14T17:58:37.025Z"
+	},
+	"unit": "Kg"
+}
+{
+	"_id": {
+		"$oid": "5f0df319b03d07272bbdcdac"
+	},
+	"expenceDate": {
+		"$date": "2020-07-12T18:30:00.000Z"
+	},
+	"quantity": "20",
+	"amount": 1500,
+	"remarks": "cash hai",
+	"farmId": {
+		"$oid": "5eaebfd66933504a671bed07"
+	},
+	"partyId": {
+		"$oid": "5eaebfd66933504a671bed0b"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed0f"
+	},
+	"createdAt": {
+		"$date": "2020-07-14T18:02:01.893Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T11:22:47.664Z"
+	},
+	"unit": "ML"
+}
+{
+	"_id": {
+		"$oid": "5f379828b03d07272bbdcfeb"
+	},
+	"expenceDate": {
+		"$date": "2020-08-15T08:08:40.792Z"
+	},
+	"quantity": "4000",
+	"amount": 140000,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5f362cdab03d07272bbdcfcc"
+	},
+	"partyId": {
+		"$oid": "5f362cdab03d07272bbdcfd0"
+	},
+	"itemId": {
+		"$oid": "5f362cdab03d07272bbdcfd1"
+	},
+	"createdAt": {
+		"$date": "2020-08-15T08:09:12.889Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-15T08:09:12.889Z"
+	},
+	"unit": "Kg"
+}
+{
+	"_id": {
+		"$oid": "5f6f8819b03d07272bbdd7c9"
+	},
+	"expenceDate": {
+		"$date": "2020-09-26T18:26:59.822Z"
+	},
+	"quantity": "1050",
+	"amount": 1450,
+	"remarks": "",
+	"farmId": {
+		"$oid": "5f6f822ab03d07272bbdd7a4"
+	},
+	"partyId": {
+		"$oid": "5f6f822ab03d07272bbdd7a8"
+	},
+	"itemId": {
+		"$oid": "5f6f822ab03d07272bbdd7a9"
+	},
+	"createdAt": {
+		"$date": "2020-09-26T18:27:37.028Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T18:27:37.028Z"
+	},
+	"unit": "Kg"
+}
+{
+	"_id": {
+		"$oid": "5f962a8eb03d07272bbde22a"
+	},
+	"expenceDate": {
+		"$date": "2020-10-26T01:44:59.768Z"
+	},
+	"quantity": "1",
+	"amount": 100,
+	"remarks": "Mixing",
+	"farmId": {
+		"$oid": "5f90e57fb03d07272bbde022"
+	},
+	"partyId": {
+		"$oid": "5f90e57fb03d07272bbde026"
+	},
+	"itemId": {
+		"$oid": "5f90e57fb03d07272bbde038"
+	},
+	"createdAt": {
+		"$date": "2020-10-26T01:46:54.449Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-26T01:46:54.449Z"
+	},
+	"unit": "Kg"
+}
+{
+	"_id": {
+		"$oid": "5faf556ab03d07272bbde921"
+	},
+	"expenceDate": {
+		"$date": "2020-11-14T03:54:50.403Z"
+	},
+	"quantity": "12600",
+	"amount": 60228,
+	"remarks": "Sadik ji",
+	"farmId": {
+		"$oid": "5faf541bb03d07272bbde8ff"
+	},
+	"partyId": {
+		"$oid": "5faf541bb03d07272bbde903"
+	},
+	"itemId": {
+		"$oid": "5faf541bb03d07272bbde915"
+	},
+	"createdAt": {
+		"$date": "2020-11-14T03:56:26.338Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-14T03:56:26.338Z"
+	},
+	"unit": "Count"
+}
+{
+	"_id": {
+		"$oid": "602cfcedb03d07272bbe0572"
+	},
+	"expenceDate": {
+		"$date": "2021-02-17T11:24:00.950Z"
+	},
+	"quantity": "100",
+	"amount": 1000,
+	"remarks": "Remarks",
+	"farmId": {
+		"$oid": "5eaec2c06933504a671bed32"
+	},
+	"partyId": {
+		"$oid": "5eaec2c06933504a671bed36"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed39"
+	},
+	"createdAt": {
+		"$date": "2021-02-17T11:24:29.869Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-17T11:24:29.869Z"
+	},
+	"unit": "ML"
+}

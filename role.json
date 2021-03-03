@@ -1,0 +1,42 @@
+{
+	"_id": {
+		"$oid": "5de226168ae59d377723220b"
+	},
+	"type": "client",
+	"displayName": "Flock Admin",
+	"name": "flock-manager",
+	"created": {
+		"$date": "2019-11-30T08:19:34.570Z"
+	},
+	"modified": {
+		"$date": "2019-11-30T08:19:34.570Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5de226168ae59d377723220a"
+	},
+	"type": "client",
+	"displayName": "Farm Admin",
+	"name": "farm-manager",
+	"created": {
+		"$date": "2019-11-30T08:19:34.567Z"
+	},
+	"modified": {
+		"$date": "2019-11-30T08:19:34.567Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5de226168ae59d377723220c"
+	},
+	"type": "staff",
+	"displayName": "Administrator",
+	"name": "administrator",
+	"created": {
+		"$date": "2019-11-30T08:19:34.666Z"
+	},
+	"modified": {
+		"$date": "2019-11-30T08:19:34.666Z"
+	}
+}

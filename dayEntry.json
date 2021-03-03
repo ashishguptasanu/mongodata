@@ -1,0 +1,1311 @@
+{
+	"_id": {
+		"$oid": "5ecd630883e36e21dcd4a879"
+	},
+	"entryDate": {
+		"$date": "2020-05-24T18:30:00.000Z"
+	},
+	"totalEggProduced": 1500,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 0,
+	"remarks": null,
+	"flockId": {
+		"$oid": "5eaebfd66933504a671bed09"
+	},
+	"createdAt": {
+		"$date": "2020-05-26T18:42:16.452Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-26T19:26:09.576Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ecd631583e36e21dcd4a87c"
+	},
+	"entryDate": {
+		"$date": "2020-05-26T18:30:00.000Z"
+	},
+	"totalEggProduced": 1400,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaebfd66933504a671bed09"
+	},
+	"createdAt": {
+		"$date": "2020-05-26T18:42:29.539Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-26T18:42:29.540Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ecd6d6b83e36e21dcd4a881"
+	},
+	"entryDate": {
+		"$date": "2020-05-25T18:30:00.000Z"
+	},
+	"totalEggProduced": 1400,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaebfd66933504a671bed09"
+	},
+	"createdAt": {
+		"$date": "2020-05-26T19:26:35.299Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-26T19:26:35.299Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ecea71b83e36e21dcd4a8d6"
+	},
+	"entryDate": {
+		"$date": "2020-05-26T18:30:00.000Z"
+	},
+	"totalEggProduced": 5000,
+	"brokenEggProduced": 5,
+	"brokenEggInOperation": 4,
+	"totalMortality": 2,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:44:59.624Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:44:59.624Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ecea72d83e36e21dcd4a8d9"
+	},
+	"entryDate": {
+		"$date": "2020-05-25T18:30:00.000Z"
+	},
+	"totalEggProduced": 4890,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 1,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:45:17.575Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:45:17.575Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ecea74583e36e21dcd4a8dc"
+	},
+	"entryDate": {
+		"$date": "2020-05-24T18:30:00.000Z"
+	},
+	"totalEggProduced": 4900,
+	"brokenEggProduced": 2,
+	"brokenEggInOperation": 3,
+	"totalMortality": 2,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:45:41.477Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:45:41.477Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ecea75783e36e21dcd4a8df"
+	},
+	"entryDate": {
+		"$date": "2020-05-23T18:30:00.000Z"
+	},
+	"totalEggProduced": 4800,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 5,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:45:59.936Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:45:59.936Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ecea76d83e36e21dcd4a8e2"
+	},
+	"entryDate": {
+		"$date": "2020-05-22T18:30:00.000Z"
+	},
+	"totalEggProduced": 4870,
+	"brokenEggProduced": 5,
+	"brokenEggInOperation": 4,
+	"totalMortality": 2,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:46:21.576Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:46:21.576Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ecea77c83e36e21dcd4a8e5"
+	},
+	"entryDate": {
+		"$date": "2020-05-21T18:30:00.000Z"
+	},
+	"totalEggProduced": 5020,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:46:36.133Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:46:36.133Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ecea79283e36e21dcd4a8e8"
+	},
+	"entryDate": {
+		"$date": "2020-05-20T18:30:00.000Z"
+	},
+	"totalEggProduced": 5010,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 5,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:46:58.481Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:46:58.481Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ecea79f83e36e21dcd4a8eb"
+	},
+	"entryDate": {
+		"$date": "2020-05-19T18:30:00.000Z"
+	},
+	"totalEggProduced": 5000,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 4,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:47:11.057Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:47:11.057Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ecea7bc83e36e21dcd4a8ee"
+	},
+	"entryDate": {
+		"$date": "2020-05-18T18:30:00.000Z"
+	},
+	"totalEggProduced": 5050,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:47:40.584Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:47:40.584Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ecea7d583e36e21dcd4a8f2"
+	},
+	"entryDate": {
+		"$date": "2020-05-17T18:30:00.000Z"
+	},
+	"totalEggProduced": 4950,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 2,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:48:05.069Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:48:05.069Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ecea7f883e36e21dcd4a8f6"
+	},
+	"entryDate": {
+		"$date": "2020-05-16T18:30:00.000Z"
+	},
+	"totalEggProduced": 4780,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 3,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:48:40.983Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:48:40.983Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ecea86383e36e21dcd4a91a"
+	},
+	"entryDate": {
+		"$date": "2020-05-15T18:30:00.000Z"
+	},
+	"totalEggProduced": 5140,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 4,
+	"remarks": null,
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:50:27.591Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T08:53:44.136Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ecea87383e36e21dcd4a91d"
+	},
+	"entryDate": {
+		"$date": "2020-05-14T18:30:00.000Z"
+	},
+	"totalEggProduced": 4680,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:50:43.276Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:50:43.276Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ecea89c83e36e21dcd4a920"
+	},
+	"entryDate": {
+		"$date": "2020-05-13T18:30:00.000Z"
+	},
+	"totalEggProduced": 5000,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 4,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:51:24.643Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:51:24.643Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5eceaa7d83e36e21dcd4a926"
+	},
+	"entryDate": {
+		"$date": "2020-05-26T18:30:00.000Z"
+	},
+	"totalEggProduced": 8963,
+	"brokenEggProduced": 4,
+	"brokenEggInOperation": 2,
+	"totalMortality": 4,
+	"remarks": null,
+	"flockId": {
+		"$oid": "5ecea84383e36e21dcd4a8fd"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:59:25.704Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T19:07:50.030Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5eceb12783e36e21dcd4a92a"
+	},
+	"entryDate": {
+		"$date": "2020-05-25T18:30:00.000Z"
+	},
+	"totalEggProduced": 8653,
+	"brokenEggProduced": 2,
+	"brokenEggInOperation": 4,
+	"totalMortality": 2,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5ecea84383e36e21dcd4a8fd"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:27:51.485Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:27:51.485Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5eceb16483e36e21dcd4a92d"
+	},
+	"entryDate": {
+		"$date": "2020-05-24T18:30:00.000Z"
+	},
+	"totalEggProduced": 8742,
+	"brokenEggProduced": 5,
+	"brokenEggInOperation": 4,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5ecea84383e36e21dcd4a8fd"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:28:52.926Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:28:52.926Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5eceb18283e36e21dcd4a932"
+	},
+	"entryDate": {
+		"$date": "2020-05-23T18:30:00.000Z"
+	},
+	"totalEggProduced": 8574,
+	"brokenEggProduced": 2,
+	"brokenEggInOperation": 5,
+	"totalMortality": 1,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5ecea84383e36e21dcd4a8fd"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:29:22.410Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:29:22.410Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5eceb1b183e36e21dcd4a935"
+	},
+	"entryDate": {
+		"$date": "2020-05-22T18:30:00.000Z"
+	},
+	"totalEggProduced": 8742,
+	"brokenEggProduced": 3,
+	"brokenEggInOperation": 2,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5ecea84383e36e21dcd4a8fd"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:30:09.233Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:30:09.233Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5eceb1ce83e36e21dcd4a938"
+	},
+	"entryDate": {
+		"$date": "2020-05-21T18:30:00.000Z"
+	},
+	"totalEggProduced": 8852,
+	"brokenEggProduced": 3,
+	"brokenEggInOperation": 5,
+	"totalMortality": 2,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5ecea84383e36e21dcd4a8fd"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:30:38.811Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:30:38.811Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5eceb1f383e36e21dcd4a93b"
+	},
+	"entryDate": {
+		"$date": "2020-05-20T18:30:00.000Z"
+	},
+	"totalEggProduced": 8842,
+	"brokenEggProduced": 3,
+	"brokenEggInOperation": 5,
+	"totalMortality": 2,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5ecea84383e36e21dcd4a8fd"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:31:15.416Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:31:15.416Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5eceb21b83e36e21dcd4a93e"
+	},
+	"entryDate": {
+		"$date": "2020-05-27T18:30:00.000Z"
+	},
+	"totalEggProduced": 8843,
+	"brokenEggProduced": 3,
+	"brokenEggInOperation": 4,
+	"totalMortality": 1,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5ecea84383e36e21dcd4a8fd"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:31:55.083Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:31:55.083Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5eceb23d83e36e21dcd4a941"
+	},
+	"entryDate": {
+		"$date": "2020-05-19T18:30:00.000Z"
+	},
+	"totalEggProduced": 9042,
+	"brokenEggProduced": 1,
+	"brokenEggInOperation": 3,
+	"totalMortality": 2,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5ecea84383e36e21dcd4a8fd"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:32:29.051Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:32:29.051Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5eceb26d83e36e21dcd4a945"
+	},
+	"entryDate": {
+		"$date": "2020-05-18T18:30:00.000Z"
+	},
+	"totalEggProduced": 8965,
+	"brokenEggProduced": 3,
+	"brokenEggInOperation": 6,
+	"totalMortality": 3,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5ecea84383e36e21dcd4a8fd"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:33:17.381Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:33:17.381Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5eceb32683e36e21dcd4a948"
+	},
+	"entryDate": {
+		"$date": "2020-05-17T18:30:00.000Z"
+	},
+	"totalEggProduced": 8423,
+	"brokenEggProduced": 3,
+	"brokenEggInOperation": 5,
+	"totalMortality": 6,
+	"remarks": null,
+	"flockId": {
+		"$oid": "5ecea84383e36e21dcd4a8fd"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:36:22.919Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:44:30.570Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ecfa2cc83e36e21dcd4a961"
+	},
+	"entryDate": {
+		"$date": "2020-05-27T18:30:00.000Z"
+	},
+	"totalEggProduced": 1300,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaebfd66933504a671bed09"
+	},
+	"createdAt": {
+		"$date": "2020-05-28T11:38:52.095Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-28T11:38:52.095Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ed0b7b783e36e21dcd4a966"
+	},
+	"entryDate": {
+		"$date": "2020-05-28T18:30:00.000Z"
+	},
+	"totalEggProduced": 1200,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaebfd66933504a671bed09"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T07:20:23.765Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T07:20:23.765Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ed0bf7483e36e21dcd4a969"
+	},
+	"entryDate": {
+		"$date": "2020-05-27T18:30:00.000Z"
+	},
+	"totalEggProduced": 4860,
+	"brokenEggProduced": 1,
+	"brokenEggInOperation": 0,
+	"totalMortality": 2,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T07:53:24.820Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T07:53:24.820Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ed1108d83e36e21dcd4a97f"
+	},
+	"entryDate": {
+		"$date": "2020-05-28T18:30:00.000Z"
+	},
+	"totalEggProduced": 4950,
+	"brokenEggProduced": 5,
+	"brokenEggInOperation": 2,
+	"totalMortality": 1,
+	"remarks": "Heat wave",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T13:39:25.304Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T13:42:52.752Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ed55fa883e36e21dcd4a988"
+	},
+	"entryDate": {
+		"$date": "2020-05-29T18:30:00.000Z"
+	},
+	"totalEggProduced": 4800,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-06-01T20:06:00.440Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-01T20:06:00.440Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ed55fb883e36e21dcd4a98b"
+	},
+	"entryDate": {
+		"$date": "2020-05-30T18:30:00.000Z"
+	},
+	"totalEggProduced": 5000,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-06-01T20:06:16.337Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-01T20:06:16.337Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ed55fc983e36e21dcd4a98e"
+	},
+	"entryDate": {
+		"$date": "2020-05-31T18:30:00.000Z"
+	},
+	"totalEggProduced": 4910,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 4,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-06-01T20:06:33.364Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-01T20:06:33.364Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ed66e5083e36e21dcd4ab7e"
+	},
+	"entryDate": {
+		"$date": "2020-06-01T18:30:00.000Z"
+	},
+	"totalEggProduced": 4480,
+	"brokenEggProduced": 18,
+	"brokenEggInOperation": 0,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5ed66d2e83e36e21dcd4ab5e"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T15:20:48.848Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T15:20:48.848Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ee0dd81e462ae7e1dfbad5d"
+	},
+	"entryDate": {
+		"$date": "2020-06-09T18:30:00.000Z"
+	},
+	"totalEggProduced": 2,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 3,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5ec210c88e0e0d2d80ec4528"
+	},
+	"createdAt": {
+		"$date": "2020-06-10T13:17:53.075Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-10T13:17:53.075Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ee88f76e462ae7e1dfbad8a"
+	},
+	"entryDate": {
+		"$date": "2020-06-14T18:30:00.000Z"
+	},
+	"totalEggProduced": 4978,
+	"brokenEggProduced": 12,
+	"brokenEggInOperation": 9,
+	"totalMortality": 2,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5ee632ede462ae7e1dfbad85"
+	},
+	"createdAt": {
+		"$date": "2020-06-16T09:23:02.486Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-16T09:23:02.486Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5ee9c027e462ae7e1dfbadb0"
+	},
+	"entryDate": {
+		"$date": "2020-06-16T18:30:00.000Z"
+	},
+	"totalEggProduced": 5203,
+	"brokenEggProduced": 7,
+	"brokenEggInOperation": 60,
+	"totalMortality": 4,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5ee632ede462ae7e1dfbad85"
+	},
+	"createdAt": {
+		"$date": "2020-06-17T07:03:03.510Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-17T07:03:03.510Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5eeacd12e462ae7e1dfbadb3"
+	},
+	"entryDate": {
+		"$date": "2020-06-16T18:30:00.000Z"
+	},
+	"totalEggProduced": 4080,
+	"brokenEggProduced": 45,
+	"brokenEggInOperation": 43,
+	"totalMortality": 3,
+	"remarks": "कल बारिश हुई थी ",
+	"flockId": {
+		"$oid": "5ee99bd1e462ae7e1dfbad90"
+	},
+	"createdAt": {
+		"$date": "2020-06-18T02:10:26.036Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-18T02:10:26.036Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5eec3c0ae462ae7e1dfbadd6"
+	},
+	"entryDate": {
+		"$date": "2020-06-17T18:30:00.000Z"
+	},
+	"totalEggProduced": 4140,
+	"brokenEggProduced": 90,
+	"brokenEggInOperation": 5,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5ee99bd1e462ae7e1dfbad90"
+	},
+	"createdAt": {
+		"$date": "2020-06-19T04:16:10.853Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-19T04:16:10.853Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5eec3ddee462ae7e1dfbadfc"
+	},
+	"entryDate": {
+		"$date": "2020-06-17T18:30:00.000Z"
+	},
+	"totalEggProduced": 5099,
+	"brokenEggProduced": 6,
+	"brokenEggInOperation": 0,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eec3c7ae462ae7e1dfbaddc"
+	},
+	"createdAt": {
+		"$date": "2020-06-19T04:23:58.243Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-19T04:23:58.243Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5f0ef4d5b03d07272bbdcdb1"
+	},
+	"entryDate": {
+		"$date": "2020-07-14T18:30:00.000Z"
+	},
+	"totalEggProduced": 200,
+	"brokenEggProduced": 1,
+	"brokenEggInOperation": 1,
+	"totalMortality": 1,
+	"remarks": "test",
+	"flockId": {
+		"$oid": "5eaebfd66933504a671bed09"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T12:21:41.370Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T13:23:55.512Z"
+	},
+	"totalCullingBirds": 1
+}
+{
+	"_id": {
+		"$oid": "5f0ef50bb03d07272bbdcdb5"
+	},
+	"entryDate": {
+		"$date": "2020-07-13T18:30:00.000Z"
+	},
+	"totalEggProduced": 100,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaebfd66933504a671bed09"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T12:22:35.488Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T12:22:35.489Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5f0ef5a2b03d07272bbdcdb9"
+	},
+	"entryDate": {
+		"$date": "2020-07-12T18:30:00.000Z"
+	},
+	"totalEggProduced": 1200,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaebfd66933504a671bed09"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T12:25:06.867Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T12:25:06.867Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5f0ef65cb03d07272bbdcdbc"
+	},
+	"entryDate": {
+		"$date": "2020-07-11T18:30:00.000Z"
+	},
+	"totalEggProduced": 200,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaebfd66933504a671bed09"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T12:28:12.601Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T12:28:12.601Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5f46bdb7b03d07272bbdd135"
+	},
+	"entryDate": {
+		"$date": "2020-08-26T18:30:00.000Z"
+	},
+	"totalEggProduced": 400,
+	"brokenEggProduced": 2,
+	"brokenEggInOperation": 0,
+	"totalMortality": 0,
+	"remarks": null,
+	"flockId": {
+		"$oid": "5eaebfd66933504a671bed09"
+	},
+	"createdAt": {
+		"$date": "2020-08-26T19:53:27.868Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-26T19:54:35.826Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5f4cb97fb03d07272bbdd1a2"
+	},
+	"entryDate": {
+		"$date": "2020-08-30T18:30:00.000Z"
+	},
+	"totalEggProduced": 6500,
+	"brokenEggProduced": 20,
+	"brokenEggInOperation": 300,
+	"totalMortality": 5,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5f4cb845b03d07272bbdd182"
+	},
+	"createdAt": {
+		"$date": "2020-08-31T08:49:03.765Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-31T08:49:03.765Z"
+	},
+	"totalCullingBirds": 2
+}
+{
+	"_id": {
+		"$oid": "5f6f835cb03d07272bbdd7c6"
+	},
+	"entryDate": {
+		"$date": "2020-09-25T18:30:00.000Z"
+	},
+	"totalEggProduced": 35,
+	"brokenEggProduced": 4,
+	"brokenEggInOperation": 5,
+	"totalMortality": 2,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5f6f822ab03d07272bbdd7a6"
+	},
+	"createdAt": {
+		"$date": "2020-09-26T18:07:24.596Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T18:07:24.596Z"
+	},
+	"totalCullingBirds": 8776
+}
+{
+	"_id": {
+		"$oid": "5f734703b03d07272bbdd86b"
+	},
+	"entryDate": {
+		"$date": "2020-09-28T18:30:00.000Z"
+	},
+	"totalEggProduced": 3500,
+	"brokenEggProduced": 0,
+	"brokenEggInOperation": 0,
+	"totalMortality": 0,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-09-29T14:38:59.885Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-29T14:38:59.885Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5f8312f0b03d07272bbddcfe"
+	},
+	"entryDate": {
+		"$date": "2020-10-10T18:30:00.000Z"
+	},
+	"totalEggProduced": 1845,
+	"brokenEggProduced": 3,
+	"brokenEggInOperation": 4,
+	"totalMortality": 2,
+	"remarks": "1",
+	"flockId": {
+		"$oid": "5f8311d0b03d07272bbddcd5"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:13:04.200Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:13:04.201Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5f831455b03d07272bbddd05"
+	},
+	"entryDate": {
+		"$date": "2020-10-10T18:30:00.000Z"
+	},
+	"totalEggProduced": 1845,
+	"brokenEggProduced": 2,
+	"brokenEggInOperation": 4,
+	"totalMortality": 1,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5f83138eb03d07272bbddd01"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:19:01.550Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:19:01.550Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5f874a03b03d07272bbdde78"
+	},
+	"entryDate": {
+		"$date": "2020-10-14T18:30:00.000Z"
+	},
+	"totalEggProduced": 100,
+	"brokenEggProduced": 10,
+	"brokenEggInOperation": 1,
+	"totalMortality": 5,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5f87473bb03d07272bbdde58"
+	},
+	"createdAt": {
+		"$date": "2020-10-14T18:57:07.528Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-14T18:57:07.528Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5fa9922ab03d07272bbde756"
+	},
+	"entryDate": {
+		"$date": "2020-11-09T18:30:00.000Z"
+	},
+	"totalEggProduced": 5250,
+	"brokenEggProduced": 12,
+	"brokenEggInOperation": 18,
+	"totalMortality": 2,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5fa990edb03d07272bbde736"
+	},
+	"createdAt": {
+		"$date": "2020-11-09T19:02:02.353Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-09T19:02:02.353Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "5fb8b3c6b03d07272bbdebc9"
+	},
+	"entryDate": {
+		"$date": "2020-11-20T18:30:00.000Z"
+	},
+	"totalEggProduced": 4000,
+	"brokenEggProduced": 10,
+	"brokenEggInOperation": 10,
+	"totalMortality": 2,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2020-11-21T06:29:26.804Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-21T06:29:26.804Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "601a8d8db03d07272bbe026c"
+	},
+	"entryDate": {
+		"$date": "2021-02-02T18:30:00.000Z"
+	},
+	"totalEggProduced": 3000,
+	"brokenEggProduced": 2,
+	"brokenEggInOperation": 0,
+	"totalMortality": 2,
+	"remarks": "",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2021-02-03T11:48:29.784Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-03T11:48:29.784Z"
+	},
+	"totalCullingBirds": 0
+}
+{
+	"_id": {
+		"$oid": "60261e32b03d07272bbe044f"
+	},
+	"entryDate": {
+		"$date": "2021-02-11T18:30:00.000Z"
+	},
+	"totalEggProduced": 4000,
+	"brokenEggProduced": 20,
+	"brokenEggInOperation": 20,
+	"totalMortality": 10,
+	"remarks": "None",
+	"flockId": {
+		"$oid": "5eaec2c06933504a671bed34"
+	},
+	"createdAt": {
+		"$date": "2021-02-12T06:20:34.693Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-12T06:20:34.693Z"
+	},
+	"totalCullingBirds": 100
+}

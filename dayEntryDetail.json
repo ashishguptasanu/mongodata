@@ -1,0 +1,1240 @@
+{
+	"_id": {
+		"$oid": "5ecd631583e36e21dcd4a87d"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 16,
+	"dayEntryId": {
+		"$oid": "5ecd631583e36e21dcd4a87c"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed0c"
+	},
+	"createdAt": {
+		"$date": "2020-05-26T18:42:29.541Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-26T18:42:29.541Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecd6d5183e36e21dcd4a87f"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 18,
+	"dayEntryId": {
+		"$oid": "5ecd630883e36e21dcd4a879"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed0c"
+	},
+	"createdAt": {
+		"$date": "2020-05-26T19:26:09.583Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-26T19:26:09.583Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecd6d6b83e36e21dcd4a882"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 18,
+	"dayEntryId": {
+		"$oid": "5ecd6d6b83e36e21dcd4a881"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed0c"
+	},
+	"createdAt": {
+		"$date": "2020-05-26T19:26:35.301Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-26T19:26:35.301Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea71b83e36e21dcd4a8d7"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ecea71b83e36e21dcd4a8d6"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:44:59.626Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:44:59.626Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea72d83e36e21dcd4a8da"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ecea72d83e36e21dcd4a8d9"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:45:17.576Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:45:17.576Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea74583e36e21dcd4a8dd"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ecea74583e36e21dcd4a8dc"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:45:41.478Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:45:41.478Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea75783e36e21dcd4a8e0"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ecea75783e36e21dcd4a8df"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:45:59.938Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:45:59.938Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea76d83e36e21dcd4a8e3"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ecea76d83e36e21dcd4a8e2"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:46:21.578Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:46:21.579Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea77c83e36e21dcd4a8e6"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ecea77c83e36e21dcd4a8e5"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:46:36.135Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:46:36.135Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea79283e36e21dcd4a8e9"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ecea79283e36e21dcd4a8e8"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:46:58.482Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:46:58.482Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea79f83e36e21dcd4a8ec"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ecea79f83e36e21dcd4a8eb"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:47:11.060Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:47:11.060Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea7bc83e36e21dcd4a8ef"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ecea7bc83e36e21dcd4a8ee"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:47:40.586Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:47:40.586Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea7bc83e36e21dcd4a8f0"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ecea7bc83e36e21dcd4a8ee"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:47:40.586Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:47:40.586Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea7d583e36e21dcd4a8f3"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ecea7d583e36e21dcd4a8f2"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:48:05.071Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:48:05.071Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea7d583e36e21dcd4a8f4"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ecea7d583e36e21dcd4a8f2"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:48:05.071Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:48:05.071Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea7f883e36e21dcd4a8f7"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ecea7f883e36e21dcd4a8f6"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:48:40.985Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:48:40.985Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea7f883e36e21dcd4a8f8"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ecea7f883e36e21dcd4a8f6"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:48:40.985Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:48:40.985Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea87383e36e21dcd4a91e"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ecea87383e36e21dcd4a91d"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:50:43.278Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:50:43.278Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecea89c83e36e21dcd4a921"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ecea89c83e36e21dcd4a920"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T17:51:24.645Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T17:51:24.645Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb12783e36e21dcd4a92b"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 1150,
+	"dayEntryId": {
+		"$oid": "5eceb12783e36e21dcd4a92a"
+	},
+	"itemId": {
+		"$oid": "5ecea84383e36e21dcd4a900"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:27:51.488Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:27:51.488Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb16483e36e21dcd4a92e"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 1125,
+	"dayEntryId": {
+		"$oid": "5eceb16483e36e21dcd4a92d"
+	},
+	"itemId": {
+		"$oid": "5ecea84383e36e21dcd4a900"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:28:52.928Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:28:52.928Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb18283e36e21dcd4a933"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 1140,
+	"dayEntryId": {
+		"$oid": "5eceb18283e36e21dcd4a932"
+	},
+	"itemId": {
+		"$oid": "5ecea84383e36e21dcd4a900"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:29:22.412Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:29:22.412Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb1b183e36e21dcd4a936"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 1150,
+	"dayEntryId": {
+		"$oid": "5eceb1b183e36e21dcd4a935"
+	},
+	"itemId": {
+		"$oid": "5ecea84383e36e21dcd4a900"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:30:09.235Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:30:09.235Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb1ce83e36e21dcd4a939"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 1185,
+	"dayEntryId": {
+		"$oid": "5eceb1ce83e36e21dcd4a938"
+	},
+	"itemId": {
+		"$oid": "5ecea84383e36e21dcd4a900"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:30:38.813Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:30:38.813Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb1f383e36e21dcd4a93c"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 1140,
+	"dayEntryId": {
+		"$oid": "5eceb1f383e36e21dcd4a93b"
+	},
+	"itemId": {
+		"$oid": "5ecea84383e36e21dcd4a900"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:31:15.418Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:31:15.418Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb21b83e36e21dcd4a93f"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 1150,
+	"dayEntryId": {
+		"$oid": "5eceb21b83e36e21dcd4a93e"
+	},
+	"itemId": {
+		"$oid": "5ecea84383e36e21dcd4a900"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:31:55.085Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:31:55.085Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb23d83e36e21dcd4a942"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 1150,
+	"dayEntryId": {
+		"$oid": "5eceb23d83e36e21dcd4a941"
+	},
+	"itemId": {
+		"$oid": "5ecea84383e36e21dcd4a900"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:32:29.052Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:32:29.052Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb26d83e36e21dcd4a946"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 1180,
+	"dayEntryId": {
+		"$oid": "5eceb26d83e36e21dcd4a945"
+	},
+	"itemId": {
+		"$oid": "5ecea84383e36e21dcd4a900"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:33:17.383Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:33:17.383Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceb50e83e36e21dcd4a94f"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 1150,
+	"dayEntryId": {
+		"$oid": "5eceb32683e36e21dcd4a948"
+	},
+	"itemId": {
+		"$oid": "5ecea84383e36e21dcd4a900"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T18:44:30.572Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T18:44:30.572Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eceba8683e36e21dcd4a956"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 1100,
+	"dayEntryId": {
+		"$oid": "5eceaa7d83e36e21dcd4a926"
+	},
+	"itemId": {
+		"$oid": "5ecea84383e36e21dcd4a900"
+	},
+	"createdAt": {
+		"$date": "2020-05-27T19:07:50.034Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-27T19:07:50.034Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ecfa2cc83e36e21dcd4a962"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 15,
+	"dayEntryId": {
+		"$oid": "5ecfa2cc83e36e21dcd4a961"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed0c"
+	},
+	"createdAt": {
+		"$date": "2020-05-28T11:38:52.097Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-28T11:38:52.097Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed0b7b783e36e21dcd4a967"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 12,
+	"dayEntryId": {
+		"$oid": "5ed0b7b783e36e21dcd4a966"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed0c"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T07:20:23.766Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T07:20:23.766Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed0bf7483e36e21dcd4a96a"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ed0bf7483e36e21dcd4a969"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T07:53:24.823Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T07:53:24.823Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed0cd9883e36e21dcd4a973"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ecea86383e36e21dcd4a91a"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T08:53:44.140Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T08:53:44.140Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed1115c83e36e21dcd4a986"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ed1108d83e36e21dcd4a97f"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-05-29T13:42:52.756Z"
+	},
+	"updatedAt": {
+		"$date": "2020-05-29T13:42:52.756Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed55fa883e36e21dcd4a989"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ed55fa883e36e21dcd4a988"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-06-01T20:06:00.443Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-01T20:06:00.443Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed55fb883e36e21dcd4a98c"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ed55fb883e36e21dcd4a98b"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-06-01T20:06:16.339Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-01T20:06:16.339Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed55fc983e36e21dcd4a98f"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5ed55fc983e36e21dcd4a98e"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-06-01T20:06:33.365Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-01T20:06:33.366Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ed66e5083e36e21dcd4ab7f"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 900,
+	"dayEntryId": {
+		"$oid": "5ed66e5083e36e21dcd4ab7e"
+	},
+	"itemId": {
+		"$oid": "5ed66d2e83e36e21dcd4ab61"
+	},
+	"createdAt": {
+		"$date": "2020-06-02T15:20:48.850Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-02T15:20:48.850Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee0dd81e462ae7e1dfbad5e"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 50,
+	"dayEntryId": {
+		"$oid": "5ee0dd81e462ae7e1dfbad5d"
+	},
+	"itemId": {
+		"$oid": "5ec20ee18e0e0d2d80ec4508"
+	},
+	"createdAt": {
+		"$date": "2020-06-10T13:17:53.077Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-10T13:17:53.077Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee88f76e462ae7e1dfbad8b"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 1050,
+	"dayEntryId": {
+		"$oid": "5ee88f76e462ae7e1dfbad8a"
+	},
+	"itemId": {
+		"$oid": "5ed5fb0083e36e21dcd4aa5d"
+	},
+	"createdAt": {
+		"$date": "2020-06-16T09:23:02.487Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-16T09:23:02.487Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ee9c027e462ae7e1dfbadb1"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 1050,
+	"dayEntryId": {
+		"$oid": "5ee9c027e462ae7e1dfbadb0"
+	},
+	"itemId": {
+		"$oid": "5ed5fb0083e36e21dcd4aa5d"
+	},
+	"createdAt": {
+		"$date": "2020-06-17T07:03:03.511Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-17T07:03:03.511Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eeacd12e462ae7e1dfbadb4"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 600,
+	"dayEntryId": {
+		"$oid": "5eeacd12e462ae7e1dfbadb3"
+	},
+	"itemId": {
+		"$oid": "5ee99bd1e462ae7e1dfbad93"
+	},
+	"createdAt": {
+		"$date": "2020-06-18T02:10:26.040Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-18T02:10:26.040Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eec3c0ae462ae7e1dfbadd7"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 700,
+	"dayEntryId": {
+		"$oid": "5eec3c0ae462ae7e1dfbadd6"
+	},
+	"itemId": {
+		"$oid": "5ee99bd1e462ae7e1dfbad93"
+	},
+	"createdAt": {
+		"$date": "2020-06-19T04:16:10.863Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-19T04:16:10.863Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5eec3ddee462ae7e1dfbadfd"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 650,
+	"dayEntryId": {
+		"$oid": "5eec3ddee462ae7e1dfbadfc"
+	},
+	"itemId": {
+		"$oid": "5eec3c7ae462ae7e1dfbaddf"
+	},
+	"createdAt": {
+		"$date": "2020-06-19T04:23:58.246Z"
+	},
+	"updatedAt": {
+		"$date": "2020-06-19T04:23:58.246Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0ef50bb03d07272bbdcdb6"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 1,
+	"dayEntryId": {
+		"$oid": "5f0ef50bb03d07272bbdcdb5"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed0c"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T12:22:35.491Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T12:22:35.491Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0ef50bb03d07272bbdcdb7"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 1,
+	"dayEntryId": {
+		"$oid": "5f0ef50bb03d07272bbdcdb5"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed0c"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T12:22:35.491Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T12:22:35.491Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0ef5a2b03d07272bbdcdba"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 2,
+	"dayEntryId": {
+		"$oid": "5f0ef5a2b03d07272bbdcdb9"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed0c"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T12:25:06.869Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T12:25:06.869Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0ef65cb03d07272bbdcdbd"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 4,
+	"dayEntryId": {
+		"$oid": "5f0ef65cb03d07272bbdcdbc"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed0c"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T12:28:12.603Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T12:28:12.603Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0f036bb03d07272bbdcdc1"
+	},
+	"type": "Medicine",
+	"unit": "ML",
+	"quantity": 2,
+	"dayEntryId": {
+		"$oid": "5f0ef4d5b03d07272bbdcdb1"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed0f"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T13:23:55.515Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T13:23:55.515Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f0f036bb03d07272bbdcdc2"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 10,
+	"dayEntryId": {
+		"$oid": "5f0ef4d5b03d07272bbdcdb1"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed0c"
+	},
+	"createdAt": {
+		"$date": "2020-07-15T13:23:55.516Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-15T13:23:55.516Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f46bdfbb03d07272bbdd138"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 5,
+	"dayEntryId": {
+		"$oid": "5f46bdb7b03d07272bbdd135"
+	},
+	"itemId": {
+		"$oid": "5eaebfd66933504a671bed0c"
+	},
+	"createdAt": {
+		"$date": "2020-08-26T19:54:35.831Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-26T19:54:35.831Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f4cb97fb03d07272bbdd1a3"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 500,
+	"dayEntryId": {
+		"$oid": "5f4cb97fb03d07272bbdd1a2"
+	},
+	"itemId": {
+		"$oid": "5f4cb845b03d07272bbdd185"
+	},
+	"createdAt": {
+		"$date": "2020-08-31T08:49:03.767Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-31T08:49:03.767Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f6f835cb03d07272bbdd7c7"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 1050,
+	"dayEntryId": {
+		"$oid": "5f6f835cb03d07272bbdd7c6"
+	},
+	"itemId": {
+		"$oid": "5f6f822ab03d07272bbdd7a9"
+	},
+	"createdAt": {
+		"$date": "2020-09-26T18:07:24.598Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-26T18:07:24.598Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f734703b03d07272bbdd86c"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 500,
+	"dayEntryId": {
+		"$oid": "5f734703b03d07272bbdd86b"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-09-29T14:38:59.898Z"
+	},
+	"updatedAt": {
+		"$date": "2020-09-29T14:38:59.898Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f8312f0b03d07272bbddcff"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 290,
+	"dayEntryId": {
+		"$oid": "5f8312f0b03d07272bbddcfe"
+	},
+	"itemId": {
+		"$oid": "5f8311d0b03d07272bbddcd8"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:13:04.203Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:13:04.203Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f831455b03d07272bbddd06"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 1,
+	"dayEntryId": {
+		"$oid": "5f831455b03d07272bbddd05"
+	},
+	"itemId": {
+		"$oid": "5f8311d0b03d07272bbddcd8"
+	},
+	"createdAt": {
+		"$date": "2020-10-11T14:19:01.553Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-11T14:19:01.553Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5f874a03b03d07272bbdde79"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 0,
+	"dayEntryId": {
+		"$oid": "5f874a03b03d07272bbdde78"
+	},
+	"itemId": {
+		"$oid": "5f87473bb03d07272bbdde5b"
+	},
+	"createdAt": {
+		"$date": "2020-10-14T18:57:07.530Z"
+	},
+	"updatedAt": {
+		"$date": "2020-10-14T18:57:07.530Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fa9922ab03d07272bbde757"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 900,
+	"dayEntryId": {
+		"$oid": "5fa9922ab03d07272bbde756"
+	},
+	"itemId": {
+		"$oid": "5fa990edb03d07272bbde739"
+	},
+	"createdAt": {
+		"$date": "2020-11-09T19:02:02.355Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-09T19:02:02.355Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5fb8b3c6b03d07272bbdebca"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 500,
+	"dayEntryId": {
+		"$oid": "5fb8b3c6b03d07272bbdebc9"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2020-11-21T06:29:26.806Z"
+	},
+	"updatedAt": {
+		"$date": "2020-11-21T06:29:26.806Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "601a8d8db03d07272bbe026d"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 500,
+	"dayEntryId": {
+		"$oid": "601a8d8db03d07272bbe026c"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2021-02-03T11:48:29.786Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-03T11:48:29.786Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "60261e32b03d07272bbe0450"
+	},
+	"type": "Feed",
+	"unit": "Kg",
+	"quantity": 10,
+	"dayEntryId": {
+		"$oid": "60261e32b03d07272bbe044f"
+	},
+	"itemId": {
+		"$oid": "5eaec2c06933504a671bed37"
+	},
+	"createdAt": {
+		"$date": "2021-02-12T06:20:34.695Z"
+	},
+	"updatedAt": {
+		"$date": "2021-02-12T06:20:34.695Z"
+	}
+}

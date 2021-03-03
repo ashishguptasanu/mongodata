@@ -1,0 +1,12 @@
+{
+	"_id": {
+		"$oid": "5f46bdfcb03d07272bbdd13b"
+	},
+	"mediaId": {
+		"$oid": "5f46bdfcb03d07272bbdd13a"
+	},
+	"refId": {
+		"$oid": "5f46bdb7b03d07272bbdd135"
+	},
+	"refType": "dayEntry"
+}

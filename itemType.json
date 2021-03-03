@@ -1,0 +1,65 @@
+{
+	"_id": {
+		"$oid": "5de226168ae59d3777232205"
+	},
+	"type": "purchase",
+	"name": "Other",
+	"createdAt": {
+		"$date": "2019-11-30T08:19:34.577Z"
+	},
+	"updatedAt": {
+		"$date": "2019-11-30T08:19:34.577Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5de226168ae59d3777232206"
+	},
+	"type": "purchase",
+	"name": "Medicine",
+	"createdAt": {
+		"$date": "2019-11-30T08:19:34.578Z"
+	},
+	"updatedAt": {
+		"$date": "2019-11-30T08:19:34.578Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5de226168ae59d3777232207"
+	},
+	"type": "sale",
+	"name": "Egg",
+	"createdAt": {
+		"$date": "2019-11-30T08:19:34.579Z"
+	},
+	"updatedAt": {
+		"$date": "2019-11-30T08:19:34.579Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5de226168ae59d3777232204"
+	},
+	"type": "purchase",
+	"name": "Feed",
+	"createdAt": {
+		"$date": "2019-11-30T08:19:34.571Z"
+	},
+	"updatedAt": {
+		"$date": "2019-11-30T08:19:34.571Z"
+	}
+}
+{
+	"_id": {
+		"$oid": "5de226168ae59d3777232209"
+	},
+	"type": "sale",
+	"name": "Other",
+	"createdAt": {
+		"$date": "2019-11-30T08:19:34.582Z"
+	},
+	"updatedAt": {
+		"$date": "2019-11-30T08:19:34.583Z"
+	}
+}
